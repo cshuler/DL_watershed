@@ -1,0 +1,14 @@
+name: GIS_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - notebook 
+  - geopandas
+  - rasterio
+  - fiona
+  - gdal

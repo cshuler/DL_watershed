@@ -1,0 +1,91 @@
+Status and steps
+
+Current status 12-20-19
+
+QSWAT workflow: 
+Remember: need to install QGIS, and QSWAT in a windows computer. Then its just command line run from the folder containing the namelist.py and the data folder.
+ 
+Got this working again, kind of, still nave some issues with running using the weather data from Falu model. (gives these lat lon out of bounds errors, but it still completes). Just put up the files for the Falu watersehd, havent re-tested for other watersheds. 
+
+Currenly need to re-think how to set up the raw input files so they are in correct formats and not too big for GitHub
+
+Perhaps should try for simplicities sake to test with just airport data. 
+
+
+
+Next steps: 
+Watershed model incrimental plan
+
+1: run python swart model for falu and post process into graph
+
+2: take rain data and stream data from Olkeba's Falu model and do Dll network
+
+3: take rain data and solar fad data against stream Dara in DLL network
+
+4: iterate using different variables to see if wx data can spit out stream data in falu wstershedbonly.
+
+5: then use airport weather data to try and predict streamflow using both SWaT and individual Dlls
+
+
+
+(Old)
+
+Big Project outline and to do list:
+
+Application #1: American Samoa
+- obtain Water station data from available online sources (USGS, NOAA, HI rainfall Atlas, etc...) 
+  - weather stations from UH-ASPA (have) 
+  - Weather data from Airport  (Have processing)
+  - Weather data from Tula  ( Have ( still need to get SLR for 2019))
+  - Weather data from ASCC  ( have soe, will need to process and update with new data) 
+  - Streamflow from USGS (have)
+  - Streamflow from UH-ASPA
+ 
+ - Gap fill in data with DL
+   - Streamflow UH-ASPA (done) 
+   - Streamflow USGS (pending) 
+   - Weather station data ( in progress)
+ 
+ - Generate SWAT models
+  - Prepare needed geographic datasets (Done)
+  - May have to manually make the base model framework in arcmap for each watershed with gauge records??  Hope can find script
+  - run, paramaterize, calibrate SWAT models (need to determine if possible to call SWAT cup with code.
+
+
+
+Qswat workflow notes: 
+Using https://github.com/VUB-HYDR/QSWAT_Automated_Workflow
+
+Big bugs so far.  Make sure all shapefiles and rasters are projected...
+
+Had to change the perpare project.py file line 193 to:
+
+    proj4_dic = {}
+    for item in projlist:
+     if (item == '+no_defs') or (item == ''):
+         continue
+      elif (item == '+south'):
+          proj4_dic["Yshift"] = 10000000.0
+     else:
+         proj4_dic[item.split("=")[0]] = item.split("=")[1]
+        
+ to accept a land in the southern hemisphere
+
+Now need to work on Wgen stuff
+
+
+
+
+
+
+
+
+
+- develop keras.tensorflow infrastructure to handle geographic data
+
+- create networks to mimic SWAT model inputs
+
+-generate randomized weather datasets for training (maybe weather generator? ) 
+- for training: run 1000 ish SWAT models with randomized weather data and obtain streamflows
+- use the input and optupt date from each of these, for each of the built models to train networks. 
+- For Validation, Run real weather and streamflow data through networks and compare against real streamflows.  

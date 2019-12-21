@@ -1,0 +1,1188 @@
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                                                 0/ 0/   0      0: 0: 0
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+         Number of years in run:    5
+         Area of watershed:        1.562 km2
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+Annual Summary for Watershed in year    1 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+Annual Summary for Watershed in year    2 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+Annual Summary for Watershed in year    3 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+    1  291.24   28.43  142.63    0.60    0.75    0.00   82.23  108.74  153.06  171.69    2.24    0.00    0.19    0.01    0.00     3.57    0.00    0.44    0.00
+    2  195.85   27.77   81.91    0.53    0.34    0.00   61.08  109.66  154.86  110.27    1.37    0.00    0.03    0.00    6.69     1.73    0.00    0.21    0.00
+    3  256.77   37.05   98.36    0.45    0.37    0.00   56.55  113.49  150.18  135.65    0.55    0.00    0.01    0.00    2.87     0.17    0.00    0.02    0.00
+    4  238.48   51.36  129.87    0.46    0.56    0.00   55.29   70.15  120.50  181.97    0.47    0.00    0.02    0.00    0.59     0.09    0.00    0.01    0.00
+    5  492.80  181.18  224.88    0.54    2.90    0.00   77.53   61.66   95.53  406.64    1.58    0.01    0.40    0.22    0.12     0.54    0.01    0.07    0.00
+    6   93.96    5.87   37.03    0.61    0.17    0.00   69.94   58.59  125.59   43.56    0.12    0.00    0.04    0.00    0.00     0.02    0.00    0.00    0.00
+    7  255.97   71.22   98.40    0.45    0.45    0.00   80.72   73.27  121.13  170.10    1.37    0.01    0.25    0.01    0.01     1.04    0.01    0.13    0.00
+    8  267.69   82.50  117.54    0.40    0.99    0.00   73.70   75.30  132.02  200.51    1.35    0.01    0.28    0.05    0.00     1.73    0.01    0.21    0.00
+    9  161.37   42.76   64.13    0.45    0.33    0.00   66.12   61.98  139.93  107.38    1.26    0.00    0.09    0.00    0.00     1.52    0.00    0.19    0.00
+   10  193.57   48.86   70.37    0.34    0.41    0.00   79.99   53.62  133.01  119.53    0.90    0.03    0.11    0.00    0.00     1.90    0.00    0.23    0.00
+   11  427.66  156.77  190.94    0.39    2.29    0.00   85.14   77.07  145.02  348.19    5.40    0.01    0.44    0.17    0.00     9.26    0.01    1.13    0.00
+   12  703.91  383.03  226.86    0.61    5.82    0.00   90.47   74.90  145.34  610.39   26.78    0.01    0.57    0.55    0.00    27.97    0.02    3.43    0.00
+
+ 2009 3579.26 1116.81 1482.92    5.83   15.39    0.00   90.47  938.41 1616.16 2605.89   43.37    0.11    2.43    1.01   10.28    49.54    0.07    6.07    0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+Annual Summary for Watershed in year    4 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+    1  727.58  383.62  242.11    0.85    6.65    0.00   88.12   96.63  126.60  626.44   50.44    0.00    0.55    0.58    0.00    50.90    0.03    6.23    0.00
+    2  406.58  175.07  158.79    0.92    3.11    0.00   72.51   95.94  129.12  335.34    6.80    0.01    0.18    0.24    6.53     2.69    0.00    0.33    0.00
+    3  128.21   15.44   53.58    0.84    0.04    0.00   36.90   93.93  150.56   69.99    0.29    0.00    0.00    0.00    2.56     0.01    0.00    0.00    0.00
+    4  265.67   31.00  127.01    0.47    0.68    0.00   51.31   90.60  118.93  158.60    0.50    0.00    0.05    0.00    0.74     0.01    0.00    0.00    0.00
+    5  169.92   18.69   92.61    0.47    0.44    0.00   53.06   58.41   95.13  111.92    0.29    0.00    0.11    0.00    0.08     0.01    0.00    0.00    0.00
+    6  129.73    4.44   66.75    0.37    0.40    0.00   54.22   57.76   79.27   71.65    0.09    0.00    0.15    0.00    0.03     0.00    0.00    0.00    0.00
+    7  213.10   25.16   99.62    0.28    0.53    0.00   69.04   64.20   92.33  125.02    0.38    0.00    0.23    0.01    0.19     0.03    0.00    0.00    0.00
+    8  110.94    7.19   56.51    0.32    0.22    0.00   60.53   64.26  111.48   64.20    0.19    0.00    0.08    0.00    0.11     0.02    0.00    0.00    0.00
+    9  248.96   55.62  117.00    0.30    0.55    0.00   67.55   68.61  115.24  172.98    1.22    0.00    0.26    0.01    0.09     0.35    0.00    0.04    0.00
+   10  393.81  149.86  140.78    0.41    0.94    0.00   82.92   76.81  114.62  290.82    7.72    0.01    0.22    0.01    0.07     2.02    0.01    0.25    0.00
+   11  235.16   62.88  123.25    0.49    1.61    0.00   75.34   65.27  113.13  186.94    1.46    0.00    0.20    0.02    0.00     0.53    0.00    0.07    0.00
+   12  317.20   70.93  149.88    0.61    2.06    0.00   84.52   84.12  110.50  221.46    6.52    0.01    0.22    0.03    0.00     1.30    0.00    0.16    0.00
+
+ 2010 3346.86  999.90 1427.90    6.33   17.23    0.00   84.52  916.55 1356.91 2435.35   75.88    0.04    2.26    0.91   10.41    57.89    0.05    7.09    0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+Annual Summary for Watershed in year    5 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+    1  660.82  248.43  305.36    0.77    9.36    0.00   83.36   98.92  121.61  554.62   39.12    0.01    0.56    0.38    0.00    37.53    0.02    4.59    0.00
+    2  343.99  112.80  152.20    0.96    3.31    0.00   59.20  100.77  131.21  266.10    4.64    0.00    0.11    0.12    5.36     1.93    0.01    0.24    0.00
+    3  148.16    3.96   52.91    0.85    0.02    0.00   29.22  114.41  174.63   57.82    0.13    0.00    0.00    0.00    1.44     0.00    0.00    0.00    0.00
+    4  103.01    4.10   53.21    0.43    0.12    0.00   18.97   62.33  126.90   57.92    0.07    0.00    0.00    0.00    0.62     0.01    0.00    0.00    0.00
+    5   94.93    1.50   39.18    0.12    0.11    0.00   20.62   52.60  112.95   40.92    0.09    0.00    0.04    0.00    0.08     0.00    0.00    0.00    0.00
+    6  180.30   17.57   92.35    0.17    0.36    0.00   32.31   58.55  108.22  110.18    0.22    0.00    0.14    0.00    0.07     0.01    0.00    0.00    0.00
+    7   59.45    0.92   21.80    0.15    0.02    0.00   29.16   39.65  143.49   22.95    0.02    0.00    0.02    0.00    0.20     0.00    0.00    0.00    0.00
+    8   98.91    0.83   38.96    0.07    0.10    0.00   31.88   55.10  133.79   39.90    0.08    0.00    0.05    0.00    0.13     0.00    0.00    0.00    0.00
+    9   49.24    0.52   22.22    0.05    0.06    0.00   19.11   40.37  150.80   22.83    0.02    0.00    0.05    0.00    0.10     0.00    0.00    0.00    0.00
+   10  325.55   32.69  189.25    0.04    0.78    0.00   58.17   58.71  137.86  221.92    0.75    0.00    0.50    0.02    0.06     0.26    0.00    0.03    0.00
+   11  408.64  117.96  206.55    0.39    1.02    0.00   71.21   75.02  105.58  325.00    5.62    0.00    0.23    0.01    0.00     1.95    0.01    0.24    0.00
+   12  249.30   54.13  117.20    0.68    0.59    0.00   76.05   72.62  132.91  172.04    3.35    0.00    0.11    0.01    0.00     0.97    0.00    0.12    0.00
+
+ 2011 2722.31  595.40 1291.20    4.68   15.87    0.00   76.05  829.05 1579.96 1892.19   54.12    0.02    1.82    0.55    8.07    42.66    0.04    5.22    0.00
+    1   30.35    7.05   10.03    0.02    0.07    0.00   81.09    3.21    3.58   17.04    0.32    0.00    0.01    0.00    0.00     0.09    0.00    0.01    0.00
+
+ 2011   30.35    7.05   10.03    0.02    0.07    0.00   81.09    3.21    3.58   17.04    0.32    0.00    0.01    0.00    0.00     0.09    0.00    0.01    0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+    FINAL VALUES
+
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+                                            Average Plant Values (kg/ha)
+
+  HRU       1 SUB   1 FRSE  Yld =  2604.1 BIOM =   3720.2
+  HRU       2 SUB   1 FRSE  Yld =  2603.1 BIOM =   3718.7
+  HRU       3 SUB   1 FRSE  Yld =  5104.9 BIOM =   7292.7
+  HRU       4 SUB   2 FRSE  Yld =  2585.6 BIOM =   3693.7
+  HRU       5 SUB   2 FRSE  Yld =  2585.3 BIOM =   3693.3
+  HRU       6 SUB   2 FRSE  Yld =  5141.0 BIOM =   7344.3
+  HRU       7 SUB   3 FRSE  Yld =  2604.6 BIOM =   3720.8
+  HRU       8 SUB   3 FRSE  Yld =  5151.7 BIOM =   7359.6
+  HRU       9 SUB   4 FRSE  Yld =  2606.2 BIOM =   3723.1
+  HRU      10 SUB   4 FRSE  Yld =  5162.0 BIOM =   7374.2
+  HRU      11 SUB   5 FRSE  Yld =  5140.7 BIOM =   7343.9
+  HRU      12 SUB   6 FRSE  Yld =  4986.8 BIOM =   7124.0
+  HRU      13 SUB   7 FRSE  Yld =  5160.7 BIOM =   7372.4
+  HRU      14 SUB   8 FRSE  Yld =  5140.7 BIOM =   7343.9
+  HRU      15 SUB   9 FRSE  Yld =  2585.6 BIOM =   3693.7
+  HRU      16 SUB   9 FRSE  Yld =  5140.6 BIOM =   7343.8
+  HRU      17 SUB  10 SWCH  Yld = 22068.0 BIOM =  35570.7
+  HRU      18 SUB  10 SWCH  Yld = 21995.9 BIOM =  35459.9
+  HRU      19 SUB  10 FRSE  Yld =  2583.2 BIOM =   3690.3
+  HRU      20 SUB  10 FRSE  Yld =  5141.6 BIOM =   7345.1
+  HRU      21 SUB  11 SWCH  Yld = 21978.2 BIOM =  35441.5
+  HRU      22 SUB  11 SWCH  Yld = 21971.8 BIOM =  35432.4
+  HRU      23 SUB  11 SWCH  Yld = 18272.7 BIOM =  29614.0
+  HRU      24 SUB  11 FRSE  Yld =  2604.9 BIOM =   3721.3
+  HRU      25 SUB  11 FRSE  Yld =  2605.5 BIOM =   3722.2
+  HRU      26 SUB  11 FRSE  Yld =  5159.2 BIOM =   7370.3
+  HRU      27 SUB  11 BARR  Yld =     0.0 BIOM =      0.8
+  HRU      28 SUB  11 BARR  Yld =     0.0 BIOM =      0.8
+  HRU      29 SUB  12 FRSE  Yld =  2605.4 BIOM =   3722.0
+  HRU      30 SUB  12 FRSE  Yld =  5160.2 BIOM =   7371.8
+  HRU      31 SUB  12 BARR  Yld =     0.0 BIOM =      0.8
+  HRU      32 SUB  12 BARR  Yld =     0.0 BIOM =      0.8
+  HRU      33 SUB  13 FRSE  Yld =  5140.1 BIOM =   7343.0
+  HRU      34 SUB  14 FRSE  Yld =  2585.1 BIOM =   3693.0
+  HRU      35 SUB  14 FRSE  Yld =  5140.4 BIOM =   7343.5
+  HRU      36 SUB  15 FRSE  Yld =  5140.7 BIOM =   7343.8
+  HRU      37 SUB  16 FRSE  Yld =  5159.0 BIOM =   7370.0
+  HRU      38 SUB  16 FRSE  Yld =    40.6 BIOM =     57.9
+  HRU      39 SUB  16 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU      40 SUB  16 FRSE  Yld =    40.6 BIOM =     57.9
+  HRU      41 SUB  17 FRSE  Yld =  5160.1 BIOM =   7371.6
+  HRU      42 SUB  17 BARR  Yld =     0.0 BIOM =      0.8
+  HRU      43 SUB  17 BARR  Yld =     0.0 BIOM =      0.8
+  HRU      44 SUB  17 BARR  Yld =     0.0 BIOM =      0.8
+  HRU      45 SUB  17 FRSD  Yld =  4757.2 BIOM =   8765.6
+  HRU      46 SUB  18 FRSE  Yld =  4986.6 BIOM =   7123.7
+  HRU      47 SUB  19 FRSE  Yld =  2585.6 BIOM =   3693.7
+  HRU      48 SUB  19 FRSE  Yld =  2585.2 BIOM =   3693.2
+  HRU      49 SUB  19 FRSE  Yld =  5140.1 BIOM =   7343.0
+  HRU      50 SUB  20 FRSE  Yld =  2585.7 BIOM =   3693.8
+  HRU      51 SUB  20 FRSE  Yld =  5141.2 BIOM =   7344.6
+  HRU      52 SUB  21 FRSE  Yld =  4986.4 BIOM =   7123.5
+  HRU      53 SUB  21 FRSE  Yld =    41.9 BIOM =     59.9
+  HRU      54 SUB  21 FRSE  Yld =    41.9 BIOM =     59.9
+  HRU      55 SUB  22 FRSE  Yld =  2584.7 BIOM =   3692.4
+  HRU      56 SUB  22 FRSE  Yld =  2585.0 BIOM =   3692.9
+  HRU      57 SUB  22 FRSE  Yld =  5139.8 BIOM =   7342.6
+  HRU      58 SUB  23 FRSE  Yld =  5140.1 BIOM =   7343.0
+  HRU      59 SUB  24 FRSE  Yld =  2585.8 BIOM =   3694.0
+  HRU      60 SUB  24 FRSE  Yld =  5140.0 BIOM =   7342.9
+  HRU      61 SUB  25 FRSE  Yld =  5140.4 BIOM =   7343.4
+  HRU      62 SUB  26 FRSE  Yld =  2586.0 BIOM =   3694.2
+  HRU      63 SUB  26 FRSE  Yld =  5140.3 BIOM =   7343.3
+  HRU      64 SUB  27 FRSE  Yld =  2586.0 BIOM =   3694.3
+  HRU      65 SUB  27 FRSE  Yld =  5140.3 BIOM =   7343.3
+  HRU      66 SUB  27 FRSD  Yld =  5363.5 BIOM =   9887.1
+  HRU      67 SUB  28 FRSE  Yld =  2585.4 BIOM =   3693.5
+  HRU      68 SUB  28 FRSE  Yld =  5140.2 BIOM =   7343.1
+  HRU      69 SUB  29 FRSE  Yld =  5140.1 BIOM =   7343.0
+  HRU      70 SUB  30 FRSE  Yld =  5160.1 BIOM =   7371.6
+  HRU      71 SUB  31 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU      72 SUB  31 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU      73 SUB  31 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU      74 SUB  31 FRSE  Yld =  5158.7 BIOM =   7369.6
+  HRU      75 SUB  31 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU      76 SUB  31 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU      77 SUB  31 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU      78 SUB  31 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU      79 SUB  31 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU      80 SUB  31 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU      81 SUB  32 FRSE  Yld =  5139.8 BIOM =   7342.6
+  HRU      82 SUB  33 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      83 SUB  33 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      84 SUB  33 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      85 SUB  33 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU      86 SUB  33 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU      87 SUB  33 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU      88 SUB  33 FRSE  Yld =  5005.4 BIOM =   7150.6
+  HRU      89 SUB  33 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      90 SUB  33 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      91 SUB  33 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      92 SUB  34 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      93 SUB  34 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      94 SUB  34 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU      95 SUB  34 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU      96 SUB  34 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU      97 SUB  34 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU      98 SUB  34 FRSE  Yld =  5005.3 BIOM =   7150.5
+  HRU      99 SUB  34 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     100 SUB  34 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     101 SUB  34 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     102 SUB  35 FRSE  Yld =  2605.4 BIOM =   3721.9
+  HRU     103 SUB  35 FRSE  Yld =  5158.6 BIOM =   7369.4
+  HRU     104 SUB  36 FRSE  Yld =  5140.2 BIOM =   7343.1
+  HRU     105 SUB  36 FRSD  Yld =  5371.2 BIOM =   9904.3
+  HRU     106 SUB  37 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     107 SUB  37 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     108 SUB  37 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     109 SUB  37 FRSE  Yld =  4951.3 BIOM =   7073.2
+  HRU     110 SUB  37 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     111 SUB  37 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     112 SUB  37 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     113 SUB  37 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     114 SUB  37 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     115 SUB  37 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     116 SUB  38 FRSE  Yld =  2593.6 BIOM =   3705.1
+  HRU     117 SUB  38 FRSE  Yld =  2590.9 BIOM =   3701.3
+  HRU     118 SUB  38 FRSE  Yld =  5146.4 BIOM =   7352.1
+  HRU     119 SUB  39 FRSE  Yld =  2585.5 BIOM =   3693.6
+  HRU     120 SUB  39 FRSE  Yld =  5140.4 BIOM =   7343.4
+  HRU     121 SUB  39 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     122 SUB  39 FRSD  Yld =  5360.7 BIOM =   9880.9
+  HRU     123 SUB  40 FRSE  Yld =  5140.2 BIOM =   7343.2
+  HRU     124 SUB  40 FRSD  Yld =  5361.4 BIOM =   9882.6
+  HRU     125 SUB  41 FRSE  Yld =  5160.4 BIOM =   7372.0
+  HRU     126 SUB  42 FRSE  Yld =  5144.5 BIOM =   7349.3
+  HRU     127 SUB  42 FRSD  Yld =  2932.1 BIOM =   9635.9
+  HRU     128 SUB  43 FRSE  Yld =  5005.7 BIOM =   7151.1
+  HRU     129 SUB  44 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     130 SUB  44 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     131 SUB  44 FRSE  Yld =  2667.3 BIOM =   3810.4
+  HRU     132 SUB  44 FRSE  Yld =  4951.4 BIOM =   7073.4
+  HRU     133 SUB  44 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     134 SUB  44 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     135 SUB  44 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     136 SUB  44 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     137 SUB  44 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     138 SUB  45 FRSE  Yld =  2611.3 BIOM =   3730.4
+  HRU     139 SUB  45 FRSE  Yld =  2609.0 BIOM =   3727.1
+  HRU     140 SUB  45 FRSE  Yld =  5005.6 BIOM =   7150.9
+  HRU     141 SUB  46 FRSE  Yld =  2585.4 BIOM =   3693.5
+  HRU     142 SUB  46 FRSE  Yld =  5140.6 BIOM =   7343.7
+  HRU     143 SUB  46 FRSD  Yld =  3630.0 BIOM =   6486.4
+  HRU     144 SUB  46 FRSD  Yld =  5360.0 BIOM =   9879.5
+  HRU     145 SUB  47 FRSE  Yld =  5005.5 BIOM =   7150.8
+  HRU     146 SUB  48 FRSE  Yld =  2611.3 BIOM =   3730.4
+  HRU     147 SUB  48 FRSE  Yld =  5005.6 BIOM =   7150.8
+  HRU     148 SUB  49 FRSE  Yld =  2611.3 BIOM =   3730.4
+  HRU     149 SUB  49 FRSE  Yld =  5005.6 BIOM =   7150.8
+  HRU     150 SUB  50 FRSE  Yld =  2594.8 BIOM =   3706.8
+  HRU     151 SUB  50 FRSE  Yld =  2595.7 BIOM =   3708.1
+  HRU     152 SUB  50 FRSE  Yld =  5141.5 BIOM =   7345.0
+  HRU     153 SUB  50 BARR  Yld =     0.0 BIOM =      0.9
+  HRU     154 SUB  50 FRSD  Yld =  2930.9 BIOM =   9632.7
+  HRU     155 SUB  51 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     156 SUB  51 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     157 SUB  51 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     158 SUB  51 FRSE  Yld =  2611.0 BIOM =   3730.0
+  HRU     159 SUB  51 FRSE  Yld =  2610.2 BIOM =   3728.9
+  HRU     160 SUB  51 FRSE  Yld =  5005.5 BIOM =   7150.7
+  HRU     161 SUB  51 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     162 SUB  51 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     163 SUB  51 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     164 SUB  51 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     165 SUB  51 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     166 SUB  52 FRSE  Yld =  2595.2 BIOM =   3707.5
+  HRU     167 SUB  52 FRSE  Yld =  5140.2 BIOM =   7343.1
+  HRU     168 SUB  52 FRSD  Yld =  2669.7 BIOM =   7754.7
+  HRU     169 SUB  52 FRSD  Yld =  2931.5 BIOM =   9634.5
+  HRU     170 SUB  53 FRSD  Yld =  2669.5 BIOM =   7754.2
+  HRU     171 SUB  53 FRSD  Yld =  2931.2 BIOM =   9633.8
+  HRU     172 SUB  54 FRSE  Yld =  2594.8 BIOM =   3706.8
+  HRU     173 SUB  54 FRSE  Yld =  5141.2 BIOM =   7344.6
+  HRU     174 SUB  54 FRSD  Yld =  2669.5 BIOM =   7754.2
+  HRU     175 SUB  54 FRSD  Yld =  2669.0 BIOM =   7757.2
+  HRU     176 SUB  54 FRSD  Yld =  2930.9 BIOM =   9632.6
+  HRU     177 SUB  55 FRSE  Yld =  2605.4 BIOM =   3722.0
+  HRU     178 SUB  55 FRSE  Yld =  5160.8 BIOM =   7372.5
+  HRU     179 SUB  56 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     180 SUB  56 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     181 SUB  56 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     182 SUB  56 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     183 SUB  56 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     184 SUB  57 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     185 SUB  57 FRSE  Yld =  2604.6 BIOM =   3720.9
+  HRU     186 SUB  57 FRSE  Yld =  2605.4 BIOM =   3722.0
+  HRU     187 SUB  57 FRSE  Yld =  5160.1 BIOM =   7371.5
+  HRU     188 SUB  58 FRSE  Yld =  2585.2 BIOM =   3693.2
+  HRU     189 SUB  58 FRSE  Yld =  5140.3 BIOM =   7343.3
+  HRU     190 SUB  59 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     191 SUB  59 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     192 SUB  59 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     193 SUB  59 FRSE  Yld =  2611.5 BIOM =   3730.7
+  HRU     194 SUB  59 FRSE  Yld =  2609.9 BIOM =   3728.5
+  HRU     195 SUB  59 FRSE  Yld =  5005.4 BIOM =   7150.5
+  HRU     196 SUB  59 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     197 SUB  59 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     198 SUB  59 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     199 SUB  59 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     200 SUB  59 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     201 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     202 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     203 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     204 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     205 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     206 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     207 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     208 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     209 SUB  60 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     210 SUB  61 FRSE  Yld =  2585.6 BIOM =   3693.7
+  HRU     211 SUB  61 FRSE  Yld =  5141.2 BIOM =   7344.6
+  HRU     212 SUB  62 FRSE  Yld =  5160.7 BIOM =   7372.5
+  HRU     213 SUB  63 FRSE  Yld =  2605.4 BIOM =   3722.1
+  HRU     214 SUB  63 FRSE  Yld =  2606.2 BIOM =   3723.1
+  HRU     215 SUB  63 FRSE  Yld =  5159.0 BIOM =   7369.9
+  HRU     216 SUB  63 FRSE  Yld =    40.6 BIOM =     57.9
+  HRU     217 SUB  63 FRSE  Yld =    40.6 BIOM =     57.9
+  HRU     218 SUB  63 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     219 SUB  63 FRSE  Yld =    40.6 BIOM =     57.9
+  HRU     220 SUB  63 FRSE  Yld =    40.6 BIOM =     57.9
+  HRU     221 SUB  64 FRSE  Yld =  2585.8 BIOM =   3694.1
+  HRU     222 SUB  64 FRSE  Yld =  5141.8 BIOM =   7345.5
+  HRU     223 SUB  65 FRSE  Yld =  5141.7 BIOM =   7345.4
+  HRU     224 SUB  66 FRSE  Yld =  2585.4 BIOM =   3693.4
+  HRU     225 SUB  66 FRSE  Yld =  5142.1 BIOM =   7345.8
+  HRU     226 SUB  67 SWCH  Yld = 21969.0 BIOM =  35428.3
+  HRU     227 SUB  67 SWCH  Yld = 17683.7 BIOM =  28694.5
+  HRU     228 SUB  67 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     229 SUB  67 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     230 SUB  67 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     231 SUB  68 FRSE  Yld =  2606.3 BIOM =   3723.3
+  HRU     232 SUB  68 FRSE  Yld =  5161.4 BIOM =   7373.5
+  HRU     233 SUB  69 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU     234 SUB  69 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU     235 SUB  69 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU     236 SUB  69 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU     237 SUB  69 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU     238 SUB  69 SWCH  Yld = 18107.8 BIOM =  29357.2
+  HRU     239 SUB  69 FRSE  Yld =  2605.3 BIOM =   3721.9
+  HRU     240 SUB  69 FRSE  Yld =  2604.7 BIOM =   3721.0
+  HRU     241 SUB  69 FRSE  Yld =  5161.9 BIOM =   7374.1
+  HRU     242 SUB  69 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     243 SUB  69 FRSD  Yld =  5383.3 BIOM =   9921.7
+  HRU     244 SUB  69 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     245 SUB  69 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     246 SUB  69 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     247 SUB  69 BARR  Yld =     0.0 BIOM =      0.6
+  HRU     248 SUB  69 BARR  Yld =     0.0 BIOM =      0.6
+  HRU     249 SUB  69 BARR  Yld =     0.0 BIOM =      0.6
+  HRU     250 SUB  70 FRSE  Yld =  5143.4 BIOM =   7347.8
+  HRU     251 SUB  70 FRSD  Yld =  2935.1 BIOM =   9642.9
+  HRU     252 SUB  71 FRSE  Yld =  2604.7 BIOM =   3721.0
+  HRU     253 SUB  71 FRSE  Yld =  2604.6 BIOM =   3720.8
+  HRU     254 SUB  71 FRSE  Yld =  5160.8 BIOM =   7372.6
+  HRU     255 SUB  72 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     256 SUB  72 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     257 SUB  72 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     258 SUB  72 FRSE  Yld =  2611.4 BIOM =   3730.6
+  HRU     259 SUB  72 FRSE  Yld =  2610.7 BIOM =   3729.6
+  HRU     260 SUB  72 FRSE  Yld =  5005.4 BIOM =   7150.5
+  HRU     261 SUB  72 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     262 SUB  72 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     263 SUB  72 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     264 SUB  72 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     265 SUB  72 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     266 SUB  72 FRSE  Yld =    44.7 BIOM =     63.9
+  HRU     267 SUB  73 FRSE  Yld =  2594.9 BIOM =   3706.9
+  HRU     268 SUB  73 FRSE  Yld =  2593.1 BIOM =   3704.4
+  HRU     269 SUB  73 FRSE  Yld =  5140.7 BIOM =   7343.9
+  HRU     270 SUB  73 FRSD  Yld =  2933.8 BIOM =   9639.9
+  HRU     271 SUB  74 FRSE  Yld =  2604.4 BIOM =   3720.6
+  HRU     272 SUB  74 FRSE  Yld =  2605.7 BIOM =   3722.4
+  HRU     273 SUB  74 FRSE  Yld =  5160.7 BIOM =   7372.4
+  HRU     274 SUB  75 FRSE  Yld =  2594.5 BIOM =   3706.5
+  HRU     275 SUB  75 FRSE  Yld =  2593.5 BIOM =   3705.0
+  HRU     276 SUB  75 FRSE  Yld =  5140.8 BIOM =   7344.0
+  HRU     277 SUB  75 FRSD  Yld =  2933.6 BIOM =   9639.6
+  HRU     278 SUB  76 FRSE  Yld =  2585.3 BIOM =   3693.3
+  HRU     279 SUB  76 FRSE  Yld =  2582.7 BIOM =   3689.5
+  HRU     280 SUB  76 FRSE  Yld =  5140.3 BIOM =   7343.3
+  HRU     281 SUB  76 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     282 SUB  76 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     283 SUB  76 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     284 SUB  76 FRSD  Yld =  5361.2 BIOM =   9882.1
+  HRU     285 SUB  77 FRSD  Yld =    56.9 BIOM =     81.2
+  HRU     286 SUB  77 FRSD  Yld =    56.9 BIOM =     81.2
+  HRU     287 SUB  77 FRSD  Yld =    56.9 BIOM =     81.2
+  HRU     288 SUB  77 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     289 SUB  77 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     290 SUB  77 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     291 SUB  77 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     292 SUB  78 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     293 SUB  78 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     294 SUB  78 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     295 SUB  78 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     296 SUB  78 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     297 SUB  78 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     298 SUB  79 FRSE  Yld =  2585.6 BIOM =   3693.7
+  HRU     299 SUB  79 FRSE  Yld =  5140.6 BIOM =   7343.8
+  HRU     300 SUB  79 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     301 SUB  79 FRSD  Yld =  5371.3 BIOM =   9904.5
+  HRU     302 SUB  80 FRSE  Yld =  2584.5 BIOM =   3692.2
+  HRU     303 SUB  80 FRSE  Yld =  2582.2 BIOM =   3688.8
+  HRU     304 SUB  80 FRSE  Yld =  5140.2 BIOM =   7343.1
+  HRU     305 SUB  80 FRSD  Yld =  5361.2 BIOM =   9882.0
+  HRU     306 SUB  81 FRSE  Yld =  2584.6 BIOM =   3692.3
+  HRU     307 SUB  81 FRSE  Yld =  2581.3 BIOM =   3687.5
+  HRU     308 SUB  81 FRSE  Yld =  5140.2 BIOM =   7343.1
+  HRU     309 SUB  81 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     310 SUB  81 FRSD  Yld =  5365.7 BIOM =   9892.0
+  HRU     311 SUB  82 FRSE  Yld =  2585.2 BIOM =   3693.1
+  HRU     312 SUB  82 FRSE  Yld =  5140.4 BIOM =   7343.4
+  HRU     313 SUB  82 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     314 SUB  83 FRSE  Yld =  2585.4 BIOM =   3693.5
+  HRU     315 SUB  83 FRSE  Yld =  2583.3 BIOM =   3690.4
+  HRU     316 SUB  83 FRSE  Yld =  5140.4 BIOM =   7343.4
+  HRU     317 SUB  84 FRSE  Yld =  2584.6 BIOM =   3692.3
+  HRU     318 SUB  84 FRSE  Yld =  2581.6 BIOM =   3688.0
+  HRU     319 SUB  84 FRSE  Yld =  5140.2 BIOM =   7343.2
+  HRU     320 SUB  85 FRSE  Yld =  2585.7 BIOM =   3693.8
+  HRU     321 SUB  85 FRSE  Yld =  4407.9 BIOM =   6297.1
+  HRU     322 SUB  86 FRSE  Yld =  2585.1 BIOM =   3692.9
+  HRU     323 SUB  86 FRSE  Yld =  2582.4 BIOM =   3689.2
+  HRU     324 SUB  86 FRSE  Yld =  5141.1 BIOM =   7344.4
+  HRU     325 SUB  87 FRSE  Yld =  2584.5 BIOM =   3692.1
+  HRU     326 SUB  87 FRSE  Yld =  2582.0 BIOM =   3688.5
+  HRU     327 SUB  87 FRSE  Yld =  5140.3 BIOM =   7343.2
+  HRU     328 SUB  88 FRSE  Yld =  4903.1 BIOM =   7004.5
+  HRU     329 SUB  89 FRSE  Yld =  2584.3 BIOM =   3691.8
+  HRU     330 SUB  89 FRSE  Yld =  2581.9 BIOM =   3688.4
+  HRU     331 SUB  89 FRSE  Yld =  5140.7 BIOM =   7343.8
+  HRU     332 SUB  90 FRSE  Yld =  2584.4 BIOM =   3692.1
+  HRU     333 SUB  90 FRSE  Yld =  2583.9 BIOM =   3691.3
+  HRU     334 SUB  90 FRSE  Yld =  5140.7 BIOM =   7343.8
+  HRU     335 SUB  91 FRSE  Yld =  2584.1 BIOM =   3691.6
+  HRU     336 SUB  91 FRSE  Yld =  2582.0 BIOM =   3688.6
+  HRU     337 SUB  91 FRSE  Yld =  5141.1 BIOM =   7344.4
+  HRU     338 SUB  92 SWCH  Yld = 22075.8 BIOM =  35581.6
+  HRU     339 SUB  92 SWCH  Yld = 22072.9 BIOM =  35577.6
+  HRU     340 SUB  92 SWCH  Yld = 21632.5 BIOM =  34901.2
+  HRU     341 SUB  92 FRSE  Yld =  2584.0 BIOM =   3691.4
+  HRU     342 SUB  92 FRSE  Yld =  2579.9 BIOM =   3685.5
+  HRU     343 SUB  92 FRSE  Yld =  5140.7 BIOM =   7343.9
+  HRU     344 SUB  93 FRSE  Yld =  2604.2 BIOM =   3720.3
+  HRU     345 SUB  93 FRSE  Yld =  2604.0 BIOM =   3720.0
+  HRU     346 SUB  93 FRSE  Yld =  5159.2 BIOM =   7370.3
+  HRU     347 SUB  94 FRSE  Yld =  2604.3 BIOM =   3720.5
+  HRU     348 SUB  94 FRSE  Yld =  2606.2 BIOM =   3723.1
+  HRU     349 SUB  94 FRSE  Yld =  5161.8 BIOM =   7374.0
+  HRU     350 SUB  95 FRSE  Yld =  2605.4 BIOM =   3722.1
+  HRU     351 SUB  95 FRSE  Yld =  5163.1 BIOM =   7375.8
+  HRU     352 SUB  96 SWCH  Yld = 17562.8 BIOM =  28506.4
+  HRU     353 SUB  96 FRSE  Yld =  2603.8 BIOM =   3719.7
+  HRU     354 SUB  96 FRSE  Yld =  2602.9 BIOM =   3718.5
+  HRU     355 SUB  96 FRSE  Yld =  5158.6 BIOM =   7369.4
+  HRU     356 SUB  97 SWCH  Yld = 17560.6 BIOM =  28502.9
+  HRU     357 SUB  97 FRSE  Yld =  2604.1 BIOM =   3720.2
+  HRU     358 SUB  97 FRSE  Yld =  2602.4 BIOM =   3717.7
+  HRU     359 SUB  97 FRSE  Yld =  5158.8 BIOM =   7369.7
+  HRU     360 SUB  97 FRSE  Yld =    40.6 BIOM =     57.9
+  HRU     361 SUB  97 FRSE  Yld =    40.6 BIOM =     57.9
+  HRU     362 SUB  97 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     363 SUB  97 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     364 SUB  97 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     365 SUB  97 BARR  Yld =     0.0 BIOM =      0.8
+  HRU     366 SUB  97 BARR  Yld =     0.0 BIOM =      0.6
+  HRU     367 SUB  97 FRSD  Yld =  3648.1 BIOM =   6514.3
+  HRU     368 SUB  97 FRSD  Yld =  3632.1 BIOM =   6474.9
+  HRU     369 SUB  97 FRSD  Yld =    53.1 BIOM =     93.9
+  HRU     370 SUB  98 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     371 SUB  98 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     372 SUB  98 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     373 SUB  98 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     374 SUB  99 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     375 SUB  99 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     376 SUB  99 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     377 SUB  99 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     378 SUB  99 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     379 SUB  99 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     380 SUB  99 FRSE  Yld =  5160.3 BIOM =   7371.9
+  HRU     381 SUB  99 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU     382 SUB  99 FRSE  Yld =    42.5 BIOM =     60.7
+  HRU     383 SUB 100 FRSE  Yld =  5159.8 BIOM =   7371.1
+  HRU     384 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     385 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     386 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     387 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     388 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     389 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     390 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     391 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     392 SUB 100 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     393 SUB 101 FRSE  Yld =  2604.9 BIOM =   3721.4
+  HRU     394 SUB 101 FRSE  Yld =  2605.2 BIOM =   3721.7
+  HRU     395 SUB 101 FRSE  Yld =  5159.9 BIOM =   7371.3
+  HRU     396 SUB 101 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     397 SUB 101 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     398 SUB 101 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     399 SUB 101 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     400 SUB 101 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     401 SUB 101 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     402 SUB 102 FRSE  Yld =  2605.4 BIOM =   3722.0
+  HRU     403 SUB 102 FRSE  Yld =  2608.3 BIOM =   3726.1
+  HRU     404 SUB 102 FRSE  Yld =  5160.2 BIOM =   7371.8
+  HRU     405 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     406 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     407 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     408 SUB 102 FRSE  Yld =  5196.0 BIOM =   7422.9
+  HRU     409 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     410 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     411 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     412 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     413 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     414 SUB 102 FRSE  Yld =    40.5 BIOM =     57.9
+  HRU     415 SUB 103 FRSE  Yld =  5005.2 BIOM =   7150.3
+  HRU     416 SUB 103 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     417 SUB 103 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     418 SUB 103 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     419 SUB 103 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     420 SUB 103 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     421 SUB 103 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     422 SUB 103 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     423 SUB 103 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     424 SUB 103 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     425 SUB 103 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     426 SUB 104 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     427 SUB 104 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     428 SUB 104 BARR  Yld =     0.0 BIOM =      0.3
+  HRU     429 SUB 104 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     430 SUB 104 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     431 SUB 104 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     432 SUB 104 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     433 SUB 104 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     434 SUB 104 FRSE  Yld =    42.4 BIOM =     60.5
+  HRU     435 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     436 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     437 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     438 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     439 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     440 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     441 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     442 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     443 SUB 105 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     444 SUB 106 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     445 SUB 106 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     446 SUB 106 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     447 SUB 106 FRSE  Yld =  2670.8 BIOM =   3815.4
+  HRU     448 SUB 106 FRSE  Yld =  4951.3 BIOM =   7073.2
+  HRU     449 SUB 106 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     450 SUB 106 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     451 SUB 106 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     452 SUB 106 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     453 SUB 106 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     454 SUB 106 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     455 SUB 107 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     456 SUB 107 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     457 SUB 107 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     458 SUB 107 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     459 SUB 107 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     460 SUB 107 FRSE  Yld =    41.7 BIOM =     59.6
+  HRU     461 SUB 107 FRSE  Yld =  4951.3 BIOM =   7073.3
+  HRU     462 SUB 107 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     463 SUB 107 FRSE  Yld =    43.9 BIOM =     62.7
+  HRU     464 SUB 107 FRSE  Yld =    41.7 BIOM =     59.6
+
+    HRU STATISTICS
+
+                AVE ANNUAL VALUES
+
+   HRU  SUB  SOIL       AREAkm2    CN     AWCmm   USLE_LS  IRRmm  AUTONkh AUTOPkh  MIXEF PRECmm SURQGENmm   GWQmm    ETmm   SEDth  NO3kgh  ORGNkgh BIOMth   YLDth  SURQmm
+      1   1   FAGASA     .117E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.57 1220.90  961.07    0.10    0.02    1.81    4.85    3.40  895.82
+      2   1   FAGASA     .900E-04   70.00   97.20    0.30    0.00    0.00    0.00    0.20 3187.02  896.29 1222.67  960.87    0.90    0.06   10.91    4.85    3.39  896.19
+      3   1   FAGASA     .448E-01   70.00   97.20    8.54    0.00    0.00    0.00    0.20 3187.02  781.54 1493.27  888.77   34.70    2.30   53.27    9.60    6.72  781.54
+      4   2   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.60 1285.77  965.21    0.00    0.02    0.00    4.82    3.38  975.94
+      5   2   FAGASA     .900E-05   70.00   97.20    0.38    0.00    0.00    0.00    0.20 3340.78  977.24 1288.08  964.98    0.57    0.07    6.15    4.82    3.37  977.15
+      6   2   FAGASA     .381E-01   70.00   97.20   13.07    0.00    0.00    0.00    0.20 3340.78  846.94 1585.95  890.62   56.17    2.42   54.65    9.67    6.77  846.94
+      7   3   FAGASA     .180E-04   70.00   97.20    0.27    0.00    0.00    0.00    0.20 3187.02  896.39 1222.01  960.97    0.44    0.05    5.44    4.85    3.40  896.20
+      8   3   FAGASA     .172E-01   70.00   97.20    9.36    0.00    0.00    0.00    0.20 3187.02  765.76 1521.25  882.83   33.40    2.44   53.09    9.70    6.79  765.76
+      9   4   FAGASA     .900E-05   70.00   97.20    0.26    0.00    0.00    0.00    0.20 3187.02  896.39 1221.93  960.99    0.28    0.05    3.29    4.86    3.40  896.20
+     10   4   FAGASA     .119E-01   70.00   97.20   11.18    0.00    0.00    0.00    0.20 3187.02  763.56 1526.02  882.27   38.10    2.48   53.37    9.72    6.81  763.56
+     11   5   FAGASA     .124E-01   70.00   97.20   16.67    0.00    0.00    0.00    0.20 3340.78  846.98 1586.88  890.57   62.69    2.43   55.13    9.67    6.77  846.98
+     12   6   FAGASA     .210E-01   70.00   97.20   11.69    0.00    0.00    0.00    0.20 2878.04  586.50 1408.54  873.98   36.52    2.65   53.30    9.39    6.57  586.50
+     13   7   FAGASA     .937E-02   70.00   97.20   13.88    0.00    0.00    0.00    0.20 3187.02  763.56 1526.64  882.29   45.97    2.49   53.90    9.72    6.80  763.56
+     14   8   FAGASA     .914E-02   70.00   97.20   17.19    0.00    0.00    0.00    0.20 3340.78  846.98 1587.01  890.58   62.34    2.44   55.10    9.67    6.77  846.98
+     15   9   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.61 1285.90  965.10    0.00    0.02    0.00    4.82    3.38  975.95
+     16   9   FAGASA     .180E-01   70.00   97.20   16.37    0.00    0.00    0.00    0.20 3340.78  846.98 1586.80  890.58   64.37    2.43   55.24    9.67    6.77  846.98
+     17  10   FAGASA     .900E-05   72.00   97.20    0.46    0.00  131.88    0.00    0.20 3340.78 1021.19 1182.14 1035.26    0.00    5.85    0.00   45.05   29.15 1021.09
+     18  10   FAGASA     .450E-04   72.00   97.20    2.07    0.00  132.84    0.00    0.20 3340.78 1017.21 1194.53 1033.12    0.02    7.25    0.18   44.87   29.02 1017.20
+     19  10   FAGASA     .270E-04   70.00   97.20    0.31    0.00    0.00    0.00    0.20 3340.78  977.28 1287.72  965.03    0.76    0.06    9.14    4.82    3.37  977.17
+     20  10   FAGASA     .205E-01   70.00   97.20   11.93    0.00    0.00    0.00    0.20 3340.78  846.93 1585.64  890.64   47.62    2.42   54.08    9.67    6.77  846.93
+     21  11   FAGASA     .180E-04   72.00   97.20    0.07    0.00  130.26    0.00    0.20 3187.02  936.05 1119.33 1030.76    0.00    5.20    0.00   44.80   28.98  934.33
+     22  11   FAGASA     .180E-04   72.00   97.20    0.27    0.00  130.39    0.00    0.20 3187.02  935.58 1120.93 1030.43    0.00    5.37    0.00   44.79   28.96  935.36
+     23  11   FAGASA     .234E-03   72.00   97.20    7.80    0.00  125.46    0.00    0.20 3187.02  721.26 1523.84  919.03    0.39   11.53    3.09   35.40   23.00  721.26
+     24  11   FAGASA     .450E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.57 1220.68  961.21    0.03    0.02    0.60    4.85    3.40  895.08
+     25  11   FAGASA     .180E-04   70.00   97.20    0.40    0.00    0.00    0.00    0.20 3187.02  896.20 1223.00  960.97    0.78    0.07    9.08    4.85    3.40  896.12
+     26  11   FAGASA     .185E-01   70.00   97.20   16.30    0.00    0.00    0.00    0.20 3187.02  763.53 1527.16  882.33   58.60    2.49   54.76    9.72    6.80  763.53
+     27  11   FAGASA     .180E-04   91.00   97.20    0.18    0.00    0.00    0.00    0.20 3187.02 2052.43  195.34  889.52    1.95    0.28   22.36    0.00    0.00 2051.26
+     28  11   FAGASA     .900E-04   91.00   97.20    3.30    0.00    0.00    0.00    0.20 3187.02 2020.58  279.85  849.96   83.31    2.23   53.80    0.00    0.00 2020.58
+     29  12   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.57 1220.69  961.21    0.00    0.02    0.00    4.86    3.40  895.08
+     30  12   FAGASA     .109E-01   70.00   97.20   15.36    0.00    0.00    0.00    0.20 3187.02  763.53 1526.96  882.32   51.83    2.49   54.31    9.72    6.80  763.53
+     31  12   FAGASA     .180E-04   91.00   97.20    0.44    0.00    0.00    0.00    0.20 3187.02 2052.13  196.39  888.93    7.24    0.30   45.66    0.00    0.00 2051.66
+     32  12   FAGASA     .657E-03   91.00   97.20   21.18    0.00    0.00    0.00    0.20 3187.02 1706.55  722.40  754.38  586.75    2.39   55.71    0.00    0.00 1706.56
+     33  13   FAGASA     .176E-01   70.00   97.20   19.93    0.00    0.00    0.00    0.20 3340.78  846.99 1587.68  890.56   78.22    2.44   55.97    9.67    6.77  846.99
+     34  14   FAGASA     .900E-05   70.00   97.20    0.29    0.00    0.00    0.00    0.20 3340.78  977.40 1287.16  965.01    0.34    0.05    4.01    4.82    3.37  977.20
+     35  14   FAGASA     .103E-01   70.00   97.20   18.70    0.00    0.00    0.00    0.20 3340.78  846.97 1587.37  890.59   68.75    2.44   55.51    9.67    6.77  846.97
+     36  15   FAGASA     .949E-02   70.00   97.20   17.60    0.00    0.00    0.00    0.20 3340.78  847.00 1587.11  890.55   64.09    2.44   55.22    9.67    6.77  847.00
+     37  16   FAGASA     .106E-01   70.00   97.20   18.59    0.00    0.00    0.00    0.20 3187.02  763.51 1527.64  882.35   62.52    2.51   55.08    9.72    6.80  763.51
+     38  16   URBAN LA   .900E-05   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.78    0.00 1050.07    0.00    0.01    0.00    0.07    0.05 2116.89
+     39  16   URBAN LA   .112E-02   77.00    1.50   13.41    0.00    0.00    0.00    0.20 3187.02 2121.52    0.04 1049.97    0.00    0.01    0.00    0.07    0.05 2121.52
+     40  16   URBAN LA   .990E-04   77.00    1.50    2.44    0.00    0.00    0.00    0.20 3187.02 2121.77    0.00 1050.06    0.00    0.01    0.00    0.07    0.05 2121.76
+     41  17   FAGASA     .258E-02   70.00   97.20   18.48    0.00    0.00    0.00    0.20 3187.02  763.50 1527.61  882.37   52.48    2.51   54.35    9.72    6.80  763.50
+     42  17   FAGASA     .630E-04   91.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02 2052.54  194.70  889.82    0.60    0.28   11.06    0.00    0.00 2049.76
+     43  17   FAGASA     .810E-04   91.00   97.20    0.31    0.00    0.00    0.00    0.20 3187.02 2052.31  195.69  889.41    6.04    0.27   45.00    0.00    0.00 2051.42
+     44  17   FAGASA     .844E-02   91.00   97.20   20.40    0.00    0.00    0.00    0.20 3187.02 1706.40  722.51  754.40  767.10    2.39   55.72    0.00    0.00 1706.40
+     45  17   FAGASA     .630E-04   77.00   97.20    4.43    0.00    0.00    0.00    0.20 3187.02 1096.50 1121.70  933.56    3.95    1.68   28.49   17.23    8.38 1096.50
+     46  18   FAGASA     .121E-01   70.00   97.20   16.45    0.00    0.00    0.00    0.20 2878.04  586.40 1409.25  874.04   48.09    2.68   53.99    9.38    6.57  586.40
+     47  19   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.61 1285.92  965.08    0.00    0.02    0.00    4.82    3.38  975.95
+     48  19   FAGASA     .900E-05   70.00   97.20    0.24    0.00    0.00    0.00    0.20 3340.78  977.44 1287.01  964.98    0.28    0.05    3.33    4.82    3.37  977.21
+     49  19   FAGASA     .205E-01   70.00   97.20   19.48    0.00    0.00    0.00    0.20 3340.78  846.98 1587.57  890.57   77.83    2.44   55.95    9.67    6.77  846.98
+     50  20   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.58 1285.63  965.33    0.00    0.02    0.00    4.82    3.38  975.92
+     51  20   FAGASA     .935E-02   70.00   97.20   14.16    0.00    0.00    0.00    0.20 3340.78  846.90 1586.21  890.68   51.47    2.43   54.34    9.67    6.77  846.90
+     52  21   FAGASA     .906E-02   70.00   97.20   18.66    0.00    0.00    0.00    0.20 2878.04  586.36 1409.56  874.07   52.72    2.69   54.29    9.38    6.57  586.36
+     53  21   URBAN LA   .900E-05   77.00    1.50    0.14    0.00    0.00    0.00    0.20 2878.04 1824.20    0.00 1040.15    0.00    0.01    0.00    0.08    0.05 1823.22
+     54  21   URBAN LA   .102E-02   77.00    1.50   13.82    0.00    0.00    0.00    0.20 2878.04 1824.00    0.04 1040.03    0.00    0.01    0.00    0.08    0.05 1824.00
+     55  22   FAGASA     .270E-04   70.00   97.20    0.12    0.00    0.00    0.00    0.20 3340.78  977.55 1286.37  965.01    0.14    0.03    1.87    4.82    3.37  977.15
+     56  22   FAGASA     .900E-05   70.00   97.20    0.42    0.00    0.00    0.00    0.20 3340.78  977.25 1288.43  964.81    0.66    0.07    7.11    4.82    3.37  977.16
+     57  22   FAGASA     .283E-01   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  846.99 1587.99  890.56   87.97    2.45   56.31    9.67    6.77  846.99
+     58  23   FAGASA     .946E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  846.98 1587.98  890.58   77.15    2.45   55.92    9.67    6.77  846.98
+     59  24   FAGASA     .900E-05   70.00   97.20    0.30    0.00    0.00    0.00    0.20 3340.78  977.32 1287.92  964.81    0.38    0.06    4.19    4.82    3.38  977.21
+     60  24   FAGASA     .158E-01   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  847.02 1588.00  890.53   82.05    2.45   56.12    9.67    6.77  847.02
+     61  25   FAGASA     .204E-01   70.00   97.20   17.62    0.00    0.00    0.00    0.20 3340.78  846.98 1587.11  890.57   70.34    2.43   55.60    9.67    6.77  846.98
+     62  26   FAGASA     .900E-05   70.00   97.20    0.18    0.00    0.00    0.00    0.20 3340.78  977.47 1286.65  965.08    0.11    0.04    1.42    4.82    3.38  977.20
+     63  26   FAGASA     .110E-01   70.00   97.20   19.26    0.00    0.00    0.00    0.20 3340.78  846.96 1587.50  890.60   71.39    2.44   55.66    9.67    6.77  846.96
+     64  27   FAGASA     .900E-05   70.00   97.20    0.14    0.00    0.00    0.00    0.20 3340.78  977.53 1286.52  964.99    0.08    0.03    1.02    4.82    3.38  977.18
+     65  27   FAGASA     .161E-01   70.00   97.20   18.75    0.00    0.00    0.00    0.20 3340.78  847.00 1587.40  890.55   72.77    2.44   55.72    9.67    6.77  847.00
+     66  27   FAGASA     .214E-02   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.22 1372.57  895.81   25.29    1.87   47.97   19.22    9.30 1066.22
+     67  28   FAGASA     .180E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.62 1285.98  965.04    0.00    0.02    0.00    4.82    3.38  975.96
+     68  28   FAGASA     .982E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  847.00 1587.99  890.55   77.50    2.45   55.94    9.67    6.77  847.00
+     69  29   FAGASA     .123E-01   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  846.99 1587.98  890.57   79.63    2.45   56.03    9.67    6.77  846.99
+     70  30   FAGASA     .246E-01   70.00   97.20   14.39    0.00    0.00    0.00    0.20 3187.02  763.54 1526.75  882.31   53.50    2.49   54.42    9.72    6.80  763.54
+     71  31   URBAN LA   .720E-04   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.69    0.00 1050.15    0.00    0.01    0.00    0.07    0.05 2119.07
+     72  31   URBAN LA   .162E-03   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3187.02 2121.69    0.00 1050.15    0.00    0.01    0.00    0.07    0.05 2121.32
+     73  31   URBAN LA   .355E-02   77.00    1.50    7.05    0.00    0.00    0.00    0.20 3187.02 2121.52    0.03 1050.09    0.00    0.01    0.00    0.07    0.05 2121.52
+     74  31   FAGASA     .978E-02   70.00   97.20   20.32    0.00    0.00    0.00    0.20 3187.02  763.48 1527.98  882.40   67.70    2.52   55.44    9.72    6.80  763.48
+     75  31   URBAN LA   .144E-03   70.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2076.07    0.00 1090.10    0.00    0.01    0.00    0.08    0.05 2073.44
+     76  31   URBAN LA   .270E-03   70.00    1.50    0.31    0.00    0.00    0.00    0.20 3187.02 2076.07    0.00 1090.10    0.00    0.01    0.00    0.08    0.05 2075.44
+     77  31   URBAN LA   .187E-02   70.00    1.50    2.34    0.00    0.00    0.00    0.20 3187.02 2076.06    0.00 1090.09    0.00    0.01    0.00    0.08    0.05 2076.04
+     78  31   URBAN LA   .540E-04   70.00    1.50    0.10    0.00    0.00    0.00    0.20 3187.02 2076.07    0.00 1090.10    0.00    0.01    0.00    0.08    0.05 2074.48
+     79  31   URBAN LA   .270E-03   70.00    1.50    0.31    0.00    0.00    0.00    0.20 3187.02 2076.06    0.00 1090.10    0.00    0.01    0.00    0.08    0.05 2075.70
+     80  31   URBAN LA   .101E-02   70.00    1.50    2.27    0.00    0.00    0.00    0.20 3187.02 2076.06    0.00 1090.09    0.00    0.01    0.00    0.08    0.05 2076.04
+     81  32   FAGASA     .256E-01   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  846.97 1587.97  890.60   86.95    2.45   56.28    9.67    6.77  846.97
+     82  33   URBAN LA   .900E-04   70.00    1.50    0.08    0.00    0.00    0.00    0.20 3033.26 1916.93    0.00 1097.88    0.00    0.01    0.00    0.08    0.06 1914.97
+     83  33   URBAN LA   .720E-04   70.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 1916.92    0.00 1097.88    0.00    0.01    0.00    0.08    0.06 1916.34
+     84  33   URBAN LA   .378E-03   70.00    1.50    1.76    0.00    0.00    0.00    0.20 3033.26 1916.92    0.00 1097.87    0.00    0.01    0.00    0.08    0.06 1916.90
+     85  33   URBAN LA   .180E-04   77.00    1.50    0.12    0.00    0.00    0.00    0.20 3033.26 1964.03    0.00 1055.03    0.00    0.01    0.00    0.08    0.05 1962.81
+     86  33   URBAN LA   .180E-04   77.00    1.50    0.35    0.00    0.00    0.00    0.20 3033.26 1964.03    0.00 1055.03    0.00    0.01    0.00    0.08    0.05 1963.71
+     87  33   URBAN LA   .576E-03   77.00    1.50    3.70    0.00    0.00    0.00    0.20 3033.26 1963.98    0.01 1055.00    0.00    0.01    0.00    0.08    0.05 1963.98
+     88  33   FAGASA     .825E-02   70.00   97.20   15.81    0.00    0.00    0.00    0.20 3033.26  667.38 1468.71  886.89   49.18    2.70   54.11    9.44    6.61  667.38
+     89  33   URBAN LA   .360E-04   70.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1916.93    0.00 1097.88    0.00    0.01    0.00    0.08    0.06 1912.23
+     90  33   URBAN LA   .450E-04   70.00    1.50    0.33    0.00    0.00    0.00    0.20 3033.26 1916.92    0.00 1097.88    0.00    0.01    0.00    0.08    0.06 1916.60
+     91  33   URBAN LA   .585E-03   70.00    1.50    2.41    0.00    0.00    0.00    0.20 3033.26 1916.92    0.00 1097.87    0.00    0.01    0.00    0.08    0.06 1916.90
+     92  34   URBAN LA   .360E-03   70.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1916.87    0.00 1097.93    0.00    0.01    0.00    0.08    0.06 1914.39
+     93  34   URBAN LA   .189E-03   70.00    1.50    0.28    0.00    0.00    0.00    0.20 3033.26 1916.86    0.00 1097.93    0.00    0.01    0.00    0.08    0.06 1916.50
+     94  34   URBAN LA   .486E-03   70.00    1.50    1.70    0.00    0.00    0.00    0.20 3033.26 1916.86    0.00 1097.93    0.00    0.01    0.00    0.08    0.06 1916.84
+     95  34   URBAN LA   .162E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.96    0.00 1055.10    0.00    0.01    0.00    0.08    0.05 1961.49
+     96  34   URBAN LA   .810E-04   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 1963.96    0.00 1055.10    0.00    0.01    0.00    0.08    0.05 1963.62
+     97  34   URBAN LA   .336E-02   77.00    1.50   14.00    0.00    0.00    0.00    0.20 3033.26 1963.74    0.04 1054.98    0.00    0.01    0.00    0.08    0.05 1963.74
+     98  34   FAGASA     .609E-02   70.00   97.20   18.36    0.00    0.00    0.00    0.20 3033.26  667.33 1469.12  886.93   55.12    2.72   54.49    9.44    6.61  667.33
+     99  34   URBAN LA   .135E-03   70.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1916.87    0.00 1097.93    0.00    0.01    0.00    0.08    0.06 1912.16
+    100  34   URBAN LA   .540E-04   70.00    1.50    0.33    0.00    0.00    0.00    0.20 3033.26 1916.86    0.00 1097.93    0.00    0.01    0.00    0.08    0.06 1916.54
+    101  34   URBAN LA   .522E-03   70.00    1.50    2.55    0.00    0.00    0.00    0.20 3033.26 1916.86    0.00 1097.93    0.00    0.01    0.00    0.08    0.06 1916.85
+    102  35   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.58 1220.83  961.09    0.00    0.02    0.00    4.86    3.40  895.09
+    103  35   FAGASA     .218E-01   70.00   97.20   20.34    0.00    0.00    0.00    0.20 3187.02  763.56 1528.04  882.27   74.59    2.51   55.82    9.72    6.80  763.56
+    104  36   FAGASA     .102E-01   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  847.01 1587.99  890.54   77.86    2.45   55.95    9.67    6.77  847.01
+    105  36   FAGASA     .270E-04   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.25 1372.58  895.79   14.71    1.89   41.62   19.26    9.32 1066.25
+    106  37   URBAN LA   .630E-04   77.00    1.50    0.08    0.00    0.00    0.00    0.20 2721.81 1685.68    0.00 1023.07    0.00    0.01    0.00    0.08    0.05 1683.95
+    107  37   URBAN LA   .171E-03   77.00    1.50    0.28    0.00    0.00    0.00    0.20 2721.81 1685.68    0.00 1023.07    0.00    0.01    0.00    0.08    0.05 1685.36
+    108  37   URBAN LA   .334E-02   77.00    1.50    8.36    0.00    0.00    0.00    0.20 2721.81 1685.55    0.03 1022.99    0.00    0.01    0.00    0.08    0.05 1685.55
+    109  37   FAGASA     .614E-02   70.00   97.20   18.50    0.00    0.00    0.00    0.20 2721.81  506.34 1348.91  859.89   44.29    2.62   53.76    9.28    6.50  506.34
+    110  37   URBAN LA   .180E-03   70.00    1.50    0.10    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1634.71
+    111  37   URBAN LA   .162E-03   70.00    1.50    0.30    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1635.70
+    112  37   URBAN LA   .639E-03   70.00    1.50    1.20    0.00    0.00    0.00    0.20 2721.81 1636.00    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1635.98
+    113  37   URBAN LA   .810E-04   70.00    1.50    0.08    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1634.28
+    114  37   URBAN LA   .198E-03   70.00    1.50    0.29    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1635.48
+    115  37   URBAN LA   .315E-03   70.00    1.50    1.25    0.00    0.00    0.00    0.20 2721.81 1636.00    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1635.98
+    116  38   FAGASA     .120E-02   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1063.05 1368.28  949.20    0.12    0.02    2.69    4.85    3.39 1061.22
+    117  38   FAGASA     .810E-04   70.00   97.20    0.30    0.00    0.00    0.00    0.20 3496.01 1062.77 1370.19  949.02    1.04    0.06   12.42    4.84    3.39 1062.64
+    118  38   FAGASA     .107E-01   70.00   97.20   11.69    0.00    0.00    0.00    0.20 3496.01  946.73 1642.54  885.24   46.07    2.24   54.35    9.67    6.77  946.73
+    119  39   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.62 1286.02  965.00    0.00    0.02    0.00    4.82    3.38  975.96
+    120  39   FAGASA     .563E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  847.01 1587.99  890.53   72.54    2.45   55.71    9.67    6.77  847.01
+    121  39   FAGASA     .299E-02   91.00   97.20   18.79    0.00    0.00    0.00    0.20 3340.78 1841.16  734.94  760.97  675.70    2.38   55.71    0.00    0.00 1841.16
+    122  39   FAGASA     .121E-01   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.23 1372.56  895.82   31.14    1.87   50.18   19.20    9.30 1066.23
+    123  40   FAGASA     .927E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  847.02 1588.00  890.51   77.00    2.45   55.92    9.67    6.77  847.03
+    124  40   FAGASA     .693E-02   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.25 1372.56  895.81   29.12    1.87   49.51   19.21    9.30 1066.25
+    125  41   FAGASA     .101E-01   70.00   97.20   15.08    0.00    0.00    0.00    0.20 3187.02  763.57 1526.92  882.27   50.39    2.49   54.21    9.72    6.80  763.57
+    126  42   FAGASA     .225E-03   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01  946.76 1645.44  885.20   52.59    2.28   54.75    9.67    6.77  946.76
+    127  42   FAGASA     .109E-01   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01 1179.98 1419.64  882.92   19.85    1.37   43.54   20.63    8.84 1179.98
+    128  43   FAGASA     .179E-01   70.00   97.20   18.27    0.00    0.00    0.00    0.20 3033.26  667.52 1469.08  886.77   62.40    2.71   54.94    9.44    6.61  667.52
+    129  44   URBAN LA   .180E-04   77.00    1.50    0.42    0.00    0.00    0.00    0.20 2721.81 1685.77    0.00 1022.98    0.00    0.01    0.00    0.08    0.05 1685.54
+    130  44   URBAN LA   .288E-03   77.00    1.50    3.44    0.00    0.00    0.00    0.20 2721.81 1685.70    0.02 1022.93    0.00    0.01    0.00    0.08    0.05 1685.70
+    131  44   FAGASA     .360E-04   70.00   97.20    0.33    0.00    0.00    0.00    0.20 2721.81  663.93 1001.55  960.47    0.59    0.07    7.05    4.94    3.46  663.86
+    132  44   FAGASA     .172E-01   70.00   97.20   14.60    0.00    0.00    0.00    0.20 2721.81  506.45 1348.45  859.82   39.52    2.60   53.48    9.29    6.50  506.45
+    133  44   URBAN LA   .270E-04   70.00    1.50    0.07    0.00    0.00    0.00    0.20 2721.81 1636.10    0.00 1068.32    0.00    0.01    0.00    0.08    0.06 1631.87
+    134  44   URBAN LA   .171E-03   70.00    1.50    1.10    0.00    0.00    0.00    0.20 2721.81 1636.10    0.00 1068.32    0.00    0.01    0.00    0.08    0.06 1636.07
+    135  44   URBAN LA   .900E-05   70.00    1.50    0.07    0.00    0.00    0.00    0.20 2721.81 1636.10    0.00 1068.32    0.00    0.01    0.00    0.08    0.06 1631.87
+    136  44   URBAN LA   .360E-04   70.00    1.50    0.30    0.00    0.00    0.00    0.20 2721.81 1636.10    0.00 1068.32    0.00    0.01    0.00    0.08    0.06 1635.80
+    137  44   URBAN LA   .360E-04   70.00    1.50    1.58    0.00    0.00    0.00    0.20 2721.81 1636.10    0.00 1068.31    0.00    0.01    0.00    0.08    0.06 1636.08
+    138  45   FAGASA     .540E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3033.26  815.48 1137.89  974.90    0.03    0.02    0.58    4.85    3.40  814.16
+    139  45   FAGASA     .630E-04   70.00   97.20    0.27    0.00    0.00    0.00    0.20 3033.26  815.31 1139.05  974.73    0.62    0.05    8.00    4.85    3.39  815.15
+    140  45   FAGASA     .466E-01   70.00   97.20   14.29    0.00    0.00    0.00    0.20 3033.26  667.45 1468.45  886.82   54.71    2.69   54.46    9.44    6.61  667.45
+    141  46   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.65 1286.32  964.74    0.00    0.02    0.00    4.82    3.38  975.99
+    142  46   FAGASA     .515E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  847.09 1588.04  890.42   71.76    2.45   55.67    9.67    6.77  847.09
+    143  46   FAGASA     .900E-05   77.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78 1286.14  971.04  988.67    0.00    0.06    0.00   13.44    6.98 1283.63
+    144  46   FAGASA     .154E-01   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.34 1372.53  895.77   32.04    1.87   50.46   19.20    9.29 1066.34
+    145  47   FAGASA     .173E-01   70.00   97.20   12.78    0.00    0.00    0.00    0.20 3033.26  667.43 1468.20  886.85   43.45    2.68   53.76    9.44    6.61  667.43
+    146  48   FAGASA     .270E-04   70.00   97.20    0.08    0.00    0.00    0.00    0.20 3033.26  815.46 1137.98  974.92    0.06    0.03    0.95    4.85    3.40  814.94
+    147  48   FAGASA     .240E-01   70.00   97.20   13.35    0.00    0.00    0.00    0.20 3033.26  667.44 1468.30  886.84   47.23    2.68   53.99    9.44    6.61  667.44
+    148  49   FAGASA     .540E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3033.26  815.48 1137.87  974.91    0.03    0.02    0.58    4.85    3.40  814.16
+    149  49   FAGASA     .241E-01   70.00   97.20   14.39    0.00    0.00    0.00    0.20 3033.26  667.45 1468.47  886.83   50.93    2.69   54.22    9.44    6.61  667.45
+    150  50   FAGASA     .360E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1063.08 1368.50  949.03    0.03    0.02    0.58    4.85    3.40 1061.24
+    151  50   FAGASA     .900E-05   70.00   97.20    0.17    0.00    0.00    0.00    0.20 3496.01 1062.96 1369.25  948.98    0.11    0.04    1.37    4.85    3.40 1062.64
+    152  50   FAGASA     .517E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01  946.79 1645.44  885.18   76.65    2.27   56.13    9.67    6.77  946.79
+    153  50   FAGASA     .540E-04   91.00   97.20    1.58    0.00    0.00    0.00    0.20 3496.01 2321.11  242.26  883.99   42.01    0.44   52.27    0.00    0.00 2321.04
+    154  50   FAGASA     .225E-01   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01 1179.99 1419.62  882.96   21.65    1.37   44.74   20.62    8.84 1179.99
+    155  51   URBAN LA   .810E-04   77.00    1.50    0.11    0.00    0.00    0.00    0.20 3033.26 1964.05    0.00 1055.01    0.00    0.01    0.00    0.08    0.05 1962.72
+    156  51   URBAN LA   .270E-03   77.00    1.50    0.29    0.00    0.00    0.00    0.20 3033.26 1964.05    0.00 1055.01    0.00    0.01    0.00    0.08    0.05 1963.44
+    157  51   URBAN LA   .397E-02   77.00    1.50    4.89    0.00    0.00    0.00    0.20 3033.26 1963.94    0.02 1054.95    0.00    0.01    0.00    0.08    0.05 1963.94
+    158  51   FAGASA     .540E-04   70.00   97.20    0.08    0.00    0.00    0.00    0.20 3033.26  815.45 1137.88  975.00    0.08    0.03    1.26    4.85    3.40  814.93
+    159  51   FAGASA     .540E-04   70.00   97.20    0.30    0.00    0.00    0.00    0.20 3033.26  815.19 1139.53  974.78    0.70    0.06    8.53    4.85    3.40  815.10
+    160  51   FAGASA     .440E-01   70.00   97.20   12.49    0.00    0.00    0.00    0.20 3033.26  667.39 1468.16  886.88   47.44    2.68   54.01    9.44    6.61  667.39
+    161  51   URBAN LA   .630E-04   70.00    1.50    0.09    0.00    0.00    0.00    0.20 3033.26 1916.95    0.00 1097.86    0.00    0.01    0.00    0.08    0.06 1915.27
+    162  51   URBAN LA   .243E-03   70.00    1.50    0.36    0.00    0.00    0.00    0.20 3033.26 1916.94    0.00 1097.86    0.00    0.01    0.00    0.08    0.06 1916.64
+    163  51   URBAN LA   .116E-02   70.00    1.50    1.76    0.00    0.00    0.00    0.20 3033.26 1916.94    0.00 1097.85    0.00    0.01    0.00    0.08    0.06 1916.92
+    164  51   URBAN LA   .108E-03   70.00    1.50    0.28    0.00    0.00    0.00    0.20 3033.26 1916.94    0.00 1097.86    0.00    0.01    0.00    0.08    0.06 1916.58
+    165  51   URBAN LA   .189E-03   70.00    1.50    0.96    0.00    0.00    0.00    0.20 3033.26 1916.94    0.00 1097.85    0.00    0.01    0.00    0.08    0.06 1916.90
+    166  52   FAGASA     .180E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1063.06 1368.39  949.12    0.00    0.02    0.00    4.85    3.40 1061.23
+    167  52   FAGASA     .268E-01   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01  946.76 1645.43  885.22   93.34    2.27   56.60    9.66    6.76  946.76
+    168  52   FAGASA     .900E-05   77.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1389.36 1041.91  967.73    0.00    0.08    0.00   17.85    8.52 1386.65
+    169  52   FAGASA     .160E-01   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01 1179.99 1419.63  882.93   20.79    1.37   44.19   20.62    8.84 1179.99
+    170  53   FAGASA     .180E-04   77.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1389.37 1041.98  967.70    0.00    0.08    0.00   17.85    8.52 1386.66
+    171  53   FAGASA     .180E-01   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01 1179.98 1419.62  882.96   21.08    1.37   44.38   20.62    8.84 1179.98
+    172  54   FAGASA     .360E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1063.08 1368.57  948.99    0.03    0.02    0.58    4.85    3.40 1061.25
+    173  54   FAGASA     .962E-02   70.00   97.20   20.34    0.00    0.00    0.00    0.20 3496.01  946.80 1645.20  885.16   79.28    2.27   56.23    9.67    6.77  946.80
+    174  54   FAGASA     .180E-04   77.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1389.37 1042.00  967.69    0.00    0.08    0.00   17.85    8.52 1386.66
+    175  54   FAGASA     .900E-05   77.00   97.20    0.21    0.00    0.00    0.00    0.20 3496.01 1389.19 1042.94  967.58    0.00    0.09    0.00   17.84    8.52 1388.76
+    176  54   FAGASA     .220E-01   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01 1179.98 1419.61  882.97   21.59    1.37   44.70   20.62    8.84 1179.98
+    177  55   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.57 1220.72  961.18    0.00    0.02    0.00    4.86    3.40  895.08
+    178  55   FAGASA     .845E-02   70.00   97.20   13.72    0.00    0.00    0.00    0.20 3187.02  763.54 1526.60  882.31   44.89    2.49   53.83    9.72    6.81  763.54
+    179  56   URBAN LA   .900E-05   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.89    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1959.21
+    180  56   URBAN LA   .630E-04   77.00    1.50    1.61    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.86
+    181  56   URBAN LA   .117E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.89    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1961.41
+    182  56   URBAN LA   .900E-05   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.30
+    183  56   URBAN LA   .108E-03   77.00    1.50    0.77    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.71
+    184  57   URBAN LA   .441E-03   77.00    1.50   12.33    0.00    0.00    0.00    0.20 3187.02 2121.55    0.04 1049.96    0.00    0.01    0.00    0.07    0.05 2121.55
+    185  57   FAGASA     .990E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.56 1220.64  961.25    0.04    0.02    0.87    4.85    3.40  895.08
+    186  57   FAGASA     .270E-04   70.00   97.20    0.28    0.00    0.00    0.00    0.20 3187.02  896.28 1222.37  961.07    0.60    0.06    7.20    4.85    3.40  896.17
+    187  57   FAGASA     .457E-01   70.00   97.20   13.51    0.00    0.00    0.00    0.20 3187.02  763.52 1526.54  882.34   54.08    2.48   54.46    9.72    6.80  763.52
+    188  58   FAGASA     .900E-05   70.00   97.20    0.40    0.00    0.00    0.00    0.20 3340.78  977.24 1288.21  964.94    0.59    0.07    6.44    4.82    3.37  977.15
+    189  58   FAGASA     .450E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  846.95 1587.97  890.61   70.58    2.45   55.61    9.67    6.77  846.96
+    190  59   URBAN LA   .117E-03   77.00    1.50    0.08    0.00    0.00    0.00    0.20 3033.26 1963.98    0.00 1055.08    0.00    0.01    0.00    0.08    0.05 1962.02
+    191  59   URBAN LA   .450E-04   77.00    1.50    0.30    0.00    0.00    0.00    0.20 3033.26 1963.98    0.00 1055.08    0.00    0.01    0.00    0.08    0.05 1963.63
+    192  59   URBAN LA   .134E-02   77.00    1.50    2.87    0.00    0.00    0.00    0.20 3033.26 1963.94    0.00 1055.06    0.00    0.01    0.00    0.08    0.05 1963.94
+    193  59   FAGASA     .360E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3033.26  815.45 1137.65  975.11    0.01    0.02    0.29    4.86    3.40  814.14
+    194  59   FAGASA     .360E-04   70.00   97.20    0.26    0.00    0.00    0.00    0.20 3033.26  815.29 1138.75  974.96    0.51    0.05    6.45    4.85    3.40  815.12
+    195  59   FAGASA     .127E-01   70.00   97.20   12.09    0.00    0.00    0.00    0.20 3033.26  667.34 1468.09  886.92   39.57    2.68   53.53    9.44    6.61  667.34
+    196  59   URBAN LA   .900E-05   70.00    1.50    0.42    0.00    0.00    0.00    0.20 3033.26 1916.88    0.00 1097.91    0.00    0.01    0.00    0.08    0.06 1916.61
+    197  59   URBAN LA   .405E-03   70.00    1.50    2.49    0.00    0.00    0.00    0.20 3033.26 1916.85    0.00 1097.90    0.00    0.01    0.00    0.08    0.06 1916.85
+    198  59   URBAN LA   .270E-04   70.00    1.50    0.08    0.00    0.00    0.00    0.20 3033.26 1916.88    0.00 1097.92    0.00    0.01    0.00    0.08    0.06 1914.92
+    199  59   URBAN LA   .180E-04   70.00    1.50    0.33    0.00    0.00    0.00    0.20 3033.26 1916.88    0.00 1097.91    0.00    0.01    0.00    0.08    0.06 1916.56
+    200  59   URBAN LA   .540E-03   70.00    1.50    3.32    0.00    0.00    0.00    0.20 3033.26 1916.82    0.01 1097.89    0.00    0.01    0.00    0.08    0.06 1916.82
+    201  60   URBAN LA   .333E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.89    0.00 1055.16    0.00    0.01    0.00    0.08    0.05 1959.21
+    202  60   URBAN LA   .117E-03   77.00    1.50    0.28    0.00    0.00    0.00    0.20 3033.26 1963.89    0.00 1055.16    0.00    0.01    0.00    0.08    0.05 1963.52
+    203  60   URBAN LA   .122E-02   77.00    1.50    5.34    0.00    0.00    0.00    0.20 3033.26 1963.77    0.02 1055.10    0.00    0.01    0.00    0.08    0.05 1963.77
+    204  60   URBAN LA   .369E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.89    0.00 1055.16    0.00    0.01    0.00    0.08    0.05 1961.42
+    205  60   URBAN LA   .468E-03   77.00    1.50    0.30    0.00    0.00    0.00    0.20 3033.26 1963.89    0.00 1055.16    0.00    0.01    0.00    0.08    0.05 1963.53
+    206  60   URBAN LA   .152E-02   77.00    1.50    2.62    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.16    0.00    0.01    0.00    0.08    0.05 1963.87
+    207  60   URBAN LA   .153E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.89    0.00 1055.16    0.00    0.01    0.00    0.08    0.05 1961.42
+    208  60   URBAN LA   .900E-04   77.00    1.50    0.33    0.00    0.00    0.00    0.20 3033.26 1963.89    0.00 1055.16    0.00    0.01    0.00    0.08    0.05 1963.56
+    209  60   URBAN LA   .702E-03   77.00    1.50    3.52    0.00    0.00    0.00    0.20 3033.26 1963.80    0.02 1055.12    0.00    0.01    0.00    0.08    0.05 1963.80
+    210  61   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.60 1285.84  965.15    0.00    0.02    0.00    4.82    3.38  975.94
+    211  61   FAGASA     .209E-02   70.00   97.20   17.62    0.00    0.00    0.00    0.20 3340.78  846.96 1587.10  890.60   53.54    2.44   54.47    9.67    6.77  846.96
+    212  62   FAGASA     .680E-02   70.00   97.20   14.19    0.00    0.00    0.00    0.20 3187.02  763.54 1526.70  882.31   45.22    2.49   53.85    9.72    6.80  763.54
+    213  63   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.56 1220.59  961.29    0.00    0.02    0.00    4.86    3.40  895.07
+    214  63   FAGASA     .900E-05   70.00   97.20    0.24    0.00    0.00    0.00    0.20 3187.02  896.38 1221.64  961.19    0.26    0.04    3.09    4.86    3.40  896.18
+    215  63   FAGASA     .159E-01   70.00   97.20   17.71    0.00    0.00    0.00    0.20 3187.02  763.51 1527.45  882.36   62.53    2.50   55.08    9.72    6.80  763.51
+    216  63   URBAN LA   .900E-05   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.77    0.00 1050.08    0.00    0.01    0.00    0.07    0.05 2116.88
+    217  63   URBAN LA   .180E-04   77.00    1.50    0.29    0.00    0.00    0.00    0.20 3187.02 2121.77    0.00 1050.08    0.00    0.01    0.00    0.07    0.05 2121.11
+    218  63   URBAN LA   .612E-03   77.00    1.50   12.49    0.00    0.00    0.00    0.20 3187.02 2121.53    0.04 1049.99    0.00    0.01    0.00    0.07    0.05 2121.53
+    219  63   URBAN LA   .180E-04   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.77    0.00 1050.08    0.00    0.01    0.00    0.07    0.05 2116.88
+    220  63   URBAN LA   .288E-03   77.00    1.50    2.49    0.00    0.00    0.00    0.20 3187.02 2121.73    0.00 1050.06    0.00    0.01    0.00    0.07    0.05 2121.73
+    221  64   FAGASA     .900E-05   70.00   97.20    0.09    0.00    0.00    0.00    0.20 3340.78  977.55 1285.86  965.29    0.00    0.03    0.00    4.82    3.38  976.99
+    222  64   FAGASA     .363E-02   70.00   97.20   13.49    0.00    0.00    0.00    0.20 3340.78  846.91 1586.04  890.67   43.76    2.43   53.82    9.67    6.77  846.91
+    223  65   FAGASA     .417E-02   70.00   97.20   13.75    0.00    0.00    0.00    0.20 3340.78  846.93 1586.12  890.64   45.34    2.43   53.93    9.67    6.77  846.93
+    224  66   FAGASA     .270E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.60 1285.80  965.18    0.01    0.02    0.32    4.82    3.38  975.94
+    225  66   FAGASA     .819E-03   70.00   97.20   15.51    0.00    0.00    0.00    0.20 3340.78  846.95 1586.58  890.61   42.11    2.44   53.71    9.68    6.77  846.95
+    226  67   FAGASA     .270E-04   72.00   97.20    0.26    0.00  130.37    0.00    0.20 3187.02  935.55 1120.69 1030.61    0.00    5.36    0.00   44.78   28.96  935.33
+    227  67   FAGASA     .162E-03   72.00   97.20    9.12    0.00  124.29    0.00    0.20 3187.02  682.66 1584.56  902.48    0.42   11.49    3.26   34.26   22.26  682.66
+    228  67   FAGASA     .810E-04   91.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02 2052.53  194.61  889.88    0.36    0.28    7.40    0.00    0.00 2047.68
+    229  67   FAGASA     .720E-04   91.00   97.20    0.31    0.00    0.00    0.00    0.20 3187.02 2052.19  196.13  889.25    6.53    0.29   45.38    0.00    0.00 2051.61
+    230  67   FAGASA     .828E-03   91.00   97.20   21.18    0.00    0.00    0.00    0.20 3187.02 1706.31  722.58  754.42  603.06    2.39   55.71    0.00    0.00 1706.31
+    231  68   FAGASA     .900E-05   70.00   97.20    0.29    0.00    0.00    0.00    0.20 3187.02  896.35 1221.88  961.13    0.32    0.05    3.72    4.86    3.40  896.18
+    232  68   FAGASA     .446E-02   70.00   97.20   14.21    0.00    0.00    0.00    0.20 3187.02  763.52 1526.70  882.34   43.08    2.49   53.71    9.72    6.81  763.52
+    233  69   URBAN LA   .360E-04   70.00    1.50    0.08    0.00    0.00    0.00    0.20 3187.02 2076.05    0.00 1090.11    0.00    0.01    0.00    0.08    0.05 2073.96
+    234  69   URBAN LA   .630E-04   70.00    1.50    0.35    0.00    0.00    0.00    0.20 3187.02 2076.05    0.00 1090.11    0.00    0.01    0.00    0.08    0.05 2075.71
+    235  69   URBAN LA   .801E-03   70.00    1.50    1.67    0.00    0.00    0.00    0.20 3187.02 2076.03    0.00 1090.10    0.00    0.01    0.00    0.08    0.05 2076.03
+    236  69   URBAN LA   .900E-05   70.00    1.50    0.21    0.00    0.00    0.00    0.20 3187.02 2076.05    0.00 1090.11    0.00    0.01    0.00    0.08    0.05 2075.25
+    237  69   URBAN LA   .261E-03   70.00    1.50    1.69    0.00    0.00    0.00    0.20 3187.02 2076.03    0.00 1090.10    0.00    0.01    0.00    0.08    0.05 2076.03
+    238  69   FAGASA     .648E-03   72.00   97.20    8.17    0.00  125.14    0.00    0.20 3187.02  709.59 1541.54  914.63    0.49   11.51    3.68   35.09   22.80  709.59
+    239  69   FAGASA     .270E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.54 1220.45  961.40    0.01    0.02    0.17    4.86    3.40  895.06
+    240  69   FAGASA     .180E-04   70.00   97.20    0.27    0.00    0.00    0.00    0.20 3187.02  896.35 1221.65  961.27    0.44    0.05    5.44    4.85    3.40  896.17
+    241  69   FAGASA     .103E-02   70.00   97.20   14.49    0.00    0.00    0.00    0.20 3187.02  763.47 1526.73  882.41   36.84    2.50   53.29    9.72    6.81  763.47
+    242  69   URBAN LA   .549E-03   77.00    1.50    3.30    0.00    0.00    0.00    0.20 3187.02 2121.62    0.01 1050.15    0.00    0.01    0.00    0.07    0.05 2121.62
+    243  69   FAGASA     .207E-02   77.00   97.20   12.62    0.00    0.00    0.00    0.20 3187.02  961.05 1333.62  886.25   13.71    1.89   40.91   19.28    9.33  961.05
+    244  69   FAGASA     .225E-03   91.00   97.20    0.09    0.00    0.00    0.00    0.20 3187.02 2052.49  194.75  889.83    1.40    0.27   20.85    0.00    0.00 2050.45
+    245  69   FAGASA     .306E-03   91.00   97.20    0.31    0.00    0.00    0.00    0.20 3187.02 2052.18  196.12  889.26    7.93    0.28   48.50    0.00    0.00 2051.60
+    246  69   FAGASA     .342E-02   91.00   97.20    3.31    0.00    0.00    0.00    0.20 3187.02 1945.42  430.55  805.56  125.54    1.85   54.80    0.00    0.00 1945.42
+    247  69   URBAN LA   .180E-04   94.00    1.50    0.10    0.00    0.00    0.00    0.20 3187.02 2368.93    0.00  812.67    0.00    0.09    0.00    0.00    0.00 2367.45
+    248  69   URBAN LA   .810E-04   94.00    1.50    0.36    0.00    0.00    0.00    0.20 3187.02 2368.93    0.00  812.67    0.00    0.09    0.00    0.00    0.00 2368.50
+    249  69   URBAN LA   .945E-03   94.00    1.50    4.75    0.00    0.00    0.00    0.20 3187.02 2368.91    0.01  812.61    0.00    0.09    0.00    0.00    0.00 2368.91
+    250  70   FAGASA     .657E-03   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01  946.75 1645.43  885.23   59.82    2.28   55.24    9.67    6.77  946.75
+    251  70   FAGASA     .170E-02   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01 1179.97 1419.67  882.89   15.87    1.38   40.24   20.65    8.85 1179.97
+    252  71   FAGASA     .720E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.57 1220.73  961.17    0.03    0.02    0.76    4.85    3.40  895.08
+    253  71   FAGASA     .180E-04   70.00   97.20    0.29    0.00    0.00    0.00    0.20 3187.02  896.37 1221.98  961.04    0.47    0.05    5.77    4.85    3.40  896.19
+    254  71   FAGASA     .726E-02   70.00   97.20   13.82    0.00    0.00    0.00    0.20 3187.02  763.54 1526.62  882.31   44.43    2.49   53.80    9.72    6.81  763.54
+    255  72   URBAN LA   .720E-04   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.98    0.00 1055.07    0.00    0.01    0.00    0.08    0.05 1959.31
+    256  72   URBAN LA   .180E-04   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 1963.98    0.00 1055.07    0.00    0.01    0.00    0.08    0.05 1963.40
+    257  72   URBAN LA   .197E-02   77.00    1.50    6.88    0.00    0.00    0.00    0.20 3033.26 1963.85    0.03 1055.00    0.00    0.01    0.00    0.08    0.05 1963.85
+    258  72   FAGASA     .450E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3033.26  815.46 1137.66  975.10    0.02    0.02    0.49    4.85    3.40  814.14
+    259  72   FAGASA     .180E-04   70.00   97.20    0.29    0.00    0.00    0.00    0.20 3033.26  815.27 1138.88  974.94    0.43    0.05    5.24    4.85    3.40  815.11
+    260  72   FAGASA     .174E-01   70.00   97.20   14.03    0.00    0.00    0.00    0.20 3033.26  667.35 1468.42  886.92   47.71    2.69   54.02    9.44    6.61  667.35
+    261  72   URBAN LA   .270E-04   70.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1916.89    0.00 1097.91    0.00    0.01    0.00    0.08    0.06 1912.19
+    262  72   URBAN LA   .180E-04   70.00    1.50    0.33    0.00    0.00    0.00    0.20 3033.26 1916.89    0.00 1097.91    0.00    0.01    0.00    0.08    0.06 1916.56
+    263  72   URBAN LA   .522E-03   70.00    1.50    3.88    0.00    0.00    0.00    0.20 3033.26 1916.82    0.01 1097.89    0.00    0.01    0.00    0.08    0.06 1916.82
+    264  72   URBAN LA   .900E-04   70.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1916.89    0.00 1097.91    0.00    0.01    0.00    0.08    0.06 1912.19
+    265  72   URBAN LA   .180E-04   70.00    1.50    0.36    0.00    0.00    0.00    0.20 3033.26 1916.89    0.00 1097.91    0.00    0.01    0.00    0.08    0.06 1916.59
+    266  72   URBAN LA   .738E-03   70.00    1.50    3.46    0.00    0.00    0.00    0.20 3033.26 1916.76    0.02 1097.87    0.00    0.01    0.00    0.08    0.06 1916.76
+    267  73   FAGASA     .360E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1063.05 1368.30  949.19    0.03    0.02    0.58    4.85    3.40 1061.22
+    268  73   FAGASA     .270E-04   70.00   97.20    0.30    0.00    0.00    0.00    0.20 3496.01 1062.77 1370.20  949.01    0.76    0.06    9.12    4.85    3.39 1062.64
+    269  73   FAGASA     .152E-01   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01  946.73 1645.43  885.25   87.21    2.27   56.46    9.66    6.76  946.73
+    270  73   FAGASA     .391E-02   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01 1179.98 1419.66  882.88   17.55    1.38   41.76   20.64    8.85 1179.98
+    271  74   FAGASA     .171E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.57 1220.70  961.19    0.06    0.02    1.30    4.85    3.40  895.08
+    272  74   FAGASA     .180E-04   70.00   97.20    0.38    0.00    0.00    0.00    0.20 3187.02  896.21 1222.93  960.97    0.73    0.07    8.33    4.85    3.40  896.13
+    273  74   FAGASA     .172E-01   70.00   97.20   12.78    0.00    0.00    0.00    0.20 3187.02  763.53 1526.38  882.32   45.50    2.48   53.87    9.72    6.80  763.53
+    274  75   FAGASA     .900E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3496.01 1063.05 1368.23  949.24    0.05    0.02    1.07    4.85    3.40 1061.21
+    275  75   FAGASA     .180E-04   70.00   97.20    0.33    0.00    0.00    0.00    0.20 3496.01 1062.74 1370.31  949.05    0.73    0.06    8.55    4.85    3.39 1062.62
+    276  75   FAGASA     .145E-01   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01  946.71 1645.42  885.27   86.75    2.27   56.45    9.66    6.76  946.71
+    277  75   FAGASA     .454E-02   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3496.01 1179.98 1419.67  882.87   17.86    1.37   42.02   20.64    8.85 1179.98
+    278  76   FAGASA     .270E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.63 1286.05  964.98    0.01    0.02    0.32    4.82    3.38  975.96
+    279  76   FAGASA     .360E-04   70.00   97.20    0.31    0.00    0.00    0.00    0.20 3340.78  977.32 1288.04  964.76    0.79    0.06    9.64    4.82    3.37  977.21
+    280  76   FAGASA     .662E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  847.02 1588.00  890.52   73.96    2.45   55.78    9.67    6.77  847.02
+    281  76   FAGASA     .180E-04   91.00   97.20    0.09    0.00    0.00    0.00    0.20 3340.78 2185.86  208.57  895.83    0.57    0.28    8.71    0.00    0.00 2183.69
+    282  76   FAGASA     .270E-04   91.00   97.20    0.36    0.00    0.00    0.00    0.20 3340.78 2185.50  209.81  895.19    6.93    0.29   45.72    0.00    0.00 2184.94
+    283  76   FAGASA     .396E-03   91.00   97.20    7.26    0.00    0.00    0.00    0.20 3340.78 1924.77  638.56  773.36  212.98    2.16   55.51    0.00    0.00 1924.77
+    284  76   FAGASA     .816E-02   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.24 1372.56  895.81   29.70    1.87   49.71   19.20    9.30 1066.24
+    285  77   URBAN LA   .189E-03   77.00    1.50    0.09    0.00    0.00    0.00    0.20 3033.26 1962.62    0.00 1056.42    0.00    0.01    0.00    0.10    0.07 1960.95
+    286  77   URBAN LA   .270E-03   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 1962.62    0.00 1056.42    0.00    0.01    0.00    0.10    0.07 1962.28
+    287  77   URBAN LA   .119E-02   77.00    1.50    1.88    0.00    0.00    0.00    0.20 3033.26 1962.62    0.00 1056.41    0.00    0.01    0.00    0.10    0.07 1962.60
+    288  77   URBAN LA   .153E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1961.41
+    289  77   URBAN LA   .630E-04   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.30
+    290  77   URBAN LA   .864E-03   77.00    1.50    2.59    0.00    0.00    0.00    0.20 3033.26 1963.85    0.00 1055.15    0.00    0.01    0.00    0.08    0.05 1963.85
+    291  77   URBAN LA   .549E-03   77.00    1.50    3.00    0.00    0.00    0.00    0.20 3033.26 1963.85    0.00 1055.15    0.00    0.01    0.00    0.08    0.05 1963.85
+    292  78   URBAN LA   .180E-04   77.00    1.50    0.40    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.60
+    293  78   URBAN LA   .225E-03   77.00    1.50    0.82    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.83
+    294  78   URBAN LA   .900E-04   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.18    0.00    0.01    0.00    0.08    0.05 1961.41
+    295  78   URBAN LA   .810E-04   77.00    1.50    0.35    0.00    0.00    0.00    0.20 3033.26 1963.88    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.56
+    296  78   URBAN LA   .738E-03   77.00    1.50    2.73    0.00    0.00    0.00    0.20 3033.26 1963.85    0.00 1055.16    0.00    0.01    0.00    0.08    0.05 1963.85
+    297  78   URBAN LA   .900E-05   77.00    1.50    1.44    0.00    0.00    0.00    0.20 3033.26 1963.87    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.85
+    298  79   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.61 1285.90  965.10    0.00    0.02    0.00    4.82    3.38  975.95
+    299  79   FAGASA     .220E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  846.98 1587.98  890.58   64.78    2.46   55.27    9.67    6.77  846.98
+    300  79   FAGASA     .360E-04   91.00   97.20    4.05    0.00    0.00    0.00    0.20 3340.78 2053.47  479.97  802.79   94.27    1.83   54.18    0.00    0.00 2053.47
+    301  79   FAGASA     .270E-04   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.20 1372.59  895.80   14.71    1.89   41.62   19.26    9.32 1066.21
+    302  80   FAGASA     .630E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.61 1286.02  965.04    0.08    0.02    1.50    4.82    3.37  976.76
+    303  80   FAGASA     .540E-04   70.00   97.20    0.30    0.00    0.00    0.00    0.20 3340.78  977.32 1287.86  964.84    0.86    0.06   10.35    4.81    3.37  977.21
+    304  80   FAGASA     .953E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  846.99 1587.98  890.56   77.24    2.45   55.93    9.67    6.77  846.99
+    305  80   FAGASA     .910E-02   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.21 1372.57  895.83   30.08    1.87   49.84   19.20    9.30 1066.21
+    306  81   FAGASA     .135E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.60 1285.83  965.16    0.06    0.02    1.27    4.82    3.37  975.94
+    307  81   FAGASA     .450E-04   70.00   97.20    0.31    0.00    0.00    0.00    0.20 3340.78  977.40 1287.22  964.99    0.78    0.05    9.83    4.81    3.37  977.21
+    308  81   FAGASA     .179E-01   70.00   97.20   19.02    0.00    0.00    0.00    0.20 3340.78  846.96 1587.44  890.61   74.74    2.44   55.82    9.67    6.77  846.96
+    309  81   FAGASA     .360E-04   91.00   97.20   19.22    0.00    0.00    0.00    0.20 3340.78 1840.93  735.11  761.01  405.97    2.38   55.71    0.00    0.00 1840.93
+    310  81   FAGASA     .531E-03   77.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78 1066.17 1372.59  895.83   21.39    1.88   45.92   19.23    9.31 1066.17
+    311  82   FAGASA     .360E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.60 1285.77  965.21    0.02    0.02    0.55    4.82    3.38  975.94
+    312  82   FAGASA     .383E-02   70.00   97.20   21.18    0.00    0.00    0.00    0.20 3340.78  846.94 1587.96  890.63   69.23    2.46   55.54    9.67    6.77  846.94
+    313  82   FAGASA     .810E-04   91.00   97.20   18.54    0.00    0.00    0.00    0.20 3340.78 1840.87  735.15  761.02  432.25    2.38   55.71    0.00    0.00 1840.87
+    314  83   FAGASA     .180E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.59 1285.82  965.21    0.03    0.02    0.48    4.82    3.38  976.74
+    315  83   FAGASA     .180E-04   70.00   97.20    0.38    0.00    0.00    0.00    0.20 3340.78  977.25 1288.09  964.97    0.83    0.07    9.56    4.82    3.37  977.15
+    316  83   FAGASA     .860E-02   70.00   97.20   19.11    0.00    0.00    0.00    0.20 3340.78  846.94 1587.45  890.63   68.79    2.44   55.52    9.67    6.77  846.94
+    317  84   FAGASA     .540E-04   70.00   97.20    0.08    0.00    0.00    0.00    0.20 3340.78  977.58 1285.89  965.20    0.10    0.03    1.67    4.82    3.37  976.91
+    318  84   FAGASA     .450E-04   70.00   97.20    0.29    0.00    0.00    0.00    0.20 3340.78  977.40 1287.08  965.06    0.72    0.05    9.23    4.81    3.37  977.20
+    319  84   FAGASA     .146E-01   70.00   97.20   18.73    0.00    0.00    0.00    0.20 3340.78  846.94 1587.36  890.63   71.85    2.44   55.68    9.67    6.77  846.94
+    320  85   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.58 1285.65  965.31    0.00    0.02    0.00    4.82    3.38  975.92
+    321  85   FAGASA     .630E-04   70.00   97.20    4.80    0.00    0.00    0.00    0.20 3340.78  915.48 1463.02  923.86   11.14    2.22   50.98    8.19    5.73  915.48
+    322  86   FAGASA     .540E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.59 1285.70  965.27    0.03    0.02    0.67    4.82    3.37  975.93
+    323  86   FAGASA     .270E-04   70.00   97.20    0.29    0.00    0.00    0.00    0.20 3340.78  977.39 1287.02  965.11    0.66    0.05    8.09    4.82    3.37  977.19
+    324  86   FAGASA     .481E-02   70.00   97.20   15.98    0.00    0.00    0.00    0.20 3340.78  846.92 1586.68  890.65   53.65    2.44   54.48    9.67    6.77  846.92
+    325  87   FAGASA     .207E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.60 1285.75  965.23    0.08    0.02    1.66    4.82    3.37  975.93
+    326  87   FAGASA     .540E-04   70.00   97.20    0.31    0.00    0.00    0.00    0.20 3340.78  977.29 1287.74  965.01    0.93    0.06   11.05    4.81    3.37  977.18
+    327  87   FAGASA     .167E-01   70.00   97.20   18.29    0.00    0.00    0.00    0.20 3340.78  846.93 1587.25  890.64   71.28    2.44   55.65    9.67    6.77  846.93
+    328  88   FAGASA     .414E-03   70.00   97.20    7.29    0.00    0.00    0.00    0.20 3340.78  885.20 1514.71  906.02   19.36    2.25   52.93    9.23    6.46  885.20
+    329  89   FAGASA     .117E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.58 1285.78  965.24    0.11    0.02    2.09    4.82    3.37  976.74
+    330  89   FAGASA     .450E-04   70.00   97.20    0.35    0.00    0.00    0.00    0.20 3340.78  977.26 1287.89  965.01    0.97    0.07   11.49    4.81    3.37  977.16
+    331  89   FAGASA     .187E-01   70.00   97.20   15.66    0.00    0.00    0.00    0.20 3340.78  846.92 1586.60  890.65   61.85    2.43   55.07    9.67    6.77  846.93
+    332  90   FAGASA     .810E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.59 1285.83  965.20    0.09    0.02    1.69    4.82    3.37  976.74
+    333  90   FAGASA     .180E-04   70.00   97.20    0.24    0.00    0.00    0.00    0.20 3340.78  977.43 1286.87  965.10    0.41    0.05    5.01    4.82    3.37  977.20
+    334  90   FAGASA     .131E-01   70.00   97.20   16.45    0.00    0.00    0.00    0.20 3340.78  846.94 1586.80  890.63   62.25    2.43   55.10    9.67    6.77  846.94
+    335  91   FAGASA     .108E-03   70.00   97.20    0.08    0.00    0.00    0.00    0.20 3340.78  977.58 1285.87  965.22    0.15    0.03    2.52    4.82    3.37  976.91
+    336  91   FAGASA     .270E-04   70.00   97.20    0.42    0.00    0.00    0.00    0.20 3340.78  977.23 1288.23  964.97    1.04    0.07   12.21    4.81    3.37  977.15
+    337  91   FAGASA     .881E-02   70.00   97.20   15.03    0.00    0.00    0.00    0.20 3340.78  846.93 1586.45  890.64   54.24    2.43   54.52    9.67    6.77  846.93
+    338  92   FAGASA     .900E-05   72.00   97.20    0.11    0.00  131.63    0.00    0.20 3340.78 1022.24 1178.95 1035.80    0.00    5.51    0.00   45.07   29.16 1021.72
+    339  92   FAGASA     .450E-04   72.00   97.20    0.27    0.00  131.73    0.00    0.20 3340.78 1021.82 1180.15 1035.62    0.00    5.64    0.00   45.07   29.16 1021.58
+    340  92   FAGASA     .342E-03   72.00   97.20    2.24    0.00  135.81    0.00    0.20 3340.78 1005.19 1235.15 1023.06    0.13   10.85    1.30   43.80   28.33 1005.19
+    341  92   FAGASA     .216E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3340.78  977.58 1285.75  965.27    0.14    0.02    2.57    4.82    3.37  976.73
+    342  92   FAGASA     .198E-03   70.00   97.20    0.31    0.00    0.00    0.00    0.20 3340.78  977.29 1287.69  965.04    1.19    0.06   14.14    4.81    3.37  977.18
+    343  92   FAGASA     .163E-01   70.00   97.20   15.33    0.00    0.00    0.00    0.20 3340.78  846.91 1586.52  890.66   59.58    2.43   54.89    9.67    6.77  846.92
+    344  93   FAGASA     .270E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.57 1220.69  961.20    0.07    0.02    1.60    4.85    3.40  895.08
+    345  93   FAGASA     .270E-04   70.00   97.20    0.26    0.00    0.00    0.00    0.20 3187.02  896.39 1221.81  961.08    0.48    0.05    6.09    4.85    3.40  896.19
+    346  93   FAGASA     .194E-01   70.00   97.20   15.95    0.00    0.00    0.00    0.20 3187.02  763.53 1527.09  882.33   57.69    2.49   54.69    9.72    6.80  763.53
+    347  94   FAGASA     .810E-04   70.00   97.20    0.08    0.00    0.00    0.00    0.20 3187.02  896.54 1220.75  961.24    0.11    0.03    1.89    4.85    3.40  895.95
+    348  94   FAGASA     .180E-04   70.00   97.20    0.30    0.00    0.00    0.00    0.20 3187.02  896.26 1222.44  961.08    0.54    0.06    6.42    4.85    3.40  896.15
+    349  94   FAGASA     .751E-02   70.00   97.20   12.01    0.00    0.00    0.00    0.20 3187.02  763.52 1526.19  882.35   38.73    2.48   53.42    9.72    6.81  763.52
+    350  95   FAGASA     .900E-05   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.56 1220.59  961.29    0.00    0.02    0.00    4.86    3.40  895.07
+    351  95   FAGASA     .450E-03   70.00   97.20   13.69    0.00    0.00    0.00    0.20 3187.02  763.51 1526.58  882.36   31.52    2.50   52.95    9.73    6.81  763.51
+    352  96   FAGASA     .720E-04   72.00   97.20   11.64    0.00  124.13    0.00    0.20 3187.02  672.96 1600.59  898.31    0.45   11.49    3.31   34.03   22.11  672.96
+    353  96   FAGASA     .315E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.55 1220.65  961.28    0.14    0.02    2.57    4.85    3.40  895.80
+    354  96   FAGASA     .990E-04   70.00   97.20    0.31    0.00    0.00    0.00    0.20 3187.02  896.25 1222.51  961.07    0.97    0.06   11.64    4.85    3.39  896.15
+    355  96   FAGASA     .265E-01   70.00   97.20   19.06    0.00    0.00    0.00    0.20 3187.02  763.50 1527.73  882.37   71.53    2.51   55.66    9.72    6.80  763.50
+    356  97   FAGASA     .108E-03   72.00   97.20   16.05    0.00  124.19    0.00    0.20 3187.02  672.95 1601.20  898.32    0.71   11.48    4.64   34.02   22.11  672.95
+    357  97   FAGASA     .423E-03   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.56 1220.56  961.31    0.08    0.02    1.84    4.85    3.40  895.07
+    358  97   FAGASA     .117E-03   70.00   97.20    0.35    0.00    0.00    0.00    0.20 3187.02  896.22 1222.66  961.07    1.11    0.07   13.21    4.85    3.39  896.13
+    359  97   FAGASA     .233E-01   70.00   97.20   17.90    0.00    0.00    0.00    0.20 3187.02  763.49 1527.48  882.38   66.13    2.50   55.34    9.72    6.80  763.49
+    360  97   URBAN LA   .243E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.73    0.00 1050.11    0.00    0.01    0.00    0.07    0.05 2116.84
+    361  97   URBAN LA   .180E-04   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3187.02 2121.73    0.00 1050.11    0.00    0.01    0.00    0.07    0.05 2121.10
+    362  97   URBAN LA   .195E-02   77.00    1.50   12.93    0.00    0.00    0.00    0.20 3187.02 2121.49    0.04 1050.02    0.00    0.01    0.00    0.07    0.05 2121.49
+    363  97   FAGASA     .360E-04   91.00   97.20    0.10    0.00    0.00    0.00    0.20 3187.02 2052.50  194.85  889.76    0.93    0.28   13.67    0.00    0.00 2050.65
+    364  97   FAGASA     .360E-04   91.00   97.20    0.29    0.00    0.00    0.00    0.20 3187.02 2052.32  195.63  889.44    4.83    0.28   40.31    0.00    0.00 2051.41
+    365  97   FAGASA     .360E-03   91.00   97.20    2.18    0.00    0.00    0.00    0.20 3187.02 2035.68  244.18  865.75   65.32    1.63   53.15    0.00    0.00 2035.68
+    366  97   URBAN LA   .180E-04   94.00    1.50    7.60    0.00    0.00    0.00    0.20 3187.02 2368.97    0.01  812.56    0.00    0.09    0.00    0.00    0.00 2368.97
+    367  97   FAGASA     .180E-04   77.00   97.20    0.28    0.00    0.00    0.00    0.20 3187.02 1187.56  924.11  984.08    0.22    0.08    2.47   13.47    7.00 1187.38
+    368  97   FAGASA     .216E-03   77.00   97.20    2.62    0.00    0.00    0.00    0.20 3187.02 1185.01  936.72  981.96    5.08    0.27   37.22   13.34    6.94 1185.00
+    369  97   URBAN LA   .630E-04   77.00    1.50    2.09    0.00    0.00    0.00    0.20 3187.02 2120.40    0.00 1051.47    0.00    0.01    0.00    0.19    0.10 2120.40
+    370  98   URBAN LA   .153E-03   77.00    1.50    6.85    0.00    0.00    0.00    0.20 3187.02 2121.49    0.03 1050.12    0.00    0.01    0.00    0.07    0.05 2121.49
+    371  98   URBAN LA   .900E-05   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.65    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2116.76
+    372  98   URBAN LA   .450E-04   77.00    1.50    5.01    0.00    0.00    0.00    0.20 3187.02 2121.52    0.02 1050.13    0.00    0.01    0.00    0.07    0.05 2121.52
+    373  98   URBAN LA   .540E-04   77.00    1.50    1.20    0.00    0.00    0.00    0.20 3187.02 2121.65    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2121.62
+    374  99   URBAN LA   .270E-04   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.67    0.00 1050.17    0.00    0.01    0.00    0.07    0.05 2116.77
+    375  99   URBAN LA   .900E-05   77.00    1.50    0.38    0.00    0.00    0.00    0.20 3187.02 2121.67    0.00 1050.17    0.00    0.01    0.00    0.07    0.05 2121.35
+    376  99   URBAN LA   .423E-03   77.00    1.50    2.36    0.00    0.00    0.00    0.20 3187.02 2121.65    0.00 1050.16    0.00    0.01    0.00    0.07    0.05 2121.65
+    377  99   URBAN LA   .810E-04   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.67    0.00 1050.17    0.00    0.01    0.00    0.07    0.05 2119.05
+    378  99   URBAN LA   .180E-04   77.00    1.50    0.30    0.00    0.00    0.00    0.20 3187.02 2121.67    0.00 1050.17    0.00    0.01    0.00    0.07    0.05 2121.28
+    379  99   URBAN LA   .131E-02   77.00    1.50    9.92    0.00    0.00    0.00    0.20 3187.02 2121.46    0.03 1050.10    0.00    0.01    0.00    0.07    0.05 2121.46
+    380  99   FAGASA     .522E-03   70.00   97.20   20.65    0.00    0.00    0.00    0.20 3187.02  763.47 1528.05  882.41   48.43    2.53   54.07    9.72    6.80  763.47
+    381  99   URBAN LA   .900E-05   70.00    1.50    0.33    0.00    0.00    0.00    0.20 3187.02 2076.05    0.00 1090.11    0.00    0.01    0.00    0.08    0.05 2075.70
+    382  99   URBAN LA   .360E-04   70.00    1.50    4.36    0.00    0.00    0.00    0.20 3187.02 2075.89    0.03 1090.07    0.00    0.01    0.00    0.08    0.05 2075.89
+    383 100   FAGASA     .351E-02   70.00   97.20   19.41    0.00    0.00    0.00    0.20 3187.02  763.48 1527.79  882.40   57.21    2.51   54.66    9.72    6.80  763.48
+    384 100   URBAN LA   .162E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.70    0.00 1050.14    0.00    0.01    0.00    0.07    0.05 2116.80
+    385 100   URBAN LA   .180E-04   77.00    1.50    0.24    0.00    0.00    0.00    0.20 3187.02 2121.69    0.00 1050.14    0.00    0.01    0.00    0.07    0.05 2120.96
+    386 100   URBAN LA   .255E-02   77.00    1.50   10.08    0.00    0.00    0.00    0.20 3187.02 2121.49    0.03 1050.07    0.00    0.01    0.00    0.07    0.05 2121.49
+    387 100   URBAN LA   .180E-04   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.70    0.00 1050.14    0.00    0.01    0.00    0.07    0.05 2116.80
+    388 100   URBAN LA   .900E-05   77.00    1.50    0.46    0.00    0.00    0.00    0.20 3187.02 2121.69    0.00 1050.14    0.00    0.01    0.00    0.07    0.05 2121.42
+    389 100   URBAN LA   .125E-02   77.00    1.50    2.25    0.00    0.00    0.00    0.20 3187.02 2121.66    0.00 1050.13    0.00    0.01    0.00    0.07    0.05 2121.66
+    390 100   URBAN LA   .180E-04   77.00    1.50    0.10    0.00    0.00    0.00    0.20 3187.02 2121.70    0.00 1050.14    0.00    0.01    0.00    0.07    0.05 2120.11
+    391 100   URBAN LA   .180E-04   77.00    1.50    0.40    0.00    0.00    0.00    0.20 3187.02 2121.69    0.00 1050.14    0.00    0.01    0.00    0.07    0.05 2121.39
+    392 100   URBAN LA   .180E-03   77.00    1.50    2.54    0.00    0.00    0.00    0.20 3187.02 2121.67    0.00 1050.14    0.00    0.01    0.00    0.07    0.05 2121.67
+    393 101   FAGASA     .540E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.55 1220.47  961.38    0.03    0.02    0.62    4.85    3.40  895.06
+    394 101   FAGASA     .180E-04   70.00   97.20    0.23    0.00    0.00    0.00    0.20 3187.02  896.38 1221.46  961.28    0.32    0.04    3.99    4.85    3.40  896.17
+    395 101   FAGASA     .297E-02   70.00   97.20   19.02    0.00    0.00    0.00    0.20 3187.02  763.48 1527.71  882.40   54.92    2.51   54.51    9.72    6.80  763.48
+    396 101   URBAN LA   .162E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.68    0.00 1050.15    0.00    0.01    0.00    0.07    0.05 2116.79
+    397 101   URBAN LA   .900E-05   77.00    1.50    0.46    0.00    0.00    0.00    0.20 3187.02 2121.68    0.00 1050.15    0.00    0.01    0.00    0.07    0.05 2121.41
+    398 101   URBAN LA   .540E-03   77.00    1.50    6.90    0.00    0.00    0.00    0.20 3187.02 2121.52    0.03 1050.10    0.00    0.01    0.00    0.07    0.05 2121.52
+    399 101   URBAN LA   .180E-04   77.00    1.50    2.80    0.00    0.00    0.00    0.20 3187.02 2121.64    0.00 1050.14    0.00    0.01    0.00    0.07    0.05 2121.64
+    400 101   URBAN LA   .900E-05   77.00    1.50    0.28    0.00    0.00    0.00    0.20 3187.02 2121.68    0.00 1050.15    0.00    0.01    0.00    0.07    0.05 2121.29
+    401 101   URBAN LA   .720E-04   77.00    1.50    1.87    0.00    0.00    0.00    0.20 3187.02 2121.67    0.00 1050.15    0.00    0.01    0.00    0.07    0.05 2121.67
+    402 102   FAGASA     .180E-04   70.00   97.20    0.07    0.00    0.00    0.00    0.20 3187.02  896.54 1220.44  961.42    0.00    0.02    0.00    4.86    3.40  895.05
+    403 102   FAGASA     .900E-05   70.00   97.20    0.31    0.00    0.00    0.00    0.20 3187.02  896.22 1222.33  961.25    0.37    0.06    4.11    4.86    3.40  896.12
+    404 102   FAGASA     .292E-02   70.00   97.20   17.17    0.00    0.00    0.00    0.20 3187.02  763.47 1527.31  882.41   49.48    2.51   54.15    9.72    6.80  763.47
+    405 102   URBAN LA   .153E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3187.02 2121.66    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2119.04
+    406 102   URBAN LA   .990E-04   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3187.02 2121.66    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2121.29
+    407 102   URBAN LA   .213E-02   77.00    1.50    4.55    0.00    0.00    0.00    0.20 3187.02 2121.54    0.02 1050.13    0.00    0.01    0.00    0.07    0.05 2121.54
+    408 102   FAGASA     .198E-03   77.00   97.20   13.33    0.00    0.00    0.00    0.20 3187.02  991.12 1316.21  873.13   34.22    2.52   53.13    9.82    6.88  991.12
+    409 102   URBAN LA   .270E-04   77.00    1.50    0.12    0.00    0.00    0.00    0.20 3187.02 2121.66    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2120.35
+    410 102   URBAN LA   .162E-03   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3187.02 2121.66    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2121.29
+    411 102   URBAN LA   .828E-03   77.00    1.50    1.76    0.00    0.00    0.00    0.20 3187.02 2121.65    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2121.63
+    412 102   URBAN LA   .360E-04   77.00    1.50    0.09    0.00    0.00    0.00    0.20 3187.02 2121.66    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2119.87
+    413 102   URBAN LA   .198E-03   77.00    1.50    0.33    0.00    0.00    0.00    0.20 3187.02 2121.66    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2121.31
+    414 102   URBAN LA   .115E-02   77.00    1.50    1.53    0.00    0.00    0.00    0.20 3187.02 2121.66    0.00 1050.18    0.00    0.01    0.00    0.07    0.05 2121.63
+    415 103   FAGASA     .162E-03   70.00   97.20   17.10    0.00    0.00    0.00    0.20 3033.26  667.29 1468.92  886.96   33.20    2.73   53.17    9.44    6.61  667.29
+    416 103   URBAN LA   .450E-03   77.00    1.50    0.08    0.00    0.00    0.00    0.20 3033.26 1963.90    0.00 1055.15    0.00    0.01    0.00    0.08    0.05 1961.94
+    417 103   URBAN LA   .468E-03   77.00    1.50    0.30    0.00    0.00    0.00    0.20 3033.26 1963.90    0.00 1055.15    0.00    0.01    0.00    0.08    0.05 1963.54
+    418 103   URBAN LA   .113E-01   77.00    1.50   11.13    0.00    0.00    0.00    0.20 3033.26 1963.71    0.04 1055.05    0.00    0.01    0.00    0.08    0.05 1963.71
+    419 103   URBAN LA   .900E-04   94.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.19    0.00    0.09    0.00    0.00    0.00 2221.15
+    420 103   URBAN LA   .108E-03   94.00    1.50    1.36    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.19    0.00    0.09    0.00    0.00    0.00 2221.72
+    421 103   URBAN LA   .387E-03   94.00    1.50    0.08    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.19    0.00    0.09    0.00    0.00    0.00 2220.17
+    422 103   URBAN LA   .112E-02   94.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.19    0.00    0.09    0.00    0.00    0.00 2221.36
+    423 103   URBAN LA   .454E-02   94.00    1.50    1.87    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.18    0.00    0.09    0.00    0.00    0.00 2221.77
+    424 103   URBAN LA   .180E-04   94.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.19    0.00    0.09    0.00    0.00    0.00 2217.92
+    425 103   URBAN LA   .171E-03   94.00    1.50    2.07    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.18    0.00    0.09    0.00    0.00    0.00 2221.77
+    426 104   URBAN LA   .450E-04   94.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.20    0.00    0.09    0.00    0.00    0.00 2217.91
+    427 104   URBAN LA   .990E-04   94.00    1.50    0.27    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.20    0.00    0.09    0.00    0.00    0.00 2221.10
+    428 104   URBAN LA   .117E-02   94.00    1.50    1.64    0.00    0.00    0.00    0.20 3033.26 2221.77    0.00  806.20    0.00    0.09    0.00    0.00    0.00 2221.72
+    429 104   URBAN LA   .387E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 3033.26 1963.87    0.00 1055.18    0.00    0.01    0.00    0.08    0.05 1959.20
+    430 104   URBAN LA   .207E-03   77.00    1.50    0.31    0.00    0.00    0.00    0.20 3033.26 1963.87    0.00 1055.18    0.00    0.01    0.00    0.08    0.05 1963.53
+    431 104   URBAN LA   .137E-02   77.00    1.50    2.34    0.00    0.00    0.00    0.20 3033.26 1963.86    0.00 1055.17    0.00    0.01    0.00    0.08    0.05 1963.86
+    432 104   URBAN LA   .900E-05   77.00    1.50    0.10    0.00    0.00    0.00    0.20 3033.26 1963.87    0.00 1055.18    0.00    0.01    0.00    0.08    0.05 1962.39
+    433 104   URBAN LA   .180E-03   77.00    1.50    0.30    0.00    0.00    0.00    0.20 3033.26 1963.87    0.00 1055.18    0.00    0.01    0.00    0.08    0.05 1963.52
+    434 104   URBAN LA   .630E-03   77.00    1.50    1.47    0.00    0.00    0.00    0.20 3033.26 1963.87    0.00 1055.18    0.00    0.01    0.00    0.08    0.05 1963.85
+    435 105   URBAN LA   .135E-03   77.00    1.50    0.10    0.00    0.00    0.00    0.20 2721.81 1685.64    0.00 1023.11    0.00    0.01    0.00    0.08    0.05 1684.34
+    436 105   URBAN LA   .540E-03   77.00    1.50    0.31    0.00    0.00    0.00    0.20 2721.81 1685.64    0.00 1023.11    0.00    0.01    0.00    0.08    0.05 1685.13
+    437 105   URBAN LA   .963E-03   77.00    1.50    1.92    0.00    0.00    0.00    0.20 2721.81 1685.64    0.00 1023.11    0.00    0.01    0.00    0.08    0.05 1685.62
+    438 105   URBAN LA   .270E-03   77.00    1.50    0.09    0.00    0.00    0.00    0.20 2721.81 1685.64    0.00 1023.11    0.00    0.01    0.00    0.08    0.05 1684.16
+    439 105   URBAN LA   .315E-03   77.00    1.50    0.28    0.00    0.00    0.00    0.20 2721.81 1685.64    0.00 1023.11    0.00    0.01    0.00    0.08    0.05 1685.32
+    440 105   URBAN LA   .159E-02   77.00    1.50    1.91    0.00    0.00    0.00    0.20 2721.81 1685.63    0.00 1023.10    0.00    0.01    0.00    0.08    0.05 1685.63
+    441 105   URBAN LA   .180E-03   77.00    1.50    0.08    0.00    0.00    0.00    0.20 2721.81 1685.64    0.00 1023.11    0.00    0.01    0.00    0.08    0.05 1683.91
+    442 105   URBAN LA   .171E-03   77.00    1.50    0.29    0.00    0.00    0.00    0.20 2721.81 1685.64    0.00 1023.11    0.00    0.01    0.00    0.08    0.05 1685.11
+    443 105   URBAN LA   .783E-03   77.00    1.50    2.27    0.00    0.00    0.00    0.20 2721.81 1685.62    0.00 1023.09    0.00    0.01    0.00    0.08    0.05 1685.62
+    444 106   URBAN LA   .288E-03   77.00    1.50    0.07    0.00    0.00    0.00    0.20 2721.81 1685.68    0.00 1023.07    0.00    0.01    0.00    0.08    0.05 1683.48
+    445 106   URBAN LA   .252E-03   77.00    1.50    0.28    0.00    0.00    0.00    0.20 2721.81 1685.68    0.00 1023.07    0.00    0.01    0.00    0.08    0.05 1685.36
+    446 106   URBAN LA   .625E-02   77.00    1.50    6.12    0.00    0.00    0.00    0.20 2721.81 1685.57    0.02 1023.00    0.00    0.01    0.00    0.08    0.05 1685.57
+    447 106   FAGASA     .900E-05   70.00   97.20    0.42    0.00    0.00    0.00    0.20 2721.81  663.84 1001.76  960.59    0.39    0.08    4.30    4.95    3.47  663.79
+    448 106   FAGASA     .127E-01   70.00   97.20   16.10    0.00    0.00    0.00    0.20 2721.81  506.34 1348.65  859.89   42.04    2.61   53.63    9.28    6.50  506.34
+    449 106   URBAN LA   .594E-03   70.00    1.50    0.08    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1634.28
+    450 106   URBAN LA   .666E-03   70.00    1.50    0.30    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1635.70
+    451 106   URBAN LA   .163E-02   70.00    1.50    2.58    0.00    0.00    0.00    0.20 2721.81 1636.00    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1635.99
+    452 106   URBAN LA   .990E-04   70.00    1.50    0.07    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1633.81
+    453 106   URBAN LA   .153E-03   70.00    1.50    0.30    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.41    0.00    0.01    0.00    0.08    0.06 1635.70
+    454 106   URBAN LA   .139E-02   70.00    1.50    1.89    0.00    0.00    0.00    0.20 2721.81 1635.99    0.00 1068.40    0.00    0.01    0.00    0.08    0.06 1635.99
+    455 107   URBAN LA   .207E-03   70.00    1.50    0.07    0.00    0.00    0.00    0.20 2721.81 1636.02    0.00 1068.40    0.00    0.01    0.00    0.08    0.06 1631.78
+    456 107   URBAN LA   .324E-03   70.00    1.50    0.29    0.00    0.00    0.00    0.20 2721.81 1636.02    0.00 1068.40    0.00    0.01    0.00    0.08    0.06 1635.49
+    457 107   URBAN LA   .450E-03   70.00    1.50    1.50    0.00    0.00    0.00    0.20 2721.81 1636.01    0.00 1068.40    0.00    0.01    0.00    0.08    0.06 1635.99
+    458 107   URBAN LA   .990E-04   77.00    1.50    0.07    0.00    0.00    0.00    0.20 2721.81 1685.69    0.00 1023.06    0.00    0.01    0.00    0.08    0.05 1683.49
+    459 107   URBAN LA   .225E-03   77.00    1.50    0.33    0.00    0.00    0.00    0.20 2721.81 1685.69    0.00 1023.06    0.00    0.01    0.00    0.08    0.05 1685.41
+    460 107   URBAN LA   .176E-02   77.00    1.50    7.08    0.00    0.00    0.00    0.20 2721.81 1685.57    0.02 1022.98    0.00    0.01    0.00    0.08    0.05 1685.57
+    461 107   FAGASA     .700E-02   70.00   97.20   15.93    0.00    0.00    0.00    0.20 2721.81  506.35 1348.63  859.88   38.73    2.61   53.44    9.28    6.50  506.35
+    462 107   URBAN LA   .900E-05   70.00    1.50    0.12    0.00    0.00    0.00    0.20 2721.81 1636.02    0.00 1068.40    0.00    0.01    0.00    0.08    0.06 1634.96
+    463 107   URBAN LA   .180E-04   70.00    1.50    0.28    0.00    0.00    0.00    0.20 2721.81 1636.02    0.00 1068.40    0.00    0.01    0.00    0.08    0.06 1635.70
+    464 107   URBAN LA   .810E-04   77.00    1.50    1.20    0.00    0.00    0.00    0.20 2721.81 1685.69    0.00 1023.06    0.00    0.01    0.00    0.08    0.05 1685.66
+
+
+
+                AVE MONTHLY BASIN VALUES
+                   SNOW                      WATER               SED
+  MON     RAIN     FALL   SURF Q    LAT Q    YIELD       ET    YIELD      PET
+          (MM)     (MM)     (MM)     (MM)     (MM)     (MM)   (T/HA)     (MM)
+    1   563.93     0.00   220.14   230.89   451.74   101.41    30.38   133.52
+    2   315.47     0.00   105.22   130.97   237.24   102.12     4.27   138.40
+    3   177.71     0.00    18.81    68.28    87.82   107.27     0.32   158.46
+    4   202.39     0.00    28.82   103.36   132.83    74.36     0.35   122.11
+    5   252.55     0.00    67.12   118.89   186.49    57.56     0.65   101.20
+    6   134.66     0.00     9.29    65.38    75.13    58.30     0.14   104.36
+    7   176.17     0.00    32.44    73.27   106.02    59.04     0.59   118.98
+    8   159.18     0.00    30.17    71.00   101.54    64.88     0.54   125.77
+    9   153.19     0.00    32.97    67.79   101.06    56.98     0.83   135.32
+   10   304.31     0.00    77.14   133.46   210.75    63.05     3.12   128.50
+   11   357.15     0.00   112.54   173.58   286.71    72.45     4.16   121.24
+   12   423.47     0.00   169.36   164.65   334.63    77.22    12.22   129.58
+
+     AVE ANNUAL BASIN STRESS DAYS
+               WATER STRESS DAYS =     4.31
+               TEMPERATURE STRESS DAYS =     0.22
+               NITROGEN STRESS DAYS =    10.32
+               PHOSPHORUS STRESS DAYS =     0.12
+               AERATION STRESS DAYS =     0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+         AVE ANNUAL BASIN VALUES
+
+              PRECIP =   3223.3 MM
+              SNOW FALL =    0.00 MM
+              SNOW MELT =     0.00 MM
+              SUBLIMATION =     0.00 MM
+              SURFACE RUNOFF Q =   905.56 MM
+              LATERAL SOIL Q = 1402.73 MM
+              TILE Q =     0.00 MM
+              GROUNDWATER (SHAL AQ) Q =     5.62 MM
+              GROUNDWATER (DEEP AQ) Q =     0.83 MM
+              REVAP (SHAL AQ => SOIL/PLANTS) =   30.35 MM
+              DEEP AQ RECHARGE =     0.82 MM
+              TOTAL AQ RECHARGE =   16.31 MM
+              TOTAL WATER YLD =  2314.71 MM
+              PERCOLATION OUT OF SOIL =   16.17 MM
+              ET =    894.9 MM
+              PET =   1517.5MM
+              TRANSMISSION LOSSES =     0.00 MM
+              SEPTIC INFLOW =       0.00 MM
+              TOTAL SEDIMENT LOADING =     57.85 T/HA
+              TILE FROM IMPOUNDED WATER =     0.000 (MM)
+              EVAPORATION FROM IMPOUNDED WATER =     0.000 (MM)
+              SEEPAGE INTO SOIL FROM IMPOUNDED WATER =    0.000 (MM)
+              OVERFLOW FROM IMPOUNDED WATER =    0.000 (MM)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    12/20/2019 06:57:11 QSWAT Workflow v1.5.2                                       
+                                                                                    
+              AVE ANNUAL BASIN VALUES
+
+
+              NUTRIENTS
+                   ORGANIC N =    50.009 (KG/HA)
+                   ORGANIC P =     6.124 (KG/HA)
+                   NO3 YIELD (SQ) =     0.058 (KG/HA)
+                   NO3 YIELD (LAT) =    2.169 (KG/HA)
+                   NO3 YIELD (TILE) =    0.000 (KG/HA)
+                   SOLP YIELD (TILE) =    0.000(KG/HA)
+                   SOLP YIELD (SURF INLET RISER) =    0.000 (KG/HA)
+                   SOL P YIELD =    0.053 (KG/HA)
+                   NO3 LEACHED =     0.822 (KG/HA)
+                   P LEACHED =     0.006 (KG/HA)
+                   N UPTAKE =     9.578 (KG/HA)
+                   P UPTAKE =    1.869 (KG/HA)
+                   NO3 YIELD (GWQ) =     0.002 (KG/HA)
+                   ACTIVE TO SOLUTION P FLOW =         0.435 (KG/HA)
+                   ACTIVE TO STABLE P FLOW =         0.872 (KG/HA)
+                   N FERTILIZER APPLIED =     0.142 (KG/HA)
+                   P FERTILIZER APPLIED =     0.000 (KG/HA)
+                   N FIXATION =     0.000 (KG/HA)
+                   DENITRIFICATION =     0.013 (KG/HA)
+                   HUMUS MIN ON ACTIVE ORG N =    12.183 (KG/HA)
+                   ACTIVE TO STABLE ORG N =    -6.158 (KG/HA)
+                   HUMUS MIN ON ACTIVE ORG P =    2.085 (KG/HA)
+                   MIN FROM FRESH ORG N =    2.257 (KG/HA)
+                   MIN FROM FRESH ORG P =    0.440 (KG/HA)
+                   NO3 IN RAINFALL =     0.000 (KG/HA)
+                   INITIAL NO3 IN SOIL =      35.393 (KG/HA)
+                   FINAL NO3 IN SOIL =         5.353 (KG/HA)
+                   INITIAL ORG N IN SOIL =   10118.566 (KG/HA)
+                   FINAL ORG N IN SOIL =      9588.239 (KG/HA)
+                   INITIAL MIN P IN SOIL =    1625.942 (KG/HA)
+                   FINAL MIN P IN SOIL =      1581.704 (KG/HA)
+                   INITIAL ORG P IN SOIL =    1239.524 (KG/HA)
+                   FINAL ORG P IN SOIL =    1171.692 (KG/HA)
+                   NO3 IN FERT =     0.142 (KG/HA)
+                   AMMONIA IN FERT =     0.000 (KG/HA)
+                   ORG N IN FERT =     0.000 (KG/HA)
+                   MINERAL P IN FERT =     0.000 (KG/HA)
+                   ORG P IN FERT =     0.000 (KG/HA)
+                   N REMOVED IN YIELD =     6.909 (KG/HA)
+                   P REMOVED IN YIELD =     1.344 (KG/HA)
+                   AMMONIA VOLATILIZATION =     0.000 (KG/HA)
+                   AMMONIA NITRIFICATION =      0.000 (KG/HA)
+                   NO3 EVAP-LAYER 2 TO 1 =    2.638
+
+                   DIE-GRO P Q =           0.0 (No/M2)
+                   DIE-GRO LP Q =           0.0 (No/M2)
+                   DIE-GRO P SED =          0.0 (No/M2)
+                   DIE-GRO LP SED =          0.0 (No/M2)
+                   BACT P RUNOFF =          0.0 (No/M2)
+                   BACT LP RUNOFF =          0.0 (No/M2)
+                   BACT P SEDIMENT =          0.0 (No/M2)
+                   BACT LP SEDIMENT =          0.0 (No/M2)
+                   BACT P INCORP =          0.0 (No/M2)
+                   BACT LP INCORP =          0.0 (No/M2)
+
+                   NITRATE SEPTIC =         0.00 (kg/ha)
+                   AMMONIA SEPTIC =         0.00 (kg/ha)
+                   ORG N SEPTIC =         0.00 (kg/ha)
+                   FRESH ORGN SEPTIC =         0.00 (kg/ha)
+                   ORG P SEPTIC =         0.00 (kg/ha)
+                   FRESH ORGP SEPTIC =         0.00 (kg/ha)
+                   SOL P SEPTIC =         0.00 (kg/ha)
+                   BOD SEPTIC =         0.00 (kg/ha)
