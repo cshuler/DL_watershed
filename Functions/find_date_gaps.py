@@ -3,10 +3,11 @@
 """dataset_raw is any time series pandas dataframe that has datetime objects as its index
    Colinterest is the data column that you want to look for gaps in """
 
+# import modules
 import os
 import pandas as pd
 import numpy as np
-   
+
    
 def find_date_gaps(dataset_raw, Colinterest):
 
