@@ -8,6 +8,13 @@
 (Maybe use NAME: as a string name to assosiate with the output of this function?)
 """
 
+import os
+import pandas as pd
+import numpy as np 
+from sklearn.preprocessing import StandardScaler
+
+
+
 def make_training_dataset(unbroken_data, x_cols, y_col, TS_value = 0.80):
     
     TRAIN_SPLIT = int(len(unbroken_data)*TS_value)     
