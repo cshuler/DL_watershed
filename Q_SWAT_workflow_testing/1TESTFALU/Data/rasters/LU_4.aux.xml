@@ -7,7 +7,7 @@
   </Metadata>
   <PAMRasterBand band="1">
     <Description>LU_4</Description>
-    <NoDataValue>1.28000000000000E+002</NoDataValue>
+    <NoDataValue>1.28000000000000E+02</NoDataValue>
     <ColorInterp>Palette</ColorInterp>
     <ColorTable>
       <Entry c1="0" c2="0" c3="0" c4="255" />

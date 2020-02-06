@@ -7,11 +7,25 @@
   </Metadata>
   <PAMRasterBand band="1">
     <Description>soil_4</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>1</HistMin>
+        <HistMax>23</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>909584|0|0|0|0|0|0|0|0|0|0|925040|0|0|0|0|0|0|0|0|0|0|0|416856|0|0|0|0|0|0|0|0|0|0|226586|0|0|0|0|0|0|0|0|0|0|0|276441|0|0|0|0|0|0|0|0|0|0|914317|0|0|0|0|0|0|0|0|0|0|0|135771|0|0|0|0|0|0|0|0|0|0|0|522313|0|0|0|0|0|0|0|0|0|0|55651|0|0|0|0|0|0|0|0|0|0|0|1313817|0|0|0|0|0|0|0|0|0|0|535899|0|0|0|0|0|0|0|0|0|0|0|2037276|0|0|0|0|0|0|0|0|0|0|0|1275042|0|0|0|0|0|0|0|0|0|0|958698|0|0|0|0|0|0|0|0|0|0|0|222448|0|0|0|0|0|0|0|0|0|0|415375|0|0|0|0|0|0|0|0|0|0|0|7243|0|0|0|0|0|0|0|0|0|0|0|905239|0|0|0|0|0|0|0|0|0|0|19769061|0|0|0|0|0|0|0|0|0|0|0|603659|0|0|0|0|0|0|0|0|0|0|947238|0|0|0|0|0|0|0|0|0|0|0|402613|0|0|0|0|0|0|0|0|0|0|0|286045</HistCounts>
+      </HistItem>
+    </Histograms>
     <Metadata domain="IMAGE_STRUCTURE">
       <MDI key="PIXELTYPE">SIGNEDBYTE</MDI>
     </Metadata>
     <Metadata>
       <MDI key="RepresentationType">THEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">29.72950321013669</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
     </Metadata>
   </PAMRasterBand>
 </PAMDataset>
