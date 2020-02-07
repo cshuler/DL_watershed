@@ -2,7 +2,7 @@
     SWAT Dec 23 2016    VER 2016/Rev 664                                                                 0/ 0/   0      0: 0: 0
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
          Number of years in run:    5
          Area of watershed:        1.363 km2
@@ -10,7 +10,7 @@
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
 Annual Summary for Watershed in year    1 of simulation
 
@@ -21,7 +21,7 @@ TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
 Annual Summary for Watershed in year    2 of simulation
 
@@ -32,7 +32,7 @@ TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
 Annual Summary for Watershed in year    3 of simulation
 
@@ -57,7 +57,7 @@ TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
 Annual Summary for Watershed in year    4 of simulation
 
@@ -82,7 +82,7 @@ TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
 Annual Summary for Watershed in year    5 of simulation
 
@@ -110,7 +110,7 @@ TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
     FINAL VALUES
 
@@ -118,7 +118,7 @@ TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
                                             Average Plant Values (kg/ha)
 
@@ -286,7 +286,7 @@ TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
          AVE ANNUAL BASIN VALUES
 
@@ -317,7 +317,7 @@ TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   
     SWAT Dec 23 2016    VER 2016/Rev 664                                            
 
     General Input/Output section (file.cio):                                        
-    2/6/2020 17:49:42 QSWAT Workflow v1.5.2                                         
+    2/7/2020 10:54:15 QSWAT Workflow v1.5.2                                         
                                                                                     
               AVE ANNUAL BASIN VALUES
 

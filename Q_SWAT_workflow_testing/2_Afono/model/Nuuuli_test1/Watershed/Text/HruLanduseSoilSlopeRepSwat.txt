@@ -1,4 +1,4 @@
-Landuse/Soil/Slope and HRU Distribution        06 February 2020 17.49
+Landuse/Soil/Slope and HRU Distribution        07 February 2020 10.53
 
 Using percentage of subbasin as a threshold
 Multiple HRUs Landuse/Soil/Slope option        Thresholds: 0/0/0 [%]

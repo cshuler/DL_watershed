@@ -1,4 +1,4 @@
- .Sol file Watershed HRU:60 Subbasin:9 HRU:4 Luse:FRSE Soil: URBAN LAND Slope: 3.0-9999 2/6/2020 17:49:42 QSWAT Workflow v1.5.2
+ .Sol file Watershed HRU:60 Subbasin:9 HRU:4 Luse:FRSE Soil: URBAN LAND Slope: 3.0-9999 2/7/2020 10:54:11 QSWAT Workflow v1.5.2
  Soil Name: URBAN LAND
  Soil Hydrologic Group: D
  Maximum rooting depth(mm) :  150.00

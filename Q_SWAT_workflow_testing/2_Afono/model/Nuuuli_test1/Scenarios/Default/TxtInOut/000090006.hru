@@ -1,4 +1,4 @@
- .hru file Watershed HRU:62 Subbasin:9 HRU:6 Luse:URHD Soil: URBAN LAND Slope: 3.0-9999 2/6/2020 17:49:41 QSWAT Workflow v1.5.2
+ .hru file Watershed HRU:62 Subbasin:9 HRU:6 Luse:URHD Soil: URBAN LAND Slope: 3.0-9999 2/7/2020 10:54:05 QSWAT Workflow v1.5.2
        0.0055249    | HRU_FR : Fraction of subbasin area contained in HRU
           24.390    | SLSUBBSN : Average slope length [m]
            0.136    | HRU_SLP : Average slope stepness [m/m]

@@ -1,4 +1,4 @@
- .hru file Watershed HRU:23 Subbasin:5 HRU:3 Luse:FRSE Soil: FAGASA Slope: 0-1.0 2/6/2020 17:49:41 QSWAT Workflow v1.5.2
+ .hru file Watershed HRU:23 Subbasin:5 HRU:3 Luse:FRSE Soil: FAGASA Slope: 0-1.0 2/7/2020 10:54:05 QSWAT Workflow v1.5.2
        0.0004014    | HRU_FR : Fraction of subbasin area contained in HRU
          121.951    | SLSUBBSN : Average slope length [m]
            0.000    | HRU_SLP : Average slope stepness [m/m]
