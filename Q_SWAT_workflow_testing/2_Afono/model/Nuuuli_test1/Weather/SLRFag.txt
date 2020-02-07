@@ -1,2 +1,0 @@
-ID,NAME,Lat,Long,Elevation
-1,WXS_S,-14.291,-170.683,0.221

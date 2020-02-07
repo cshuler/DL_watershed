@@ -1,9 +1,9 @@
- .sub file Subbasin: 3 2/5/2020 22:05:22 QSWAT Workflow v1.5.2
-      116.530000    | SUB_KM : Subbasin area [km2]
+ .sub file Subbasin: 3 2/6/2020 17:49:42 QSWAT Workflow v1.5.2
+        0.127330    | SUB_KM : Subbasin area [km2]
 
 Climate in subbasin
-       32.986874    | LATITUDE : Latitude of subbasin [degrees]
-          156.59    | ELEV : Elevation of subbasin [m]
+      -14.268451    | LATITUDE : Latitude of subbasin [degrees]
+          217.28    | ELEV : Elevation of subbasin [m]
                1    | IRGAGE: precip gage data used in subbasin
                1    | ITGAGE: temp gage data used in subbasin
                1    | ISGAGE: solar radiation gage data used in subbasin
@@ -22,9 +22,9 @@ Elevation Bands
            0.000    | TLAPS : Temperature lapse rate [deg C/km]
            0.000    | SNO_SUB : Initial snow water content [mm]
 Tributary Channels
-          24.891    | CH_L1 : Longest tributary channel length [km]
-           0.002    | CH_S1 : Average slope of tributary channel [m/m]
-          22.411    | CH_W1 : Average width of tributary channel [m]
+           0.625    | CH_L1 : Longest tributary channel length [km]
+           0.347    | CH_S1 : Average slope of tributary channel [m/m]
+           0.375    | CH_W1 : Average width of tributary channel [m]
            0.000    | CH_K1 : Effective hydraulic conductivity in tributary channel [mm/hr]
            0.014    | CH_N1 : Manning's 'n' value for the tributary channels
 Impoundments
@@ -50,7 +50,7 @@ Climate Change
 | HUMINC: Climate change monthly humidity adjustment (July - December)
    0.000   0.000   0.000   0.000   0.000   0.000
 | HRU data
-              12    | HRUTOT : Total number of HRUs modeled in subbasin
+               2    | HRUTOT : Total number of HRUs modeled in subbasin
 
 HRU: Depressional Storage/Pothole
 
@@ -61,13 +61,3 @@ HRU: Riparian
 HRU: General
 000030001.hru000030001.mgt000030001.sol000030001.chm 000030001.gw             000030001.sep
 000030002.hru000030002.mgt000030002.sol000030002.chm 000030002.gw             000030002.sep
-000030003.hru000030003.mgt000030003.sol000030003.chm 000030003.gw             000030003.sep
-000030004.hru000030004.mgt000030004.sol000030004.chm 000030004.gw             000030004.sep
-000030005.hru000030005.mgt000030005.sol000030005.chm 000030005.gw             000030005.sep
-000030006.hru000030006.mgt000030006.sol000030006.chm 000030006.gw             000030006.sep
-000030007.hru000030007.mgt000030007.sol000030007.chm 000030007.gw             000030007.sep
-000030008.hru000030008.mgt000030008.sol000030008.chm 000030008.gw             000030008.sep
-000030009.hru000030009.mgt000030009.sol000030009.chm 000030009.gw             000030009.sep
-000030010.hru000030010.mgt000030010.sol000030010.chm 000030010.gw             000030010.sep
-000030011.hru000030011.mgt000030011.sol000030011.chm 000030011.gw             000030011.sep
-000030012.hru000030012.mgt000030012.sol000030012.chm 000030012.gw             000030012.sep

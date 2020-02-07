@@ -1,22 +1,22 @@
- .Sol file Watershed HRU:98 Subbasin:9 HRU:6 Luse:WATR Soil: TX357 Slope: 0-5.0 2/5/2020 22:05:22 QSWAT Workflow v1.5.2
- Soil Name: TX357
- Soil Hydrologic Group: -
- Maximum rooting depth(mm) : -999.00
+ .Sol file Watershed HRU:62 Subbasin:9 HRU:6 Luse:URHD Soil: URBAN LAND Slope: 3.0-9999 2/6/2020 17:49:42 QSWAT Workflow v1.5.2
+ Soil Name: URBAN LAND
+ Soil Hydrologic Group: D
+ Maximum rooting depth(mm) :  150.00
  Porosity fraction from which anions are excluded: 0.500
  Crack volume potential of soil: 0.500
- Texture 1                : -999
- Depth                [mm]:
- Bulk Density Moist [g/cc]:
- Ave. AW Incl. Rock Frag  :
- Ksat. (est.)      [mm/hr]:
- Organic Carbon [weight %]:
- Clay           [weight %]:
- Silt           [weight %]:
- Sand           [weight %]:
- Rock Fragments   [vol. %]:
- Soil Albedo (Moist)      :
- Erosion K                :
- Salinity (EC, Form 5)    :
- Soil pH                  :
- Soil CACO3               :
+ Texture 1                : VAR
+ Depth                [mm]:      150.00
+ Bulk Density Moist [g/cc]:        0.00
+ Ave. AW Incl. Rock Frag  :        0.00
+ Ksat. (est.)      [mm/hr]:        0.01
+ Organic Carbon [weight %]:        0.00
+ Clay           [weight %]:        0.00
+ Silt           [weight %]:        0.00
+ Sand           [weight %]:        0.00
+ Rock Fragments   [vol. %]:        0.00
+ Soil Albedo (Moist)      :        0.16
+ Erosion K                :        0.00
+ Salinity (EC, Form 5)    :        0.00
+ Soil pH                  :        0.00
+ Soil CACO3               :        0.00
                               

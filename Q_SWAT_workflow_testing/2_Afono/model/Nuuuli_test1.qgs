@@ -56,19 +56,19 @@
     <mapcanvas>
         <units>meters</units>
         <extent>
-            <xmin>-170.66043248</xmin>
-            <ymin>-14.2470773745</ymin>
-            <xmax>-170.637747296</xmax>
-            <ymax>-14.2750403367</ymax>
+            <xmin>536631.861169</xmin>
+            <ymin>8424922.9626</ymin>
+            <xmax>539073.022297</xmax>
+            <ymax>8421823.39702</ymax>
         </extent>
         <projections>0</projections>
         <destinationsrs>
             <spatialrefsys>
                 <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                <srsid>3452</srsid>
-                <srid>4326</srid>
-                <authid>EPSG:4326</authid>
-                <description></description>
+                <srsid>3152</srsid>
+                <srid>32702</srid>
+                <authid>EPSG:32702</authid>
+                <description>WGS 84 / UTM zone 2S</description>
                 <projectionacronym>utm</projectionacronym>
                 <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                 <geographicflag>false</geographicflag>
@@ -166,10 +166,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -187,8 +187,8 @@
                     <rasterTransparency/>
                     <rastershader>
                         <colorrampshader colorRampType="INTERPOLATED" clip="0">
-                            <item alpha="255" value="-11.1749677658" label="-11 - 69" color="#0a640a"/>
-                            <item alpha="255" value="150.306181988" label="69 - 330" color="#997d19"/>
+                            <item alpha="255" value="-3.28318309784" label="-3 - 73" color="#0a640a"/>
+                            <item alpha="255" value="150.500735462" label="73 - 330" color="#997d19"/>
                             <item alpha="255" value="509.84375" label="330 - 509" color="#ffffff"/>
                         </colorrampshader>
                     </rastershader>
@@ -211,10 +211,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -254,10 +254,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -578,10 +578,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -637,10 +637,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -940,10 +940,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -985,10 +985,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -1057,10 +1057,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -1390,10 +1390,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
@@ -1652,10 +1652,10 @@
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs </proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description></description>
+                    <srsid>3152</srsid>
+                    <srid>32702</srid>
+                    <authid>EPSG:32702</authid>
+                    <description>WGS 84 / UTM zone 2S</description>
                     <projectionacronym>utm</projectionacronym>
                     <ellipsoidacronym>default_elipsoid_acr</ellipsoidacronym>
                     <geographicflag>false</geographicflag>

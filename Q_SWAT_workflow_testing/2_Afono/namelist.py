@@ -24,11 +24,11 @@ WGEN_user          = "WGEN_user_theirs.csv"    # note this is just their file no
 Outlet             = "Afono.shp" # it should have same format as in the example
 
 # Weather stationinformation files
-Precipitation      = "PCPFag2.txt"
-Temperature        = "TmpFag2.txt"
-Rel_Humidity       = "HMDFag.txt"
-Solar_Radiation    = "SLRFag.txt"
-Wind               = "WNDFag.txt"
+Precipitation      = "1_Pcp_loc.txt"
+Temperature        = "2_Tmp_loc.txt"
+Rel_Humidity       = "3_HMD_loc.txt"
+Solar_Radiation    = "5_SLR_loc.txt"
+Wind               = "4_WND_loc.txt"
 
 
 """---------------------------  Project Options  ----------------------"""

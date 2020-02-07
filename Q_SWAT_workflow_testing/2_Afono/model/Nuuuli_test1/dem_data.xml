@@ -1,7 +1,7 @@
 <demdata>
-<epsg>4326</epsg>
-<minx>-170.66043248</minx>
-<maxx>-170.637747296</maxx>
-<miny>-14.2750403367</miny>
-<maxy>-14.2470773745</maxy>
+<epsg>32702</epsg>
+<minx>536631.861169</minx>
+<maxx>539073.022297</maxx>
+<miny>8421823.39702</miny>
+<maxy>8424922.9626</maxy>
 </demdata>

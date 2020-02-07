@@ -1,8 +1,8 @@
- .hru file Watershed HRU:87 Subbasin:8 HRU:5 Luse:PAST Soil: TX633 Slope: 5.0-10.0 2/5/2020 22:05:17 QSWAT Workflow v1.5.2
-       0.0137489    | HRU_FR : Fraction of subbasin area contained in HRU
-          60.976    | SLSUBBSN : Average slope length [m]
-           0.060    | HRU_SLP : Average slope stepness [m/m]
-           0.150    | OV_N : Manning's "n" value for overland flow
+ .hru file Watershed HRU:50 Subbasin:8 HRU:5 Luse:SWCH Soil: AUA Slope: 3.0-9999 2/6/2020 17:49:41 QSWAT Workflow v1.5.2
+       0.0102506    | HRU_FR : Fraction of subbasin area contained in HRU
+          24.390    | SLSUBBSN : Average slope length [m]
+           0.155    | HRU_SLP : Average slope stepness [m/m]
+           0.100    | OV_N : Manning's "n" value for overland flow
            0.000    | LAT_TTIME : Lateral flow travel time [days]
            0.000    | LAT_SED : Sediment concentration in lateral flow and groundwater flow [mg/l]
            0.000    | SLSOIL : Slope length for lateral subsurface flow [m]
