@@ -1,3 +1,9 @@
+2-6-2020
+- Look for old SWAT fagaalu files to get syntax for pulling data from the HRU and SUB files
+- push what did with Afono to Github, run for other watersheds
+- once run, script up a way to symbolize Subbasins with one of the SWAT Variables to show how much flow comes from each sub basin. 
+
+
 Status and steps
 
 Current status 12-20-19
