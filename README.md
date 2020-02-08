@@ -8,9 +8,12 @@ Watershed models, such as the Soil & Water Assessment Tool (SWAT) are industry s
 
 
 
+### Preliminary SWAT Model Results
+<p align="center">
+   Total Water Yield at subbasin scale
+</p>           
 
-
-Solarized dark             |  Solarized Ocean
+Fagaalu Watershed            |  Afono Watershed
 :-------------------------:|:-------------------------:
 ![](/Q_SWAT_workflow_testing/1_fagaalu/model/Fagaalu_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/2_Afono/model/Afono_2/Figures/WYLD_2015.png)
 
