@@ -17,3 +17,10 @@ Fagaalu Watershed            |  Afono Watershed
 :-------------------------:|:-------------------------:
 ![](/Q_SWAT_workflow_testing/1_fagaalu/model/Fagaalu_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/2_Afono/model/Afono_2/Figures/WYLD_2015.png)
 
+Nuuuli Watershed            |  Maloata Watershed
+:-------------------------:|:-------------------------:
+![](/Q_SWAT_workflow_testing/3_Nuuuli/model/Nuuuli_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/5_Maloata/model/Maloata_2/Figures/WYLD_2015.png)
+
+Fagasa Watershed            |  Vaipito Watershed
+:-------------------------:|:-------------------------:
+![](/Q_SWAT_workflow_testing/6_Fagasa/model/Fagasa_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/8_vaipito/model/Vaipito_2/Figures/WYLD_2015.png)
