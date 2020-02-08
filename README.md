@@ -12,5 +12,5 @@ Watershed models, such as the Soil & Water Assessment Tool (SWAT) are industry s
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://i.pinimg.com/236x/f8/64/3a/f8643ae03857fc2f52a6cee212698100--muppets-most-wanted-the-muppets.jpg)  |  ![](https://...Ocean.png)
+![](/Q_SWAT_workflow_testing/1_fagaalu/model/Fagaalu_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/2_Afono/model/Afono_2/Figures/WYLD_2015.png)
 
