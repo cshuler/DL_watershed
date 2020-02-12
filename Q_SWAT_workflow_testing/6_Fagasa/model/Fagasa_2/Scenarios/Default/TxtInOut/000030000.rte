@@ -1,13 +1,13 @@
- .rte file Subbasin: 3 2/11/2020 16:46:09 QSWAT Workflow v1.5.2
-         0.836    | CHW2 : Main channel width [m]
-         0.097    | CHD : Main channel depth [m]
-       0.16924    | CH_S2 : Main channel slope [m/m]
-         0.463    | CH_L2 : Main channel length [km]
+ .rte file Subbasin: 3 2/11/2020 17:04:58 QSWAT Workflow v1.5.2
+         0.365    | CHW2 : Main channel width [m]
+         0.056    | CHD : Main channel depth [m]
+       0.24951    | CH_S2 : Main channel slope [m/m]
+         0.184    | CH_L2 : Main channel length [km]
          0.014    | CH_N2 : Manning's nvalue for main channel
          0.000    | CH_K2 : Effective hydraulic conductivity [mm/hr]
          0.000    | CH_COV1: Channel erodibility factor
          0.000    | CH_COV2 : Channel cover factor
-         8.586    | CH_WDR : Channel width:depth ratio [m/m]
+         6.515    | CH_WDR : Channel width:depth ratio [m/m]
          0.000    | ALPHA_BNK : Baseflow alpha factor for bank storage [days]
           0.00    | ICANAL : Code for irrigation canal
           0.00    | CH_ONCO : Organic nitrogen concentration in the channel [ppm]

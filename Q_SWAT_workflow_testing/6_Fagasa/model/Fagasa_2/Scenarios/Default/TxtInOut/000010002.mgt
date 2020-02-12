@@ -1,4 +1,4 @@
- .mgt file Watershed HRU:2 Subbasin:1 HRU:2 Luse:FRSE Soil: AUA Slope: 0-1.0 2/11/2020 16:46:09 QSWAT Workflow v1.5.2
+ .mgt file Watershed HRU:2 Subbasin:1 HRU:2 Luse:FRSE Soil: FAGASA Slope: 3.0-9999 2/11/2020 17:04:58 QSWAT Workflow v1.5.2
                0    | NMGT:Management code
 Initial Plant Growth Parameters
                0    | IGRO: Land cover status: 0-none growing; 1-growing
@@ -8,7 +8,7 @@ Initial Plant Growth Parameters
             0.00    | PHU_PLT: Number of heat units to bring plant to maturity (IGRO = 1)
 General Management Parameters
             0.20    | BIOMIX: Biological mixing efficiency
-           55.00    | CN2: Initial SCS CN II value
+           70.00    | CN2: Initial SCS CN II value
             1.00    | USLE_P: USLE support practice factor
             0.00    | BIO_MIN: Minimum biomass for grazing (kg/ha)
            0.000    | FILTERW: width of edge of field filter strip (m)

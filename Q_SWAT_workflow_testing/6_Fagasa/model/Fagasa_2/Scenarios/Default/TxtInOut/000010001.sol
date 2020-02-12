@@ -1,4 +1,4 @@
- .Sol file Watershed HRU:1 Subbasin:1 HRU:1 Luse:SWCH Soil: AUA Slope: 3.0-9999 2/11/2020 16:46:09 QSWAT Workflow v1.5.2
+ .Sol file Watershed HRU:1 Subbasin:1 HRU:1 Luse:FRSE Soil: AUA Slope: 3.0-9999 2/11/2020 17:04:58 QSWAT Workflow v1.5.2
  Soil Name: AUA
  Soil Hydrologic Group: B
  Maximum rooting depth(mm) : 1520.00

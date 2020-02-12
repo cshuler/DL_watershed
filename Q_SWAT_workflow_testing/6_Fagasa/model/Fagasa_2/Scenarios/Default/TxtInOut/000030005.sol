@@ -1,4 +1,4 @@
- .Sol file Watershed HRU:14 Subbasin:3 HRU:5 Luse:URHD Soil: FAGASA Slope: 3.0-9999 2/11/2020 16:46:09 QSWAT Workflow v1.5.2
+ .Sol file Watershed HRU:21 Subbasin:3 HRU:5 Luse:FRSE Soil: FAGASA Slope: 3.0-9999 2/11/2020 17:04:58 QSWAT Workflow v1.5.2
  Soil Name: FAGASA
  Soil Hydrologic Group: C
  Maximum rooting depth(mm) :  840.00

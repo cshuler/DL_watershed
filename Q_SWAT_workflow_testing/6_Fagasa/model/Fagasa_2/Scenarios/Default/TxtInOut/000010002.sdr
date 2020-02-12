@@ -1,4 +1,4 @@
- .sdr file Watershed HRU:2 Subbasin:1 HRU:2 Luse:FRSE Soil: AUA Slope: 0-1.0 2/11/2020 16:46:08 QSWAT Workflow v1.5.2
+ .sdr file Watershed HRU:2 Subbasin:1 HRU:2 Luse:FRSE Soil: FAGASA Slope: 3.0-9999 2/11/2020 17:04:57 QSWAT Workflow v1.5.2
      50.00    | RE: Effective radius of drains (mm)
   15000.00    | SDRAIN: Distance bwtween two drain tubes or tiles (mm)
      10.00    | DRAIN_CO: Drainage coefficient (mm/day)

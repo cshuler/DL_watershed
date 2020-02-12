@@ -1,22 +1,22 @@
- .Sol file Watershed HRU:2 Subbasin:1 HRU:2 Luse:FRSE Soil: AUA Slope: 0-1.0 2/11/2020 16:46:09 QSWAT Workflow v1.5.2
- Soil Name: AUA
- Soil Hydrologic Group: B
- Maximum rooting depth(mm) : 1520.00
+ .Sol file Watershed HRU:2 Subbasin:1 HRU:2 Luse:FRSE Soil: FAGASA Slope: 3.0-9999 2/11/2020 17:04:58 QSWAT Workflow v1.5.2
+ Soil Name: FAGASA
+ Soil Hydrologic Group: C
+ Maximum rooting depth(mm) :  840.00
  Porosity fraction from which anions are excluded: 0.500
  Crack volume potential of soil: 0.500
- Texture 1                : STV-SICL-ST-CL-STV-CL
- Depth                [mm]:      180.00      460.00     1520.00
- Bulk Density Moist [g/cc]:        0.95        0.95        0.95
- Ave. AW Incl. Rock Frag  :        0.13        0.13        0.10
- Ksat. (est.)      [mm/hr]:      101.63      101.63      101.63
- Organic Carbon [weight %]:        3.48        1.16        1.74
- Clay           [weight %]:       34.00       37.00       37.00
- Silt           [weight %]:       56.00       33.40       33.40
- Sand           [weight %]:       10.00       29.60       29.60
- Rock Fragments   [vol. %]:       36.00       30.00       40.00
- Soil Albedo (Moist)      :        0.16        0.16        0.16
- Erosion K                :        0.17        0.20        0.20
- Salinity (EC, Form 5)    :        0.00        0.00        0.00
- Soil pH                  :        0.00        0.00        0.00
- Soil CACO3               :        0.00        0.00        0.00
+ Texture 1                : SIC-CB-SIC-SIC-BR
+ Depth                [mm]:      130.00      300.00      740.00      840.00
+ Bulk Density Moist [g/cc]:        1.05        1.05        1.05        0.00
+ Ave. AW Incl. Rock Frag  :        0.13        0.13        0.13        0.00
+ Ksat. (est.)      [mm/hr]:      101.63      101.63      101.63       78.77
+ Organic Carbon [weight %]:        4.06        2.32        1.16        0.00
+ Clay           [weight %]:       47.00       45.00       40.00        0.00
+ Silt           [weight %]:       47.00       47.80       52.00        0.00
+ Sand           [weight %]:        6.00        7.20        8.00        0.00
+ Rock Fragments   [vol. %]:       20.00       29.00       15.00        0.00
+ Soil Albedo (Moist)      :        0.16        0.16        0.16        0.16
+ Erosion K                :        0.10        0.17        0.15        0.00
+ Salinity (EC, Form 5)    :        0.00        0.00        0.00        0.00
+ Soil pH                  :        0.00        0.00        0.00        0.00
+ Soil CACO3               :        0.00        0.00        0.00        0.00
                               

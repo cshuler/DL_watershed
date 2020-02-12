@@ -34,7 +34,7 @@ Wind               = "4_WND_loc.txt"
 """---------------------------  Project Options  ----------------------"""
 # Watershed Deliniation (1 = Cells)
 WS_thresholds_type    = 1            
-WS_threshold          = 998
+WS_threshold          = 600
 OUT_Snap_threshold    = 300                # metres 
 Burn_in_shape         = ""                 # leave as "" if none
 
