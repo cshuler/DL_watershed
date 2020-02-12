@@ -2012,7 +2012,7 @@
                 <targetVal type="int">0</targetVal>
             </hru>
             <delin>
-                <threshold type="int">998</threshold>
+                <threshold type="int">300</threshold>
                 <wshed type="QString">Source\demwshed.shp</wshed>
                 <net type="QString">Source\demnet.shp</net>
                 <useOutlets type="int">1</useOutlets>

@@ -1,0 +1,428 @@
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                                                 0/ 0/   0      0: 0: 0
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+         Number of years in run:   12
+         Area of watershed:        0.536 km2
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    1 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    2 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    3 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    4 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    5 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    6 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    7 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    8 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year    9 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+    1  576.60  157.64  277.89   13.32   34.60    0.00  102.02   88.04  117.32  449.48    8.03    0.00    0.41    0.64    0.00    21.66    0.01    2.65    0.00
+    2  144.70   40.91   83.72   16.27    9.91    0.00   53.69   68.31  106.73  141.60    4.02    0.00    0.11    0.19    4.78     6.09    0.00    0.74    0.00
+    3   93.80    0.05   35.12   11.13    0.00    0.00   27.47   84.82  115.30   47.07    0.00    0.00    0.00    0.00    0.93     0.00    0.00    0.00    0.00
+    4  238.90   31.47   97.68    2.55    1.10    0.00   60.21   61.57  112.37  132.32    0.02    0.00    0.03    0.00    0.29     0.03    0.00    0.00    0.00
+    5  134.70    2.18   70.52    1.58    1.73    0.00   58.15   75.94  133.64   74.80    0.00    0.00    0.05    0.01    0.02     0.00    0.00    0.00    0.00
+    6  299.10  103.52  112.10    2.58    5.84    0.00   74.46   61.46   88.63  218.61    0.14    0.00    0.17    0.05    0.00     0.27    0.01    0.03    0.00
+    7  248.80   18.95  134.43    3.94    8.90    0.00   86.24   74.93  103.18  157.69    0.04    0.00    0.18    0.09    0.02     0.09    0.00    0.01    0.00
+    8  467.80  168.19  198.17    7.16   20.87    0.00   94.13   72.51  112.78  373.92    0.87    0.01    0.22    0.22    0.01     2.04    0.01    0.25    0.00
+    9  166.70   19.23   69.97   10.01    4.17    0.00   85.36   82.38  150.55   99.67    0.24    0.00    0.05    0.05    0.00     0.46    0.00    0.06    0.00
+   10  234.50   54.51   84.81    6.70    4.69    0.00   93.73   76.14  163.72  146.49    1.15    0.01    0.10    0.07    0.00     2.05    0.00    0.25    0.00
+   11  180.90   28.68   72.93    4.47    3.35    0.00   92.93   77.43  150.07  106.48    1.08    0.00    0.09    0.06    0.00     1.69    0.00    0.21    0.00
+   12  309.80   53.05  142.27    5.14   11.30    0.00   96.79   97.69  145.89  200.85    3.64    0.00    0.22    0.20    0.00     4.84    0.00    0.59    0.00
+
+ 2013 3096.30  678.39 1379.62   84.84  106.45    0.00   96.79  921.23 1500.18 2148.99   19.24    0.03    1.63    1.58    6.06    39.24    0.04    4.80    0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year   10 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+    1  549.60  171.54  258.99   10.92   30.57    0.00   94.27   97.15  142.72  441.95    7.00    0.00    0.39    0.55    0.00    24.62    0.01    3.01    0.00
+    2  351.60   73.14  159.51   11.18   14.97    0.00   95.61   99.68  144.09  244.36    0.26    0.00    0.02    0.02    5.91     0.75    0.00    0.09    0.00
+    3  222.80   38.41   86.37   11.54    4.22    0.00   62.72  130.68  167.16  136.95    0.02    0.00    0.00    0.00    1.20     0.03    0.00    0.00    0.00
+    4  466.60   73.93  211.85    8.02   16.46    0.00   99.93  116.91  131.86  294.38    0.03    0.00    0.05    0.02    0.41     0.04    0.00    0.01    0.00
+    5  221.20   41.02  104.69    9.72    6.91    0.00   97.71   80.06  141.57  156.03    0.02    0.00    0.12    0.03    0.02     0.04    0.00    0.00    0.00
+    6  204.50   31.49   91.70    8.68    7.13    0.00   88.66   84.23  138.40  132.44    0.02    0.00    0.11    0.04    0.00     0.04    0.00    0.00    0.00
+    7  729.10  442.49  167.56    7.60   21.73    0.00  101.64   66.03  111.65  618.21    0.86    0.01    0.26    0.21    0.02     1.90    0.02    0.23    0.00
+    8  116.20    3.65   69.01    9.88    3.50    0.00   85.23   74.28  134.70   83.15    0.01    0.00    0.07    0.03    0.01     0.02    0.00    0.00    0.00
+    9  109.60    8.95   43.39    4.36    1.37    0.00   83.93   57.59  137.57   57.24    0.09    0.00    0.06    0.02    0.01     0.18    0.00    0.02    0.00
+   10   90.50    9.43   36.08    2.19    1.13    0.00   74.92   52.72  176.52   48.17    0.13    0.00    0.05    0.02    0.00     0.29    0.00    0.04    0.00
+   11  332.20   53.23  160.89    2.58   11.19    0.00   93.34   88.10  134.67  217.07    1.36    0.00    0.30    0.22    0.00     2.77    0.00    0.34    0.00
+   12  450.40  135.16  192.08    6.23   19.92    0.00   98.34   97.55  147.35  333.87    2.88    0.00    0.29    0.37    0.00     7.28    0.01    0.89    0.00
+
+ 2014 3844.30 1082.44 1582.10   92.90  139.10    0.00   98.34 1044.98 1708.26 2763.82   12.68    0.04    1.72    1.53    7.58    37.98    0.05    4.65    0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year   11 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+    1  682.50  232.64  300.60   12.75   38.67    0.00   99.30  101.41  138.95  546.53   12.64    0.00    0.42    0.73    0.00    32.02    0.02    3.91    0.00
+    2  310.40   66.72  147.35   17.67   12.76    0.00   82.35  110.00  148.49  232.41    4.05    0.00    0.08    0.14    4.97     5.85    0.00    0.71    0.00
+    3  174.40    6.76   67.40   14.69    1.52    0.00   80.90   99.88  136.26   89.65    0.00    0.00    0.00    0.00    1.14     0.00    0.00    0.00    0.00
+    4  364.50  112.58  134.58    7.48    8.86    0.00   89.46  100.17  144.80  255.33    0.06    0.00    0.03    0.01    0.36     0.09    0.00    0.01    0.00
+    5  421.40  104.16  197.33    9.45   20.88    0.00   97.76   90.22  126.20  311.63    0.06    0.01    0.17    0.06    0.02     0.11    0.00    0.01    0.00
+    6  230.40   46.90  105.09   10.58    9.02    0.00   94.33   72.19  162.72  163.24    0.04    0.01    0.12    0.06    0.00     0.09    0.00    0.01    0.00
+    7  101.30    2.99   42.43    7.71    1.73    0.00   77.73   71.98  170.07   53.79    0.00    0.00    0.04    0.02    0.02     0.01    0.00    0.00    0.00
+    8  171.70   39.46   72.41    3.97    4.17    0.00   73.64   59.80  172.09  116.40    0.11    0.00    0.12    0.05    0.01     0.29    0.00    0.04    0.00
+    9   30.50    0.00    8.15    1.96    0.00    0.00   65.73   30.25  151.10   10.56    0.00    0.00    0.02    0.00    0.00     0.00    0.00    0.00    0.00
+   10  211.10   30.73   98.14    1.59    5.17    0.00   76.25   66.19  148.16  130.83    0.30    0.00    0.19    0.10    0.00     0.82    0.00    0.10    0.00
+   11  541.90  203.78  218.59    2.76   23.41    0.00   95.90   73.89  148.90  425.44    5.98    0.00    0.39    0.43    0.00    13.25    0.01    1.62    0.00
+   12  597.70  281.20  203.48    8.18   24.25    0.00   99.97   81.19  160.15  493.28   12.27    0.00    0.27    0.44    0.00    13.44    0.01    1.65    0.00
+
+ 2015 3837.80 1127.92 1595.56   98.80  150.43    0.00   99.97  957.16 1807.91 2829.10   35.52    0.03    1.86    2.04    6.52    65.97    0.05    8.07    0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+Annual Summary for Watershed in year   12 of simulation
+
+UNIT                                    PERCO    TILE                           WATER     SED     NO3     NO3     NO3     NO3        N       P       P
+TIME     PREC    SURQ    LATQ     GWQ    LATE       Q     SW       ET     PET   YIELD   YIELD    SURQ    LATQ    PERC    CROP  ORGANIC SOLUBLE ORGANIC TILENO3
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)   (t/ha)  ------------------(kg nutrient/ha)-------------------- (kg/ha)
+    1  122.10    5.28   58.26   13.49    2.97    0.00   76.46   85.54  179.09   77.61    0.31    0.00    0.04    0.05    0.00     0.59    0.00    0.07    0.00
+    2  182.20    7.25   81.85    7.96    2.67    0.00   74.26   92.28  176.52   97.61    0.01    0.00    0.02    0.00    6.25     0.01    0.00    0.00    0.00
+    3  302.60   48.59  126.64    5.51    6.86    0.00   91.03  102.18  136.20  181.26    0.02    0.00    0.01    0.00    1.15     0.03    0.00    0.00    0.00
+    4  986.50  431.24  392.94   10.29   55.81    0.00  102.48   80.35   99.01  835.00    0.11    0.01    0.10    0.06    0.26     0.35    0.02    0.04    0.00
+    5   55.90   13.64   50.06   21.17    4.93    0.00   74.23   32.14  132.64   85.70    0.00    0.00    0.03    0.01    0.01     0.02    0.00    0.00    0.00
+    6    2.60    0.00    0.40   13.35    0.00    0.00   64.68   11.74  133.53   14.55    0.00    0.00    0.01    0.00    0.00     0.00    0.00    0.00    0.00
+    7  132.20   27.07   50.56    4.23    1.36    0.00   78.32   39.58  126.48   82.56    0.04    0.01    0.14    0.02    0.02     0.16    0.00    0.02    0.00
+    8  160.10   10.33   67.39    1.32    2.29    0.00   78.56   79.18  189.60   79.60    0.03    0.00    0.11    0.04    0.01     0.08    0.00    0.01    0.00
+    9  167.20   11.04   73.99    2.35    3.30    0.00   84.28   73.54  114.23   87.82    0.07    0.00    0.12    0.06    0.00     0.21    0.00    0.03    0.00
+   10  159.00    3.69   63.75    2.31    2.35    0.00   86.37   82.65  159.61   70.12    0.04    0.00    0.08    0.05    0.00     0.09    0.00    0.01    0.00
+   11  334.50  104.17  140.68    3.56   10.53    0.00   85.88   84.32  144.97  248.72    1.78    0.00    0.29    0.22    0.00     4.87    0.01    0.60    0.00
+   12  398.80   84.55  191.29    5.46   19.72    0.00   96.24   89.58  134.06  281.64    3.61    0.00    0.34    0.38    0.00     6.80    0.00    0.83    0.00
+
+ 2016 3003.70  746.86 1297.80   91.01  112.78    0.00   96.24  853.09 1725.92 2142.20    6.01    0.03    1.27    0.88    7.71    13.21    0.03    1.62    0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+    FINAL VALUES
+
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+                                            Average Plant Values (kg/ha)
+
+  HRU       1 SUB   1 FRSE  Yld =  5137.6 BIOM =   7339.5
+  HRU       2 SUB   2 FRSE  Yld =  5073.8 BIOM =   7248.2
+  HRU       3 SUB   2 FRSD  Yld =  4105.6 BIOM =   8481.4
+  HRU       4 SUB   3 FRSE  Yld =  4932.7 BIOM =   7046.8
+  HRU       5 SUB   4 FRSE  Yld =  5133.0 BIOM =   7332.9
+  HRU       6 SUB   4 FRSD  Yld =  3769.4 BIOM =   7760.6
+  HRU       7 SUB   5 FRSE  Yld =  4796.7 BIOM =   6852.4
+  HRU       8 SUB   5 FRSE  Yld =  5191.0 BIOM =   7415.7
+  HRU       9 SUB   5 FRSD  Yld =  5099.0 BIOM =  10618.9
+  HRU      10 SUB   5 FRSD  Yld =  3972.9 BIOM =   8196.4
+  HRU      11 SUB   5 FRSD  Yld =  4626.8 BIOM =   9621.9
+  HRU      12 SUB   5 FRSD  Yld =  4449.1 BIOM =   9277.2
+  HRU      13 SUB   6 FRSE  Yld =  4731.7 BIOM =   6759.5
+  HRU      14 SUB   6 FRSE  Yld =  4388.3 BIOM =   6269.0
+  HRU      15 SUB   6 FRSE  Yld =  4577.0 BIOM =   6538.5
+  HRU      16 SUB   6 FRSE  Yld =  4818.4 BIOM =   6883.4
+  HRU      17 SUB   7 FRSE  Yld =  4741.7 BIOM =   6773.8
+  HRU      18 SUB   7 FRSD  Yld =  3892.8 BIOM =   8023.1
+  HRU      19 SUB   8 FRSE  Yld =  2482.4 BIOM =   3546.3
+  HRU      20 SUB   8 FRSE  Yld =  4903.1 BIOM =   7004.4
+  HRU      21 SUB   8 BARR  Yld =     0.0 BIOM =      0.9
+  HRU      22 SUB   8 FRSD  Yld =  4027.9 BIOM =   8322.0
+  HRU      23 SUB   9 FRSE  Yld =  4519.6 BIOM =   6456.5
+  HRU      24 SUB   9 FRSE  Yld =  4746.8 BIOM =   6781.2
+  HRU      25 SUB   9 FRSD  Yld =  4120.1 BIOM =   8522.4
+  HRU      26 SUB  10 FRSE  Yld =  4494.2 BIOM =   6420.2
+  HRU      27 SUB  10 FRSE  Yld =  5160.5 BIOM =   7372.1
+  HRU      28 SUB  10 FRSE  Yld =  4581.1 BIOM =   6544.4
+  HRU      29 SUB  10 FRSE  Yld =  4582.3 BIOM =   6546.1
+  HRU      30 SUB  11 SWCH  Yld = 25493.6 BIOM =  43895.5
+  HRU      31 SUB  11 FRSE  Yld =  4003.8 BIOM =   5719.8
+  HRU      32 SUB  11 FRSE  Yld =  4536.5 BIOM =   6480.7
+  HRU      33 SUB  11 FRSE  Yld =  4078.9 BIOM =   5827.0
+  HRU      34 SUB  11 FRSE  Yld =  4535.7 BIOM =   6479.6
+  HRU      35 SUB  11 FRSE  Yld =  4560.6 BIOM =   6515.2
+  HRU      36 SUB  11 FRSD  Yld =  4448.3 BIOM =   9294.8
+  HRU      37 SUB  11 FRSD  Yld =  3741.2 BIOM =   7700.8
+  HRU      38 SUB  11 FRSD  Yld =  4399.1 BIOM =   9182.7
+  HRU      39 SUB  11 FRSD  Yld =  4439.2 BIOM =   9258.1
+  HRU      40 SUB  11 FRSD  Yld =  3923.4 BIOM =   8086.3
+
+    HRU STATISTICS
+
+                AVE ANNUAL VALUES
+
+   HRU  SUB  SOIL       AREAkm2    CN     AWCmm   USLE_LS  IRRmm  AUTONkh AUTOPkh  MIXEF PRECmm SURQGENmm   GWQmm    ETmm   SEDth  NO3kgh  ORGNkgh BIOMth   YLDth  SURQmm
+      1   1   FAGASA     .726E-01   70.00   97.20    8.22    0.00    0.00    0.00    0.20 3445.52  915.44 1578.84  925.66   23.51    1.69   41.65    7.34    5.14  915.44
+      2   2   FAGASA     .842E-01   70.00   97.20    7.62    0.00    0.00    0.00    0.20 3445.52  924.23 1559.98  929.76   22.63    1.71   41.58    7.25    5.07  924.23
+      3   2   FAGASA     .513E-03   77.00   97.20    9.84    0.00    0.00    0.00    0.20 3445.52 1130.83 1385.19  925.92    5.88    1.42   34.54    8.80    6.16 1130.83
+      4   3   FAGASA     .425E-01   70.00   97.20    6.62    0.00    0.00    0.00    0.20 3445.52  937.58 1536.01  937.07   18.88    1.73   40.95    7.05    4.93  937.58
+      5   4   FAGASA     .642E-01   70.00   97.20    8.17    0.00    0.00    0.00    0.20 3445.52  916.22 1577.24  926.01   23.06    1.69   41.58    7.33    5.13  916.22
+      6   4   FAGASA     .390E-02   77.00   97.20    3.75    0.00    0.00    0.00    0.20 3445.52 1270.76 1164.06  974.75    3.61    1.49   28.34    8.08    5.65 1270.76
+      7   5   AUA        .482E-02   55.00  165.80    3.47    0.00    0.00    0.00    0.20 3445.52  508.69 1829.29 1023.42    2.77    1.15   22.84    6.85    4.80  508.69
+      8   5   FAGASA     .391E-01   70.00   97.20    8.86    0.00    0.00    0.00    0.20 3445.52  905.37 1598.35  921.43   23.07    1.67   41.54    7.42    5.19  905.37
+      9   5   AUA        .410E-03   66.00  165.80    4.84    0.00    0.00    0.00    0.20 3445.52  849.59 1531.83 1017.78    0.91    1.59   10.63   10.93    7.65  849.59
+     10   5   FAGASA     .103E-03   77.00   97.20    5.13    0.00    0.00    0.00    0.20 3445.52 1245.50 1202.70  962.74    2.79    1.51   24.43    8.51    5.96 1245.50
+     11   5   AUA        .103E-03   77.00  165.80    1.93    0.00    0.00    0.00    0.20 3445.52 1363.92  963.15 1045.02    0.55    0.52    7.32    9.91    6.94 1363.92
+     12   5   AUA        .103E-03   77.00  165.80    2.21    0.00    0.00    0.00    0.20 3445.52 1366.57  945.68 1048.43    0.68    0.22    8.74    9.53    6.67 1366.57
+     13   6   AUA        .852E-02   55.00  165.80    3.06    0.00    0.00    0.00    0.20 3445.52  509.11 1825.02 1024.51    2.65    1.09   22.39    6.76    4.73  509.11
+     14   6   FAGASA     .765E-01   70.00   97.20    4.41    0.00    0.00    0.00    0.20 3445.52  961.99 1489.22  954.65   15.56    1.75   40.28    6.27    4.39  961.99
+     15   6   AUA        .103E-03   70.00  165.80    1.85    0.00    0.00    0.00    0.20 3445.52 1037.79 1266.15 1035.67    2.06    0.18   19.96    6.54    4.58 1037.79
+     16   6   AUA        .103E-03   70.00  165.80    1.69    0.00    0.00    0.00    0.20 3445.52 1035.91 1282.81 1032.03    1.80    0.49   18.20    6.88    4.82 1035.91
+     17   7   FAGASA     .425E-01   70.00   97.20    5.65    0.00    0.00    0.00    0.20 3445.52  949.01 1515.39  944.66   16.98    1.75   40.56    6.77    4.74  949.01
+     18   7   FAGASA     .144E-02   77.00   97.20    4.55    0.00    0.00    0.00    0.20 3445.52 1256.61 1186.30  967.89    3.64    1.50   28.43    8.34    5.84 1256.61
+     19   8   FAGASA     .103E-03   70.00   97.20    0.44    0.00    0.00    0.00    0.20 3445.52 1009.09 1327.67  996.46    1.06    0.06   13.04    3.55    2.48 1009.08
+     20   8   FAGASA     .339E-01   70.00   97.20    6.45    0.00    0.00    0.00    0.20 3445.52  939.81 1532.39  938.39   18.03    1.74   40.76    7.00    4.90  939.81
+     21   8   FAGASA     .513E-03   91.00   97.20    3.17    0.00    0.00    0.00    0.20 3445.52 2155.84  446.99  841.44   95.69    1.53   49.34    0.00    0.00 2155.84
+     22   8   FAGASA     .205E-03   77.00   97.20    5.82    0.00    0.00    0.00    0.20 3445.52 1231.86 1226.95  956.92    3.40    1.50   27.31    8.63    6.04 1231.86
+     23   9   AUA        .107E-01   55.00  165.80    2.85    0.00    0.00    0.00    0.20 3445.52  510.54 1809.86 1027.86    2.68    0.88   22.63    6.46    4.52  510.54
+     24   9   FAGASA     .108E-01   70.00   97.20    5.65    0.00    0.00    0.00    0.20 3445.52  949.01 1515.42  944.61   14.39    1.76   39.66    6.78    4.75  949.01
+     25   9   FAGASA     .205E-03   77.00   97.20    8.51    0.00    0.00    0.00    0.20 3445.52 1162.34 1341.90  933.76    4.60    1.44   31.43    8.83    6.18 1162.34
+     26  10   AUA        .698E-02   55.00  165.80    2.63    0.00    0.00    0.00    0.20 3445.52  510.73 1807.89 1028.30    2.36    0.85   21.18    6.42    4.49  510.73
+     27  10   FAGASA     .246E-02   70.00   97.20    8.38    0.00    0.00    0.00    0.20 3445.52  913.14 1583.65  924.56   15.88    1.70   39.87    7.37    5.16  913.14
+     28  10   AUA        .821E-03   70.00  165.80    2.80    0.00    0.00    0.00    0.20 3445.52 1037.56 1268.30 1035.24    4.11    0.21   28.31    6.54    4.58 1037.56
+     29  10   AUA        .513E-03   70.00  165.80    2.73    0.00    0.00    0.00    0.20 3445.52 1037.58 1268.14 1035.27    3.78    0.21   27.31    6.55    4.58 1037.58
+     30  11   AUA        .923E-03   59.00  165.80    3.88    0.00  140.18    0.00    0.20 3445.52  599.60 1704.28 1065.14    0.09    9.48    1.39   39.18   25.49  599.61
+     31  11   AUA        .205E-03   55.00  165.80    0.30    0.00    0.00    0.00    0.20 3445.52  515.40 1757.21 1036.65    0.16    0.03    2.40    5.72    4.00  515.40
+     32  11   AUA        .728E-02   55.00  165.80    2.97    0.00    0.00    0.00    0.20 3445.52  510.43 1810.83 1027.59    2.66    0.89   22.53    6.48    4.54  510.43
+     33  11   FAGASA     .118E-01   70.00   97.20    3.56    0.00    0.00    0.00    0.20 3445.52  969.39 1471.68  961.65   10.90    1.73   38.40    5.83    4.08  969.39
+     34  11   AUA        .103E-03   70.00  165.80    0.35    0.00    0.00    0.00    0.20 3445.52 1039.34 1259.11 1036.87    0.32    0.06    4.65    6.48    4.54 1039.33
+     35  11   AUA        .718E-03   70.00  165.80    1.39    0.00    0.00    0.00    0.20 3445.52 1038.02 1264.79 1035.90    2.00    0.15   19.68    6.52    4.56 1038.02
+     36  11   AUA        .257E-02   66.00  165.80    3.15    0.00    0.00    0.00    0.20 3445.52  867.16 1467.33 1039.14    1.00    1.01   11.75    9.53    6.67  867.16
+     37  11   FAGASA     .154E-02   77.00   97.20    3.56    0.00    0.00    0.00    0.20 3445.52 1273.90 1158.81  976.16    3.10    1.50   26.13    8.02    5.61 1273.90
+     38  11   AUA        .205E-03   77.00  165.80    0.27    0.00    0.00    0.00    0.20 3445.52 1368.32  937.16 1049.76    0.06    0.09    1.05    9.43    6.60 1368.28
+     39  11   AUA        .123E-02   77.00  165.80    2.11    0.00    0.00    0.00    0.20 3445.52 1366.61  945.47 1048.42    0.97    0.22   11.62    9.51    6.66 1366.61
+     40  11   FAGASA     .103E-03   77.00   97.20    4.66    0.00    0.00    0.00    0.20 3445.52 1254.47 1189.57  966.78    2.60    1.52   23.43    8.41    5.89 1254.47
+
+
+
+                AVE MONTHLY BASIN VALUES
+                   SNOW                      WATER               SED
+  MON     RAIN     FALL   SURF Q    LAT Q    YIELD       ET    YIELD      PET
+          (MM)     (MM)     (MM)     (MM)     (MM)     (MM)   (T/HA)     (MM)
+    1   482.70     0.00   141.78   223.94   378.89    93.03     6.99   144.52
+    2   253.79     0.00    48.25   121.24   183.75    95.03     2.14   147.78
+    3   198.40     0.00    23.45    78.88   113.73   104.39     0.01   138.73
+    4   514.13     0.00   162.30   209.26   379.26    89.75     0.06   122.01
+    5   208.30     0.00    40.25   105.65   157.04    69.59     0.02   133.51
+    6   184.15     0.00    45.48    77.32   132.21    57.40     0.05   130.82
+    7   302.85     0.00   122.88    98.75   228.06    63.13     0.24   127.84
+    8   228.95     0.00    55.41   101.75   163.27    71.44     0.26   152.29
+    9   118.50     0.00     9.81    48.87    63.82    60.94     0.10   138.36
+   10   173.78     0.00    24.59    70.69    98.90    69.42     0.41   162.00
+   11   347.38     0.00    97.46   148.27   249.43    80.94     2.55   144.65
+   12   439.18     0.00   138.49   182.28   327.41    91.50     5.60   146.86
+
+     AVE ANNUAL BASIN STRESS DAYS
+               WATER STRESS DAYS =     1.55
+               TEMPERATURE STRESS DAYS =     0.08
+               NITROGEN STRESS DAYS =    11.14
+               PHOSPHORUS STRESS DAYS =     0.01
+               AERATION STRESS DAYS =     0.00
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+         AVE ANNUAL BASIN VALUES
+
+              PRECIP =   3445.5 MM
+              SNOW FALL =    0.00 MM
+              SNOW MELT =     0.00 MM
+              SUBLIMATION =     0.00 MM
+              SURFACE RUNOFF Q =   908.91 MM
+              LATERAL SOIL Q = 1463.77 MM
+              TILE Q =     0.00 MM
+              GROUNDWATER (SHAL AQ) Q =    91.89 MM
+              GROUNDWATER (DEEP AQ) Q =     6.46 MM
+              REVAP (SHAL AQ => SOIL/PLANTS) =   33.68 MM
+              DEEP AQ RECHARGE =     6.30 MM
+              TOTAL AQ RECHARGE =  125.97 MM
+              TOTAL WATER YLD =  2471.03 MM
+              PERCOLATION OUT OF SOIL =  127.19 MM
+              ET =    944.1 MM
+              PET =   1685.6MM
+              TRANSMISSION LOSSES =     0.00 MM
+              SEPTIC INFLOW =       0.00 MM
+              TOTAL SEDIMENT LOADING =     18.36 T/HA
+              TILE FROM IMPOUNDED WATER =     0.000 (MM)
+              EVAPORATION FROM IMPOUNDED WATER =     0.000 (MM)
+              SEEPAGE INTO SOIL FROM IMPOUNDED WATER =    0.000 (MM)
+              OVERFLOW FROM IMPOUNDED WATER =    0.000 (MM)
+1
+    SWAT Dec 23 2016    VER 2016/Rev 664                                            
+
+    General Input/Output section (file.cio):                                        
+    2/11/2020 16:50:08 QSWAT Workflow v1.5.2                                        
+                                                                                    
+              AVE ANNUAL BASIN VALUES
+
+
+              NUTRIENTS
+                   ORGANIC N =    39.099 (KG/HA)
+                   ORGANIC P =     4.782 (KG/HA)
+                   NO3 YIELD (SQ) =     0.035 (KG/HA)
+                   NO3 YIELD (LAT) =    1.621 (KG/HA)
+                   NO3 YIELD (TILE) =    0.000 (KG/HA)
+                   SOLP YIELD (TILE) =    0.000(KG/HA)
+                   SOLP YIELD (SURF INLET RISER) =    0.000 (KG/HA)
+                   SOL P YIELD =    0.043 (KG/HA)
+                   NO3 LEACHED =     1.507 (KG/HA)
+                   P LEACHED =     0.055 (KG/HA)
+                   N UPTAKE =     6.966 (KG/HA)
+                   P UPTAKE =    1.702 (KG/HA)
+                   NO3 YIELD (GWQ) =     0.019 (KG/HA)
+                   ACTIVE TO SOLUTION P FLOW =         0.268 (KG/HA)
+                   ACTIVE TO STABLE P FLOW =         0.619 (KG/HA)
+                   N FERTILIZER APPLIED =     0.242 (KG/HA)
+                   P FERTILIZER APPLIED =     0.000 (KG/HA)
+                   N FIXATION =     0.000 (KG/HA)
+                   DENITRIFICATION =     0.000 (KG/HA)
+                   HUMUS MIN ON ACTIVE ORG N =    12.356 (KG/HA)
+                   ACTIVE TO STABLE ORG N =   -10.667 (KG/HA)
+                   HUMUS MIN ON ACTIVE ORG P =    2.108 (KG/HA)
+                   MIN FROM FRESH ORG N =    1.198 (KG/HA)
+                   MIN FROM FRESH ORG P =    0.295 (KG/HA)
+                   NO3 IN RAINFALL =     0.000 (KG/HA)
+                   INITIAL NO3 IN SOIL =      37.103 (KG/HA)
+                   FINAL NO3 IN SOIL =         5.290 (KG/HA)
+                   INITIAL ORG N IN SOIL =   11541.572 (KG/HA)
+                   FINAL ORG N IN SOIL =     10661.726 (KG/HA)
+                   INITIAL MIN P IN SOIL =    1820.293 (KG/HA)
+                   FINAL MIN P IN SOIL =      1755.432 (KG/HA)
+                   INITIAL ORG P IN SOIL =    1413.843 (KG/HA)
+                   FINAL ORG P IN SOIL =    1298.566 (KG/HA)
+                   NO3 IN FERT =     0.242 (KG/HA)
+                   AMMONIA IN FERT =     0.000 (KG/HA)
+                   ORG N IN FERT =     0.000 (KG/HA)
+                   MINERAL P IN FERT =     0.000 (KG/HA)
+                   ORG P IN FERT =     0.000 (KG/HA)
+                   N REMOVED IN YIELD =     5.555 (KG/HA)
+                   P REMOVED IN YIELD =     1.359 (KG/HA)
+                   AMMONIA VOLATILIZATION =     0.000 (KG/HA)
+                   AMMONIA NITRIFICATION =      0.000 (KG/HA)
+                   NO3 EVAP-LAYER 2 TO 1 =    2.957
+
+                   DIE-GRO P Q =           0.0 (No/M2)
+                   DIE-GRO LP Q =           0.0 (No/M2)
+                   DIE-GRO P SED =          0.0 (No/M2)
+                   DIE-GRO LP SED =          0.0 (No/M2)
+                   BACT P RUNOFF =          0.0 (No/M2)
+                   BACT LP RUNOFF =          0.0 (No/M2)
+                   BACT P SEDIMENT =          0.0 (No/M2)
+                   BACT LP SEDIMENT =          0.0 (No/M2)
+                   BACT P INCORP =          0.0 (No/M2)
+                   BACT LP INCORP =          0.0 (No/M2)
+
+                   NITRATE SEPTIC =         0.00 (kg/ha)
+                   AMMONIA SEPTIC =         0.00 (kg/ha)
+                   ORG N SEPTIC =         0.00 (kg/ha)
+                   FRESH ORGN SEPTIC =         0.00 (kg/ha)
+                   ORG P SEPTIC =         0.00 (kg/ha)
+                   FRESH ORGP SEPTIC =         0.00 (kg/ha)
+                   SOL P SEPTIC =         0.00 (kg/ha)
+                   BOD SEPTIC =         0.00 (kg/ha)

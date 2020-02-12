@@ -1,4 +1,4 @@
- .sep file Watershed HRU:21 Subbasin:10 HRU:2 Luse:FRSE Soil: FAGASA Slope: 3.0-9999 2/7/2020 21:40:54 QSWAT Workflow v1.5.2
+ .sep file Watershed HRU:20 Subbasin:10 HRU:2 Luse:FRSE Soil: FAGASA Slope: 3.0-9999 2/11/2020 16:51:47 QSWAT Workflow v1.5.2
 
             1    | ISEP_TYP : The type of septic system
             0    | ISEP_IYR :  Year the septic system began operation

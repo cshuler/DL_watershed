@@ -1,9 +1,9 @@
- .sub file Subbasin: 11 2/7/2020 21:51:47 QSWAT Workflow v1.5.2
-       66.570000    | SUB_KM : Subbasin area [km2]
+ .sub file Subbasin: 11 2/11/2020 16:50:07 QSWAT Workflow v1.5.2
+        0.026677    | SUB_KM : Subbasin area [km2]
 
 Climate in subbasin
-       33.001049    | LATITUDE : Latitude of subbasin [degrees]
-          148.83    | ELEV : Elevation of subbasin [m]
+      -14.267774    | LATITUDE : Latitude of subbasin [degrees]
+           31.37    | ELEV : Elevation of subbasin [m]
                1    | IRGAGE: precip gage data used in subbasin
                1    | ITGAGE: temp gage data used in subbasin
                1    | ISGAGE: solar radiation gage data used in subbasin
@@ -22,9 +22,9 @@ Elevation Bands
            0.000    | TLAPS : Temperature lapse rate [deg C/km]
            0.000    | SNO_SUB : Initial snow water content [mm]
 Tributary Channels
-          19.654    | CH_L1 : Longest tributary channel length [km]
-           0.002    | CH_S1 : Average slope of tributary channel [m/m]
-          16.016    | CH_W1 : Average width of tributary channel [m]
+           0.276    | CH_L1 : Longest tributary channel length [km]
+           0.211    | CH_S1 : Average slope of tributary channel [m/m]
+           0.147    | CH_W1 : Average width of tributary channel [m]
            0.000    | CH_K1 : Effective hydraulic conductivity in tributary channel [mm/hr]
            0.014    | CH_N1 : Manning's 'n' value for the tributary channels
 Impoundments
@@ -50,7 +50,7 @@ Climate Change
 | HUMINC: Climate change monthly humidity adjustment (July - December)
    0.000   0.000   0.000   0.000   0.000   0.000
 | HRU data
-              13    | HRUTOT : Total number of HRUs modeled in subbasin
+              11    | HRUTOT : Total number of HRUs modeled in subbasin
 
 HRU: Depressional Storage/Pothole
 
@@ -70,5 +70,3 @@ HRU: General
 000110009.hru000110009.mgt000110009.sol000110009.chm 000110009.gw             000110009.sep
 000110010.hru000110010.mgt000110010.sol000110010.chm 000110010.gw             000110010.sep
 000110011.hru000110011.mgt000110011.sol000110011.chm 000110011.gw             000110011.sep
-000110012.hru000110012.mgt000110012.sol000110012.chm 000110012.gw             000110012.sep
-000110013.hru000110013.mgt000110013.sol000110013.chm 000110013.gw             000110013.sep

@@ -24,3 +24,8 @@ Nuuuli Watershed            |  Maloata Watershed
 Fagasa Watershed            |  Vaipito Watershed
 :-------------------------:|:-------------------------:
 ![](/Q_SWAT_workflow_testing/6_Fagasa/model/Fagasa_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/8_vaipito/model/Vaipito_2/Figures/WYLD_2015.png)
+
+
+Leone Watershed            |  Fagasa Watershed
+:-------------------------:|:-------------------------:
+![](/Q_SWAT_workflow_testing/4_Leone/model/Leone_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/7_Fagaitua/model/Fagaitua_2/Figures/WYLD_2015.png)

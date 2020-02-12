@@ -1,9 +1,9 @@
- .sub file Subbasin: 9 2/7/2020 21:40:55 QSWAT Workflow v1.5.2
-        0.033038    | SUB_KM : Subbasin area [km2]
+ .sub file Subbasin: 9 2/11/2020 16:51:48 QSWAT Workflow v1.5.2
+        0.048839    | SUB_KM : Subbasin area [km2]
 
 Climate in subbasin
-      -14.297482    | LATITUDE : Latitude of subbasin [degrees]
-          247.21    | ELEV : Elevation of subbasin [m]
+      -14.297929    | LATITUDE : Latitude of subbasin [degrees]
+          323.09    | ELEV : Elevation of subbasin [m]
                1    | IRGAGE: precip gage data used in subbasin
                1    | ITGAGE: temp gage data used in subbasin
                1    | ISGAGE: solar radiation gage data used in subbasin
@@ -22,9 +22,9 @@ Elevation Bands
            0.000    | TLAPS : Temperature lapse rate [deg C/km]
            0.000    | SNO_SUB : Initial snow water content [mm]
 Tributary Channels
-           0.314    | CH_L1 : Longest tributary channel length [km]
-           0.381    | CH_S1 : Average slope of tributary channel [m/m]
-           0.167    | CH_W1 : Average width of tributary channel [m]
+           0.599    | CH_L1 : Longest tributary channel length [km]
+           0.419    | CH_S1 : Average slope of tributary channel [m/m]
+           0.211    | CH_W1 : Average width of tributary channel [m]
            0.000    | CH_K1 : Effective hydraulic conductivity in tributary channel [mm/hr]
            0.014    | CH_N1 : Manning's 'n' value for the tributary channels
 Impoundments
@@ -50,7 +50,7 @@ Climate Change
 | HUMINC: Climate change monthly humidity adjustment (July - December)
    0.000   0.000   0.000   0.000   0.000   0.000
 | HRU data
-               2    | HRUTOT : Total number of HRUs modeled in subbasin
+               1    | HRUTOT : Total number of HRUs modeled in subbasin
 
 HRU: Depressional Storage/Pothole
 
@@ -60,4 +60,3 @@ HRU: Riparian
 
 HRU: General
 000090001.hru000090001.mgt000090001.sol000090001.chm 000090001.gw             000090001.sep
-000090002.hru000090002.mgt000090002.sol000090002.chm 000090002.gw             000090002.sep

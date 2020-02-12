@@ -1,12 +1,16 @@
 2-6-2020
 
-- add somewhere: need to tap into the c:python27 folder (whatever python QGIS runs) and update some packages: 
+Notes to make Qswat Run on a computer: 
+Need to tap into the c:python27 folder (whatever python QGIS runs) and update some packages: 
 get into the folder and use both: 
 C:\Python27>python -m pip install enum34
 C:\Python27>python -m pip install -U matplotlib
 
+refs:
+https://stackoverflow.com/questions/33193374/how-do-i-run-pip-on-python-for-windows
+https://stackoverflow.com/questions/44623376/importerror-cannot-import-name-cbook
 
-- once run, script up a way to symbolize Subbasins with one of the SWAT Variables to show how much flow comes from each sub basin. 
+Also note that I had to increase the subbasin threshold (in namelist.py) to 1400 in Leone and reduce it to 300 in Fagaitua to get them to run.
 
 
 Status and steps

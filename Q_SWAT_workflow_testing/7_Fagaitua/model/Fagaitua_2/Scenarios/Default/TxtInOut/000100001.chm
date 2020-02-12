@@ -1,4 +1,4 @@
- .chm file Watershed HRU:100 Subbasin:10 HRU:1 Luse:RNGE Soil: TX620 Slope: 0-5.0 2/7/2020 21:51:39 QSWAT Workflow v1.5.2
+ .chm file Watershed HRU:26 Subbasin:10 HRU:1 Luse:FRSE Soil: AUA Slope: 3.0-9999 2/11/2020 16:50:03 QSWAT Workflow v1.5.2
 Soil Nutrient Data
  Soil Layer               :           1           2           3           4           5           6           7           8           9          10
  Soil NO3 [mg/kg]         :        0.00        0.00        0.00        0.00        0.00        0.00        0.00        0.00        0.00        0.00

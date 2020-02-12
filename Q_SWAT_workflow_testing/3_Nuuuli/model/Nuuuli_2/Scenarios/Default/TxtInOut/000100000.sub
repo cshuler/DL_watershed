@@ -1,9 +1,9 @@
- .sub file Subbasin: 10 2/7/2020 21:40:55 QSWAT Workflow v1.5.2
-        0.090496    | SUB_KM : Subbasin area [km2]
+ .sub file Subbasin: 10 2/11/2020 16:51:48 QSWAT Workflow v1.5.2
+        0.053661    | SUB_KM : Subbasin area [km2]
 
 Climate in subbasin
-      -14.297586    | LATITUDE : Latitude of subbasin [degrees]
-          264.32    | ELEV : Elevation of subbasin [m]
+      -14.298866    | LATITUDE : Latitude of subbasin [degrees]
+          308.48    | ELEV : Elevation of subbasin [m]
                1    | IRGAGE: precip gage data used in subbasin
                1    | ITGAGE: temp gage data used in subbasin
                1    | ISGAGE: solar radiation gage data used in subbasin
@@ -22,9 +22,9 @@ Elevation Bands
            0.000    | TLAPS : Temperature lapse rate [deg C/km]
            0.000    | SNO_SUB : Initial snow water content [mm]
 Tributary Channels
-           0.797    | CH_L1 : Longest tributary channel length [km]
-           0.342    | CH_S1 : Average slope of tributary channel [m/m]
-           0.305    | CH_W1 : Average width of tributary channel [m]
+           0.618    | CH_L1 : Longest tributary channel length [km]
+           0.409    | CH_S1 : Average slope of tributary channel [m/m]
+           0.223    | CH_W1 : Average width of tributary channel [m]
            0.000    | CH_K1 : Effective hydraulic conductivity in tributary channel [mm/hr]
            0.014    | CH_N1 : Manning's 'n' value for the tributary channels
 Impoundments

@@ -12,3 +12,4 @@ dependencies:
   - rasterio
   - fiona
   - gdal
+  - pyodbc

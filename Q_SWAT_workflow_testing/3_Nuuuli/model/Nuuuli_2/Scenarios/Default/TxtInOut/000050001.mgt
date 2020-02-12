@@ -1,4 +1,4 @@
- .mgt file Watershed HRU:11 Subbasin:5 HRU:1 Luse:FRSE Soil: FAGASA Slope: 0-1.0 2/7/2020 21:40:54 QSWAT Workflow v1.5.2
+ .mgt file Watershed HRU:6 Subbasin:5 HRU:1 Luse:FRSE Soil: FAGASA Slope: 1.0-3.0 2/11/2020 16:51:47 QSWAT Workflow v1.5.2
                0    | NMGT:Management code
 Initial Plant Growth Parameters
                0    | IGRO: Land cover status: 0-none growing; 1-growing

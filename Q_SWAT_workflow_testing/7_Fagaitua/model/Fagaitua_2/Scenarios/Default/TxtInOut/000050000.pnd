@@ -1,4 +1,4 @@
- .Pnd file Subbasin: 5 2/7/2020 21:51:45 QSWAT Workflow v1.5.2
+ .Pnd file Subbasin: 5 2/11/2020 16:50:07 QSWAT Workflow v1.5.2
 Pond inputs:
            0.000    | PND_FR : Fraction of subbasin area that drains into ponds. The value for PND_FR should be between 0.0 and 1.0. If PND_FR = 1.0, the pond is at the outlet of the subbasin on the main channel
            5.000    | PND_PSA: Surface area of ponds when filled to principal spillway [ha]

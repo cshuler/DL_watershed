@@ -1,4 +1,4 @@
- .gw file Watershed HRU:101 Subbasin:10 HRU:2 Luse:RNGE Soil: TX633 Slope: 0-5.0 2/7/2020 21:51:41 QSWAT Workflow v1.5.2
+ .gw file Watershed HRU:27 Subbasin:10 HRU:2 Luse:FRSE Soil: FAGASA Slope: 3.0-9999 2/11/2020 16:50:03 QSWAT Workflow v1.5.2
        1000.0000    | SHALLST : Initial depth of water in the shallow aquifer [mm]
        2000.0000    | DEEPST : Initial depth of water in the deep aquifer [mm]
          31.0000    | GW_DELAY : Groundwater delay [days]
