@@ -15,17 +15,17 @@ Watershed models, such as the Soil & Water Assessment Tool (SWAT) are industry s
 
 Fagaalu Watershed            |  Afono Watershed
 :-------------------------:|:-------------------------:
-![](/Q_SWAT_workflow_testing/1_fagaalu/model/Fagaalu_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/2_Afono/model/Afono_2/Figures/WYLD_2015.png)
+![](/SWAT_model_Create/Fagaalu/model/Fagaalu/Figures/WYLD_2013.png)  |  ![](/SWAT_model_Create/Afono/model/Afono/Figures/WYLD_2013.png)
 
 Nuuuli Watershed            |  Maloata Watershed
 :-------------------------:|:-------------------------:
-![](/Q_SWAT_workflow_testing/3_Nuuuli/model/Nuuuli_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/5_Maloata/model/Maloata_2/Figures/WYLD_2015.png)
+![](/SWAT_model_Create/Nuuuli/model/Nuuuli/Figures/WYLD_2013.png)  |  ![](/SWAT_model_Create/Maloata/model/Maloata/Figures/WYLD_2013.png)
 
 Fagasa Watershed            |  Vaipito Watershed
 :-------------------------:|:-------------------------:
-![](/Q_SWAT_workflow_testing/6_Fagasa/model/Fagasa_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/8_vaipito/model/Vaipito_2/Figures/WYLD_2015.png)
+![](/SWAT_model_Create/Fagasa/model/Fagasa/Figures/WYLD_2013.png)  |  ![](/SWAT_model_Create/Vaipito/model/Vaipito/Figures/WYLD_2013.png)
 
 
 Leone Watershed            |  Fagasa Watershed
 :-------------------------:|:-------------------------:
-![](/Q_SWAT_workflow_testing/4_Leone/model/Leone_2/Figures/WYLD_2015.png)  |  ![](Q_SWAT_workflow_testing/7_Fagaitua/model/Fagaitua_2/Figures/WYLD_2015.png)
+![](/SWAT_model_Create/Leone/model/Leone/Figures/WYLD_2013.png)  |  ![](/SWAT_model_Create/Fagasa/model/Fagasa/Figures/WYLD_2013.png)
