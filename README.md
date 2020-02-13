@@ -1,7 +1,7 @@
-# Deep Learning to attempt a phenominoligical Watershed Model 
+# Using Deep Learning to Test the Boundaries of Physically Based and Phenominoligical Watershed Models 
  #### Using machine learning to break the boundaries of physically based watershed models
 
-Note this project is totally in progress and is super preliminary!
+Note this project is totally in progress and everything here is super preliminary!
 
 ### Premise 
 Watershed models, such as the Soil & Water Assessment Tool (SWAT) are industry standard tools for providing quantitative estimates of water, nutrient, and sediment outflows in streams, assessing impacts to watersheds from environmental changes, and estimating components of the water budget, such as surface runoff and baseflow discharge. Traditional watershed models are physically-based models, meaning they are founded upon the mathematical equations that we have developed to understand natural processes around us. However, natural systems are inherently complicated, and if our conceptual models are over-simplified, physically-based models may yield less than satisfactory results; often producing the right answers, but for the wrong reasons. Conversely, deep neural networks, a form of machine learning, have recently become a popular way to solve problems where the exact mathematical relationships between inputs and outputs have not been constrained by our presuppositions of the world. Neural networks have been widely applied to develop tools and empirical models of everything from optimizing groundwater management to predicting the stock market. In this study, we test the hypothesis that a neural network, provided with the same input information as provided to a physically based watershed model, can yield predictions of output parameters with a higher degree of certainty than can be produced by, specifically a SWAT watershed model. Preliminary results indicate that deep learning technology is promising and if provided with enough input data, can produce meaningful results. This frontier in computing has significant potential to supplement the water manager’s existing toolkit, and someday could even replace physically based models, though we are likely a ways off. 
@@ -47,3 +47,6 @@ Note that currently the same weather database is provided to each of the models.
 <p align="center">
   <img width="900" height="400" src=/Figures/SWAT_model/SWAT_flow_ALL_Closeup.jpg >
 </p>
+
+Note, we need to give a huge shout out to Celray James CHAWANDA, and Chris GEORGE for sharing the QSWAT_Automated_Workflow v1.5.8!
+See: https://github.com/VUB-HYDR/QSWAT_Automated_Workflow
