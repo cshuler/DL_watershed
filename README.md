@@ -29,3 +29,18 @@ Fagasa Watershed            |  Vaipito Watershed
 Leone Watershed            |  Fagasa Watershed
 :-------------------------:|:-------------------------:
 ![](/SWAT_model_Create/Leone/model/Leone/Figures/WYLD_2013.png)  |  ![](/SWAT_model_Create/Fagasa/model/Fagasa/Figures/WYLD_2013.png)
+
+
+### Daily hydrographs from all watersheds stacked into one plot. 
+Note that currently the same weather database is provided to each of the models. Differences arise based only on the different topographic, land use, and soil characteristics of each watershed. Future calibration scripts will ultimately change this regularity. 
+
+
+
+<p align="center">
+  <img width="900" height="400" src=/Figures/SWAT_model/SWAT_flow_ALL.jpg >
+</p>
+
+### Close up of above graph to see differences between each watershed 
+<p align="center">
+  <img width="900" height="400" src=/Figures/SWAT_model/SWAT_flow_ALL_Closeup.jpg >
+</p>
